@@ -7,7 +7,7 @@
 	#
 	#Enable/disable biome fog density, set this to false if you don't want thick fog in certain biomes.
 	#Default value: true
-	fogDensityEnabled = false
+	fogDensityEnabled = true
 	#
 	#Enable/disable background music blending between biomes.
 	#Default value: true
