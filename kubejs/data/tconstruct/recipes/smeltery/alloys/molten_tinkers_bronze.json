@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "tconstruct:molten_copper",
+      "amount": 432
+    },
+    {
+      "name": "tconstruct:molten_tin",
+      "amount": 1000
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_tinkers_bronze",
+    "amount": 576
+  },
+  "temperature": 700
+}

@@ -1,0 +1,11 @@
+*.jar
+*.fsh
+*.vsh
+*.glsl
+*.lang
+*.abc
+*.local
+shaderpacks/
+worldedit_wand.png
+servers.dat
+mods/clef

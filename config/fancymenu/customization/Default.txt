@@ -1,0 +1,154 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = friendly_mushroom
+  action = animatebackground
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = 1
+  width = 98
+  actionid = 7df0f78a-28cb-4e7a-8fee-07b8084b87c41623412752376
+  action = addbutton
+  y = 4
+  label = Website
+  value = https://NathanLithia.github.io
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = 101
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=400322%
+  width = 20
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = MP
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttondescription
+  description = Multiplayer
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -121
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=400298%
+  width = 20
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = SP
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttondescription
+  description = Singleplayer
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -99
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = mid-centered
+  x = 101
+  action = movebutton
+  y = 26
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -99
+  action = movebutton
+  y = 26
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 1
+  action = movebutton
+  y = 26
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-centered
+  x = -121
+  action = movebutton
+  y = 26
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = joinserver
+  x = -99
+  width = 220
+  actionid = 5918be83-a424-4dd8-8128-97b5929ebb681623412752384
+  action = addbutton
+  y = -18
+  label = Connect To Primary Server
+  value = thecloudserver.duckdns.org:25565
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = joinserver
+  x = -121
+  width = 20
+  actionid = 2a344f7a-f4ec-4b66-8ba6-14a2bdd8104b1623412752391
+  action = addbutton
+  y = -18
+  description = Development Server
+  label = S2
+  value = NathanLithia.duckdns.org:25565
+  height = 20
+}
+
