@@ -15,9 +15,9 @@
 		#Loads Twemojis used in sites like Twitter and Discord
 		twemoji = true
 		#Loads custom emojis provided by Emojiful
-		custom = true
+		custom = false
 		#Loads datapack emojis provided by the server you join
-		datapack = true
+		datapack = false
 
 [ProfanityFilter]
 	#Enable Profanity Filter, this will replace bad words with emoji
