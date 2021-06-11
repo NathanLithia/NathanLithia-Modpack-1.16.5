@@ -1,6 +1,5 @@
 warps | listwarps
 homes | listhomes
-i | give @s
 admin | ftbchunks admin bypass_protection
 gma | gamemode adventure
 gmc | gamemode creative
@@ -9,4 +8,3 @@ exp | experience
 deaths | deathhistory @s
 setspawn | setworldspawn
 hand | kubejs hand
-killall | kill @a
