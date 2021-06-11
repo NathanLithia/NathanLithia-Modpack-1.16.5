@@ -8,3 +8,4 @@ exp | experience
 deaths | deathhistory @s
 setspawn | setworldspawn
 hand | kubejs hand
+ranks | ftbranks list_all_ranks
