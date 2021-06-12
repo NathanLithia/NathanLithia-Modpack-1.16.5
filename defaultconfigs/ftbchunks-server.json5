@@ -4,11 +4,11 @@
 	/* Max claimed chunks.
 	   You can override this with FTB Ranks 'ftbchunks.max_claimed' permission
 	*/
-	"maxClaimedChunks": 500,
+	"maxClaimedChunks": 1000,
 	/* Max force loaded chunks.
 	   You can override this with FTB Ranks 'ftbchunks.max_force_loaded' permission
 	*/
-	"maxForceLoadedChunks": 25,
+	"maxForceLoadedChunks": 9,
 	// Allow players to load chunks while they are offline
 	"chunkLoadOffline": false,
 	// Disables all land protection. Useful for private servers where everyone is trusted and claims are only used for forceloading
