@@ -690,7 +690,7 @@
 		poison_chance = 0.05
 
 	[[drink_options.drink_entries]]
-		location = "pamhc2foodextended:passonfruitsmoothieitem"
+		location = "pamhc2foodextended:passionfruitsmoothieitem"
 		thirst = 2
 		hydration = 0.2
 		poison_chance = 0.05
