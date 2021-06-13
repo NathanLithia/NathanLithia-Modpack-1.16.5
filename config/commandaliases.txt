@@ -9,3 +9,5 @@ deaths | deathhistory @s
 setspawn | setworldspawn
 hand | kubejs hand
 ranks | ftbranks list_all_ranks
+day | time set day
+night | time set night
