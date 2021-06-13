@@ -34,20 +34,20 @@
 
 	[[drink_options.drink_entries]]
 		location = "toughasnails:purified_water_bottle"
-		thirst = 3
-		hydration = 0.4
+		thirst = 4
+		hydration = 0.5
 		poison_chance = 0.0
 
 	[[drink_options.drink_entries]]
 		location = "toughasnails:purified_water_canteen"
-		thirst = 3
-		hydration = 0.4
+		thirst = 4
+		hydration = 0.5
 		poison_chance = 0.0
 
 	[[drink_options.drink_entries]]
 		location = "toughasnails:water_canteen"
-		thirst = 2
-		hydration = 0.2
+		thirst = 3
+		hydration = 0.3
 		poison_chance = 0.25
 
 [biome_options]
