@@ -14,12 +14,12 @@
 	"Combine Entries" = true
 	#Amount of ticks each entry will be shown for. Set to 0 to only remove entries when space for new ones is needed.
 	#Range: > 0
-	"Display Time" = 80
+	"Display Time" = 240
 	#Make outdated entries slowly move out of the screen instead of disappearing in place.
 	"Move Out Of Screen" = true
 	#Amount of ticks it takes for an entry to move out of the screen. Value cannot be larger than "Display Time".
 	#Range: > 0
-	"Move Time" = 20
+	"Move Time" = 60
 	#Make outdated entry names slowly fade away instead of simply vanishing.
 	"Fade Away" = true
 	#Maximum count number displayed. Setting this to 0 will prevent the count from being displayed at all.
