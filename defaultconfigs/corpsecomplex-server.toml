@@ -150,7 +150,7 @@
 	[inventory.cosmetic_armor]
 		#Percent chance to keep cosmetic armor item
 		#Range: -1.0 ~ 1.0
-		cosmeticArmorKeepChance = -1.0
+		cosmeticArmorKeepChance = 1.0
 		#Percent chance to destroy dropped cosmetic armor item
 		#Range: -1.0 ~ 1.0
 		cosmeticArmorDestroyChance = -1.0
@@ -194,7 +194,7 @@
 	#Set to true to allow this enchantment to be found in villager trades
 	isVillagerTrade = false
 	#Set to true to allow this enchantment to be found in loot chests
-	isLootable = false
+	isLootable = true
 
 [effects]
 	#List of valid items to cure curable effects
