@@ -136,7 +136,7 @@
 	[inventory.curios]
 		#Percent chance to keep curio item
 		#Range: -1.0 ~ 1.0
-		curioKeepChance = -1.0
+		curioKeepChance = 1.0
 		#Percent chance to destroy dropped curio item
 		#Range: -1.0 ~ 1.0
 		curioDestroyChance = -1.0
