@@ -10488,24 +10488,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 296686,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": null,
-      "dateInstalled": "2021-03-23T21:26:24.8644082Z",
-      "dateUpdated": "2021-05-20T13:58:52.8496286Z",
-      "dateLastUpdateAttempted": "2021-05-20T13:58:52.8496286Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 248787,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
