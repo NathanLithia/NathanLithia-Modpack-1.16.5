@@ -18,7 +18,7 @@
 		#This restricts torches to be placed from the offhand only when you're holding a tool in your main hand.
 		offhandTorchWithToolOnly = false
 		#This option will hide your offhand item. It can be toggled via an optional key binding.
-		hideOffhandItem = false
+		hideOffhandItem = true
 		#This option will hide your own potion particle effects for your client (other players will still see them).
 		hideOwnParticleEffects = false
 		#This adds back the master volume slider to the options screen. Saves you a click!
