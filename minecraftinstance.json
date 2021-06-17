@@ -804,40 +804,40 @@
       "addonID": 388800,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3187811,
-        "displayName": "polymorph-forge-1.16.5-0.24.jar",
-        "fileName": "polymorph-forge-1.16.5-0.24.jar",
-        "fileDate": "2021-01-31T16:11:25.163Z",
-        "fileLength": 128919,
+        "id": 3353732,
+        "displayName": "polymorph-forge-1.16.5-0.25.jar",
+        "fileName": "polymorph-forge-1.16.5-0.25.jar",
+        "fileDate": "2021-06-16T06:51:30.567Z",
+        "fileLength": 129304,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3187/811/polymorph-forge-1.16.5-0.24.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3353/732/polymorph-forge-1.16.5-0.25.jar",
         "isAlternate": false,
-        "alternateFileId": 3187812,
+        "alternateFileId": 3353733,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4146278571,
+            "fingerprint": 1943844783,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "top",
-            "fingerprint": 87385814,
+            "fingerprint": 3914904156,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 1883212288,
+            "fingerprint": 1492148029,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "CHANGELOG.md",
-            "fingerprint": 1075645532,
+            "fingerprint": 3723697635,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -884,7 +884,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1374640565,
+        "packageFingerprint": 4155397533,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -899,16 +899,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "polymorph-forge-1.16.5-0.24.jar"
+        "FileNameOnDisk": "polymorph-forge-1.16.5-0.25.jar"
       },
       "dateInstalled": "2021-03-23T21:20:59.2314542Z",
-      "dateUpdated": "2021-03-23T21:20:59.2334654Z",
-      "dateLastUpdateAttempted": "2021-03-23T21:20:59.2334654Z",
-      "status": 3,
+      "dateUpdated": "2021-06-17T08:00:20.8029679Z",
+      "dateLastUpdateAttempted": "2021-06-17T08:00:20.8029679Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
