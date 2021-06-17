@@ -33,7 +33,7 @@
 	generator_capacity = 4096
 	#Alternator efficiency relative to base conversion rate.
 	#Range: 0.01 ~ 1.0
-	generator_efficiency = 0.75
+	generator_efficiency = 0.375
 
 #Rolling Mill
 [rolling_mill]
