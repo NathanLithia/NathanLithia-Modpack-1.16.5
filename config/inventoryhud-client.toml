@@ -2,14 +2,14 @@
 #Settings for Inventory HUD
 [inventoryhud]
 	#Inventory HUD mini mode
-	invMini = false
+	invMini = true
 	#Inventory HUD vertical mode
 	invVert = false
 	#Inventory HUD alpha
 	#Range: 0 ~ 100
-	invAlpha = 0
+	invAlpha = 1
 	#Toggle on by default
-	byDefault = true
+	byDefault = false
 	#Animate recently picked up items
 	animatedInv = false
 	#Hide background if inventory is empty
@@ -18,29 +18,29 @@
 #Settings for ArmorStatus HUD
 [armorhud]
 	#Is Armor Damage HUD enabled
-	ArmorDamage = true
+	ArmorDamage = false
 	#Hide if durability is above this (in percentage):
 	#Range: 0 ~ 100
 	armAbove = 100
 	#Show/Hide armor
 	showArmor = true
 	#Show/Hide armor
-	showMain = true
+	showMain = false
 	#Show/Hide armor
-	showOff = true
+	showOff = false
 	#Show/Hide armor
-	showArrows = true
+	showArrows = false
 	#Show/Hide armor
-	showInv = true
+	showInv = false
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT, OFF
-	armView = "PERCENTAGE"
+	armView = "OFF"
 	#Show item durability bar
-	armBars = false
+	armBars = true
 	#Move all items at once or each one
 	moveAll = true
 	#Show/Hide empty slot icon
-	showEmpty = true
+	showEmpty = false
 	#Show overall count of items in main/off hand
 	showCount = false
 	#ArmorHUD scale in persentage from 50 to 150
@@ -53,12 +53,12 @@
 	Potions = true
 	#Potion HUD alpha
 	#Range: 0 ~ 100
-	potAlpha = 100
+	potAlpha = 25
 	#Potion HUD gap
 	#Range: -5 ~ 5
 	potGap = 0
 	#Potion HUD mini mode
-	potMini = false
+	potMini = true
 	#Potion HUD horizontal mode
 	potHor = false
 
@@ -69,13 +69,13 @@
 	invValign = "BOTTOM"
 	#Inventory HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	invHalign = "MIDDLE"
+	invHalign = "RIGHT"
 	#Inventory HUD position (X)
 	#Range: -9999 ~ 9999
-	xPos = 0
+	xPos = 120
 	#Inventory HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPos = 150
+	yPos = 39
 	#Armor HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	armValign = "BOTTOM"
@@ -90,46 +90,46 @@
 	yArmPos = 70
 	#Potion HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	potValign = "TOP"
+	potValign = "CENTER"
 	#Potion HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	potHalign = "LEFT"
+	potHalign = "RIGHT"
 	#Potion HUD position (X)
 	#Range: -9999 ~ 9999
-	xPotionPos = 20
+	xPotionPos = 45
 	#Potion HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPotionPos = 20
+	yPotionPos = 77
 	#Helmet position (X)
 	#Range: -9999 ~ 9999
-	helmPosX = 103
+	helmPosX = 3
 	#Helmet position (Y)
 	#Range: -9999 ~ 9999
-	helmPosY = 54
+	helmPosY = 16
 	#Chestplate position (X)
 	#Range: -9999 ~ 9999
-	chestPosX = 103
+	chestPosX = 3
 	#Chestplate position (Y)
 	#Range: -9999 ~ 9999
-	chestPosY = 37
+	chestPosY = 32
 	#Leggings position (X)
 	#Range: -9999 ~ 9999
-	legPosX = -103
+	legPosX = 3
 	#Leggings position (Y)
 	#Range: -9999 ~ 9999
-	legPosY = 54
+	legPosY = 48
 	#Boots position (X)
 	#Range: -9999 ~ 9999
-	bootPosX = -103
+	bootPosX = 3
 	#Boots position (Y)
 	#Range: -9999 ~ 9999
-	bootPosY = 37
+	bootPosY = 64
 	#MainHand position (X)
 	#Range: -9999 ~ 9999
-	mainPosX = 103
+	mainPosX = 247
 	#MainHand position (Y)
 	#Range: -9999 ~ 9999
-	mainPosY = 71
+	mainPosY = 86
 	#OffHand position (X)
 	#Range: -9999 ~ 9999
 	offPosX = -103
@@ -150,31 +150,31 @@
 	invPosY = 20
 	#Helmet horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	helmHal = "MIDDLE"
+	helmHal = "LEFT"
 	#Helmet vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	helmVal = "BOTTOM"
+	helmVal = "TOP"
 	#Chestplate horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	chestHal = "MIDDLE"
+	chestHal = "LEFT"
 	#Chestplate vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	chestVal = "BOTTOM"
+	chestVal = "TOP"
 	#Leggings horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	legHal = "MIDDLE"
+	legHal = "LEFT"
 	#Leggings vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	legVal = "BOTTOM"
+	legVal = "TOP"
 	#Boots horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	bootHal = "MIDDLE"
+	bootHal = "LEFT"
 	#Boots vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	bootVal = "BOTTOM"
+	bootVal = "TOP"
 	#MainHand horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	mainHal = "MIDDLE"
+	mainHal = "LEFT"
 	#MainHand vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	mainVal = "BOTTOM"
