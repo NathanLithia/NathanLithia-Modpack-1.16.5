@@ -389,12 +389,12 @@
 		"Lich Spawn Weight" = 2
 		#Maximum hydra health
 		#Range: 1.0 ~ 10000.0
-		"Hydra Max Health" = 250.0
+		"Hydra Max Health" = 5000.0
 		#True if hydra caves are allowed to generate
 		"Generate Hydra Caves" = true
 		#One out of this number chance per chunk to generate a hydra cave.
 		#Range: 1 ~ 10000
-		"Hydra Caves Gen Chance" = 100
+		"Hydra Caves Gen Chance" = 500
 		#Maximum ghost health.
 		#Range: 1.0 ~ 10000.0
 		"Ghost Max Health" = 30.0
