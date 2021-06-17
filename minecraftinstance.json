@@ -47,8 +47,8 @@
   "name": "NathanLithia's Modpack",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-06-17T07:59:33.4195045Z",
-  "lastRefreshAttempt": "2021-06-17T17:29:37.1734263+09:30",
+  "lastPreviousMatchUpdate": "2021-06-17T08:30:57.905637Z",
+  "lastRefreshAttempt": "2021-06-17T18:01:02.2627808+09:30",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -3439,11 +3439,96 @@
     {
       "addonID": 382216,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": null,
-      "dateInstalled": "2021-03-23T21:22:28.6099232Z",
-      "dateUpdated": "2021-06-14T06:57:43.3950813Z",
-      "dateLastUpdateAttempted": "2021-06-14T06:57:43.3950813Z",
-      "status": 5,
+      "installedFile": {
+        "id": 3233486,
+        "displayName": "Abnormals Core 1.16.5 - 3.1.1",
+        "fileName": "abnormals_core-1.16.5-3.1.1.jar",
+        "fileDate": "2021-03-09T20:53:32.363Z",
+        "fileLength": 920840,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3233/486/abnormals_core-1.16.5-3.1.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4135959966,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 654785106,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "abnormals_core.mixins.json",
+            "fingerprint": 781397752,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "abnormals_core.png",
+            "fingerprint": 2401233286,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3672262236,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3209824641,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2015704770,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "transformers",
+            "fingerprint": 1545282150,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "abnormals_core.refmap.json",
+            "fingerprint": 361331863,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2600382125,
+        "gameVersion": [
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "abnormals_core-1.16.5-3.1.1.jar"
+      },
+      "dateInstalled": "2021-06-17T08:30:53.2744584Z",
+      "dateUpdated": "2021-06-17T08:30:53.2784705Z",
+      "dateLastUpdateAttempted": "2021-06-17T08:30:53.2784705Z",
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3452,7 +3537,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 245755,
@@ -12846,14 +12931,14 @@
       "addonID": 223794,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3304605,
-        "displayName": "appliedenergistics2-8.3.1.jar",
-        "fileName": "appliedenergistics2-8.3.1.jar",
-        "fileDate": "2021-05-10T12:27:08.073Z",
-        "fileLength": 4648905,
+        "id": 3354897,
+        "displayName": "appliedenergistics2-8.4.0.jar",
+        "fileName": "appliedenergistics2-8.4.0.jar",
+        "fileDate": "2021-06-17T08:27:19.81Z",
+        "fileLength": 4818007,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3304/605/appliedenergistics2-8.3.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3354/897/appliedenergistics2-8.4.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -12861,19 +12946,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 216202698,
+            "fingerprint": 2703024181,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "appeng",
-            "fingerprint": 2061106137,
+            "fingerprint": 1736662107,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "appliedenergistics2.mixins.json",
-            "fingerprint": 646882709,
+            "fingerprint": 694843594,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12885,13 +12970,13 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2093602843,
+            "fingerprint": 4723785,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 3898785845,
+            "fingerprint": 1777049725,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12914,7 +12999,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 519396577,
+        "packageFingerprint": 3038217317,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -12928,16 +13013,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "appliedenergistics2-8.3.1.jar"
+        "FileNameOnDisk": "appliedenergistics2-8.4.0.jar"
       },
       "dateInstalled": "2021-06-01T00:48:20.3596395Z",
-      "dateUpdated": "2021-06-01T00:48:20.3856397Z",
-      "dateLastUpdateAttempted": "2021-06-01T00:48:20.3856397Z",
-      "status": 5,
+      "dateUpdated": "2021-06-17T08:32:06.2396117Z",
+      "dateLastUpdateAttempted": "2021-06-17T08:32:06.2396117Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
