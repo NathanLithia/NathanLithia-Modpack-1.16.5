@@ -7838,14 +7838,14 @@
       "addonID": 427471,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3332510,
-        "displayName": "fins-1.5.4.jar",
-        "fileName": "fins-1.5.4.jar",
-        "fileDate": "2021-06-01T12:13:37.327Z",
-        "fileLength": 2128471,
+        "id": 3352541,
+        "displayName": "fins-1.6.1.jar",
+        "fileName": "fins-1.6.1.jar",
+        "fileDate": "2021-06-15T04:09:05.453Z",
+        "fileLength": 2196931,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3332/510/fins-1.5.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3352/541/fins-1.6.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -7853,25 +7853,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3031272633,
+            "fingerprint": 2138634796,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "teamdraco",
-            "fingerprint": 1882225064,
+            "fingerprint": 4289250876,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 1880050927,
+            "fingerprint": 3759816736,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 3844147763,
+            "fingerprint": 1755050382,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -7882,7 +7882,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 433914220,
+        "packageFingerprint": 1330686447,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -7896,16 +7896,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "fins-1.5.4.jar"
+        "FileNameOnDisk": "fins-1.6.1.jar"
       },
       "dateInstalled": "2021-06-04T00:49:29.407753Z",
-      "dateUpdated": "2021-06-04T00:49:29.4167616Z",
-      "dateLastUpdateAttempted": "2021-06-04T00:49:29.4167616Z",
-      "status": 3,
+      "dateUpdated": "2021-06-17T08:01:26.7368839Z",
+      "dateLastUpdateAttempted": "2021-06-17T08:01:26.7368839Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
