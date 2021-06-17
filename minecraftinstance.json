@@ -12828,22 +12828,22 @@
       "addonID": 319596,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3323408,
-        "displayName": "[1.16.5] [Forge] Pehkui 2.2.0",
-        "fileName": "Pehkui-2.2.0+1.16.5-forge.jar",
-        "fileDate": "2021-05-24T19:18:54.753Z",
-        "fileLength": 238188,
+        "id": 3351969,
+        "displayName": "[1.16.5] [Forge] Pehkui 2.2.1",
+        "fileName": "Pehkui-2.2.1+1.16.5-forge.jar",
+        "fileDate": "2021-06-14T18:37:58.827Z",
+        "fileLength": 240063,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3323/408/Pehkui-2.2.0+1.16.5-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3351/969/Pehkui-2.2.1+1.16.5-forge.jar",
         "isAlternate": false,
-        "alternateFileId": 3323409,
+        "alternateFileId": 3351970,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4241112300,
+            "fingerprint": 3115021161,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12855,7 +12855,7 @@
           },
           {
             "foldername": "pehkui.mixins.json",
-            "fingerprint": 2965313694,
+            "fingerprint": 411372781,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12867,7 +12867,7 @@
           },
           {
             "foldername": "pehkui_icon.png",
-            "fingerprint": 1450281735,
+            "fingerprint": 1446835869,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12879,18 +12879,18 @@
           },
           {
             "foldername": "virtuoel",
-            "fingerprint": 4259992951,
+            "fingerprint": 851234291,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "Pehkui-refmap.json",
-            "fingerprint": 3956304033,
+            "fingerprint": 1806049222,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2363700868,
+        "packageFingerprint": 3184350099,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -12904,12 +12904,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Pehkui-2.2.0+1.16.5-forge.jar"
+        "FileNameOnDisk": "Pehkui-2.2.1+1.16.5-forge.jar"
       },
       "dateInstalled": "2021-06-08T08:13:11.8343221Z",
-      "dateUpdated": "2021-06-08T08:13:11.8363156Z",
-      "dateLastUpdateAttempted": "2021-06-08T08:13:11.8363156Z",
-      "status": 3,
+      "dateUpdated": "2021-06-17T08:00:32.568026Z",
+      "dateLastUpdateAttempted": "2021-06-17T08:00:32.568026Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
