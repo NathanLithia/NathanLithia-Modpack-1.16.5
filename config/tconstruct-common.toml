@@ -50,7 +50,7 @@
 			generate = true
 			#How many chunks on average between islands
 			#Range: 10 ~ 500
-			separation = 15
+			separation = 32
 
 		#Settings for sky slime islands in the overworld sky
 		[worldgen.slime_islands.sky]
@@ -58,7 +58,7 @@
 			generate = true
 			#How many chunks on average between islands
 			#Range: 10 ~ 500
-			separation = 30
+			separation = 32
 
 		#Settings for clay islands in the overworld sky
 		[worldgen.slime_islands.clay]
@@ -74,7 +74,7 @@
 			generate = true
 			#How many chunks on average between islands
 			#Range: 10 ~ 500
-			separation = 13
+			separation = 32
 
 		#Settings for end slime islands in the outer end islands
 		[worldgen.slime_islands.end]
@@ -82,5 +82,5 @@
 			generate = true
 			#How many chunks on average between islands
 			#Range: 10 ~ 500
-			separation = 25
+			separation = 32
 
