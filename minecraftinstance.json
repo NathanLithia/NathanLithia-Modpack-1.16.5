@@ -11523,6 +11523,24 @@
       "installedTargets": null
     },
     {
+      "addonID": 430404,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": null,
+      "dateInstalled": "2021-06-17T07:58:51.6598784Z",
+      "dateUpdated": "2021-06-17T07:58:51.7849934Z",
+      "dateLastUpdateAttempted": "2021-06-17T07:58:51.7849934Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 245480,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
@@ -11595,109 +11613,6 @@
       "dateInstalled": "2021-03-23T21:20:11.417974Z",
       "dateUpdated": "2021-04-07T04:57:08.0467907Z",
       "dateLastUpdateAttempted": "2021-04-07T04:57:08.0467907Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 430404,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3281483,
-        "displayName": "OuterEnd-0.2.11.jar",
-        "fileName": "OuterEnd-0.2.11.jar",
-        "fileDate": "2021-04-19T01:36:49.923Z",
-        "fileLength": 57292962,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3281/483/OuterEnd-0.2.11.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 382216,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3587333945,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "blueduck",
-            "fingerprint": 3501774169,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2515668749,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 671594024,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "outer_end.mixins.json",
-            "fingerprint": 1760320793,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1438559181,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "outer_end.refmap.json",
-            "fingerprint": 4253591878,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "shadow",
-            "fingerprint": 2617444635,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2802877720,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "OuterEnd-0.2.11.jar"
-      },
-      "dateInstalled": "2021-04-09T01:46:24.0087614Z",
-      "dateUpdated": "2021-04-30T07:14:19.7929579Z",
-      "dateLastUpdateAttempted": "2021-04-30T07:14:19.7929579Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
