@@ -8647,14 +8647,14 @@
       "addonID": 419699,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3347531,
-        "displayName": "[Forge 1.16.4/5] v1.17.21",
-        "fileName": "architectury-1.17.21-forge.jar",
-        "fileDate": "2021-06-11T09:59:15.44Z",
-        "fileLength": 484434,
+        "id": 3351379,
+        "displayName": "[Forge 1.16.4/5] v1.17.22",
+        "fileName": "architectury-1.17.22-forge.jar",
+        "fileDate": "2021-06-14T07:26:07.507Z",
+        "fileLength": 484433,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3347/531/architectury-1.17.21-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3351/379/architectury-1.17.22-forge.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -8698,19 +8698,19 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 4190484651,
+            "fingerprint": 2413700153,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "me",
-            "fingerprint": 2834693529,
+            "fingerprint": 333206072,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_architectury_common_1d6c2e09cd5e4df481222b119aed0475",
-            "fingerprint": 4283864756,
+            "foldername": "architectury_inject_architectury_common_58653f942bdd4e1daa3d3950bcc26623",
+            "fingerprint": 1316049821,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -8721,7 +8721,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3655986057,
+        "packageFingerprint": 1450588909,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -8736,12 +8736,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "architectury-1.17.21-forge.jar"
+        "FileNameOnDisk": "architectury-1.17.22-forge.jar"
       },
       "dateInstalled": "2021-03-23T21:20:46.5231214Z",
-      "dateUpdated": "2021-06-12T07:54:52.5208632Z",
-      "dateLastUpdateAttempted": "2021-06-12T07:54:52.5208632Z",
-      "status": 3,
+      "dateUpdated": "2021-06-17T08:02:18.4514745Z",
+      "dateLastUpdateAttempted": "2021-06-17T08:02:18.4514745Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
