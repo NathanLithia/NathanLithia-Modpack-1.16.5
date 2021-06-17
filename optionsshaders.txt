@@ -1,19 +1,19 @@
-#Wed Jun 02 13:07:13 ACST 2021
-shaderPack=ComplementaryShaders
-antialiasingLevel=0
-normalMapEnabled=true
-specularMapEnabled=true
-renderResMul=1.0
-shadowResMul=1.0
+#Thu Jun 17 21:03:48 ACST 2021
 handDepthMul=0.125
-cloudShadow=true
-oldHandLight=default
-oldLighting=default
-tweakBlockDamage=false
-shadowClipFrustrum=true
 TexMinFilB=0
-TexMinFilN=0
-TexMinFilS=0
-TexMagFilB=0
+oldLighting=default
 TexMagFilN=0
+tweakBlockDamage=false
+cloudShadow=true
 TexMagFilS=0
+shaderPack=ComplementaryShaders
+TexMinFilN=0
+specularMapEnabled=true
+normalMapEnabled=true
+renderResMul=1.0
+oldHandLight=default
+TexMinFilS=0
+shadowResMul=1.0
+shadowClipFrustrum=true
+TexMagFilB=0
+antialiasingLevel=0
