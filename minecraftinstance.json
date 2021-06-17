@@ -8841,14 +8841,14 @@
       "addonID": 74924,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3326538,
-        "displayName": "Mantle 1.6.103 for 1.16.5",
-        "fileName": "Mantle-1.16.5-1.6.103.jar",
-        "fileDate": "2021-05-27T06:16:46.567Z",
-        "fileLength": 658564,
+        "id": 3352484,
+        "displayName": "Mantle 1.6.109 for 1.16.5",
+        "fileName": "Mantle-1.16.5-1.6.109.jar",
+        "fileDate": "2021-06-15T02:47:21.47Z",
+        "fileLength": 670970,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3326/538/Mantle-1.16.5-1.6.103.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3352/484/Mantle-1.16.5-1.6.109.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -8856,13 +8856,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4103404051,
+            "fingerprint": 4205989050,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "slimeknights",
-            "fingerprint": 2973789672,
+            "fingerprint": 2653176593,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -8880,12 +8880,12 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 3229207999,
+            "fingerprint": 1734166776,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4226404159,
+        "packageFingerprint": 3728795951,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -8899,16 +8899,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Mantle-1.16.5-1.6.103.jar"
+        "FileNameOnDisk": "Mantle-1.16.5-1.6.109.jar"
       },
       "dateInstalled": "2021-04-01T01:00:02.7395559Z",
-      "dateUpdated": "2021-05-29T07:12:53.5282732Z",
-      "dateLastUpdateAttempted": "2021-05-29T07:12:53.5282732Z",
-      "status": 3,
+      "dateUpdated": "2021-06-17T08:00:40.2330111Z",
+      "dateLastUpdateAttempted": "2021-06-17T08:00:40.2330111Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
