@@ -112,7 +112,7 @@
 
 	[mobs.frostmaw]
 		#Disable/enable Barako's boss health bar
-		has_boss_bar = true
+		has_boss_bar = false
 		#Disable/enable frostmaws healing while asleep
 		heals_out_of_battle = true
 		#Allow players to steal frostmaws' ice crystals (only using specific means!)
@@ -136,7 +136,7 @@
 			#Smaller number causes more generation, -1 to disable generation
 			#Maximum number of chunks between placements of this mob/structure
 			#Range: > -1
-			generation_distance = 25
+			generation_distance = 64
 			#Smaller number causes more generation, -1 to disable generation
 			#Minimum number of chunks between placements of this mob/structure
 			#Range: > -1
