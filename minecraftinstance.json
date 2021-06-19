@@ -4645,14 +4645,14 @@
       "addonID": 456335,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3285985,
-        "displayName": "[1.16.X] Seamless Loading Screen v1.1.5",
-        "fileName": "seamless_loading_screen-1.16.5-1.1.5.jar",
-        "fileDate": "2021-04-22T22:14:09.9Z",
-        "fileLength": 46266,
+        "id": 3355572,
+        "displayName": "[1.16.X] Seamless Loading Screen v1.1.6",
+        "fileName": "seamless_loading_screen-1.16.5-1.1.6.jar",
+        "fileDate": "2021-06-17T20:23:24.293Z",
+        "fileLength": 45959,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3285/985/seamless_loading_screen-1.16.5-1.1.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3355/572/seamless_loading_screen-1.16.5-1.1.6.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -4660,13 +4660,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1264305959,
+            "fingerprint": 2557358427,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 1501871556,
+            "fingerprint": 2864506221,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4684,18 +4684,18 @@
           },
           {
             "foldername": "seamless_loading_screen.mixins.json",
-            "fingerprint": 1582771465,
+            "fingerprint": 384268612,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "seamless_loading_screen.refmap.json",
-            "fingerprint": 4023343134,
+            "fingerprint": 3425517826,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3979666002,
+        "packageFingerprint": 3236516037,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -4712,16 +4712,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "seamless_loading_screen-1.16.5-1.1.5.jar"
+        "FileNameOnDisk": "seamless_loading_screen-1.16.5-1.1.6.jar"
       },
       "dateInstalled": "2021-03-26T20:51:56.872173Z",
-      "dateUpdated": "2021-04-30T07:13:41.3714561Z",
-      "dateLastUpdateAttempted": "2021-04-30T07:13:41.3714561Z",
-      "status": 3,
+      "dateUpdated": "2021-06-19T09:27:38.4675066Z",
+      "dateLastUpdateAttempted": "2021-06-19T09:27:38.4675066Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
