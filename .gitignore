@@ -1,3 +1,4 @@
+# Ignore
 *.jar
 *.fsh
 *.vsh
@@ -5,7 +6,10 @@
 *.lang
 *.abc
 *.local
-shaderpacks/
+/shaderpacks/ComplementaryShaders
+/shaderpacks/VoxelmentaryShaders
 worldedit_wand.png
 servers.dat
-mods/clef
+/mods/clef
+
+# Allow
