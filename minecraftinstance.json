@@ -1307,14 +1307,14 @@
       "addonID": 466792,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3288474,
-        "displayName": "create-stuff-additions1.16.5_v1.0.3.jar",
-        "fileName": "create-stuff-additions1.16.5_v1.0.3.jar",
-        "fileDate": "2021-04-25T09:44:09.707Z",
-        "fileLength": 147508,
+        "id": 3359888,
+        "displayName": "create-stuff-additions1.16.5_v1.0.4.jar",
+        "fileName": "create-stuff-additions1.16.5_v1.0.4.jar",
+        "fileDate": "2021-06-21T15:32:06.497Z",
+        "fileLength": 468848,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3288/474/create-stuff-additions1.16.5_v1.0.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3359/888/create-stuff-additions1.16.5_v1.0.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -1335,19 +1335,19 @@
           },
           {
             "foldername": "net",
-            "fingerprint": 4141440813,
+            "fingerprint": 3509594186,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3226897395,
+            "fingerprint": 1725706743,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 108138140,
+            "fingerprint": 1890619994,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1358,7 +1358,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3214442015,
+        "packageFingerprint": 2247355483,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -1372,16 +1372,16 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "create-stuff-additions1.16.5_v1.0.3.jar"
+        "FileNameOnDisk": "create-stuff-additions1.16.5_v1.0.4.jar"
       },
       "dateInstalled": "2021-05-23T23:23:02.1189768Z",
-      "dateUpdated": "2021-05-23T23:23:02.1209881Z",
-      "dateLastUpdateAttempted": "2021-05-23T23:23:02.1209881Z",
-      "status": 3,
+      "dateUpdated": "2021-06-23T08:41:02.7455108Z",
+      "dateLastUpdateAttempted": "2021-06-23T08:41:02.7455108Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
