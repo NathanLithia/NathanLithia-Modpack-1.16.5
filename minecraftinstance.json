@@ -3782,34 +3782,34 @@
       "addonID": 276951,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3311301,
-        "displayName": "comforts-forge-1.16.5-4.0.0.4.jar",
-        "fileName": "comforts-forge-1.16.5-4.0.0.4.jar",
-        "fileDate": "2021-05-16T06:29:48.05Z",
-        "fileLength": 237319,
+        "id": 3359524,
+        "displayName": "comforts-forge-1.16.5-4.0.1.1.jar",
+        "fileName": "comforts-forge-1.16.5-4.0.1.1.jar",
+        "fileDate": "2021-06-21T08:15:58.327Z",
+        "fileLength": 241852,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3311/301/comforts-forge-1.16.5-4.0.0.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3359/524/comforts-forge-1.16.5-4.0.1.1.jar",
         "isAlternate": false,
-        "alternateFileId": 3311302,
+        "alternateFileId": 3359525,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2688537111,
+            "fingerprint": 476376354,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "top",
-            "fingerprint": 1116669452,
+            "fingerprint": 572552235,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 372216899,
+            "fingerprint": 2348746069,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3844,7 +3844,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4091624898,
+        "packageFingerprint": 229097414,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -3858,16 +3858,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "comforts-forge-1.16.5-4.0.0.4.jar"
+        "FileNameOnDisk": "comforts-forge-1.16.5-4.0.1.1.jar"
       },
       "dateInstalled": "2021-03-23T21:18:58.5716112Z",
-      "dateUpdated": "2021-05-20T13:58:33.7553976Z",
-      "dateLastUpdateAttempted": "2021-05-20T13:58:33.7553976Z",
-      "status": 3,
+      "dateUpdated": "2021-06-23T08:41:17.3078107Z",
+      "dateLastUpdateAttempted": "2021-06-23T08:41:17.3078107Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
