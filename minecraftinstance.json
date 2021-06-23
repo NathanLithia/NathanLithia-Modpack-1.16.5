@@ -9284,34 +9284,34 @@
       "addonID": 220318,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3342666,
-        "displayName": "Biomes O' Plenty 1.16.5-13.1.0.471",
-        "fileName": "BiomesOPlenty-1.16.5-13.1.0.471-universal.jar",
-        "fileDate": "2021-06-07T21:32:08.363Z",
-        "fileLength": 3646469,
+        "id": 3360574,
+        "displayName": "Biomes O' Plenty 1.16.5-13.1.0.477",
+        "fileName": "BiomesOPlenty-1.16.5-13.1.0.477-universal.jar",
+        "fileDate": "2021-06-22T03:06:28.46Z",
+        "fileLength": 3651670,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3342/666/BiomesOPlenty-1.16.5-13.1.0.471-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3360/574/BiomesOPlenty-1.16.5-13.1.0.477-universal.jar",
         "isAlternate": false,
-        "alternateFileId": 3342667,
+        "alternateFileId": 3360575,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2553093157,
+            "fingerprint": 2737386408,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "biomesoplenty",
-            "fingerprint": 3983484433,
+            "fingerprint": 1133329680,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 2611687540,
+            "fingerprint": 2871352183,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -9346,7 +9346,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2570084274,
+        "packageFingerprint": 1146270849,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -9360,12 +9360,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "BiomesOPlenty-1.16.5-13.1.0.471-universal.jar"
+        "FileNameOnDisk": "BiomesOPlenty-1.16.5-13.1.0.477-universal.jar"
       },
       "dateInstalled": "2021-03-23T21:18:09.7885402Z",
-      "dateUpdated": "2021-06-08T07:15:29.5581495Z",
-      "dateLastUpdateAttempted": "2021-06-08T07:15:29.5581495Z",
-      "status": 3,
+      "dateUpdated": "2021-06-23T08:41:30.962495Z",
+      "dateLastUpdateAttempted": "2021-06-23T08:41:30.962495Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
