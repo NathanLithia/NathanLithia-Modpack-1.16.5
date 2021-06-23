@@ -13407,14 +13407,14 @@
       "addonID": 426558,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3308459,
-        "displayName": "alexsmobs-1.10.1",
-        "fileName": "alexsmobs-1.10.1.jar",
-        "fileDate": "2021-05-13T18:39:12.03Z",
-        "fileLength": 11382734,
+        "id": 3360505,
+        "displayName": "alexsmobs-1.11.0",
+        "fileName": "alexsmobs-1.11.0.jar",
+        "fileDate": "2021-06-22T01:23:46.663Z",
+        "fileLength": 17974629,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3308/459/alexsmobs-1.10.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3360/505/alexsmobs-1.11.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -13429,25 +13429,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1315101127,
+            "fingerprint": 3163569058,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 43023755,
+            "fingerprint": 105688,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 2296763000,
+            "fingerprint": 118352487,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 544868259,
+            "fingerprint": 1814127402,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -13458,9 +13458,10 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2372597749,
+        "packageFingerprint": 533485939,
         "gameVersion": [
-          "1.16.5"
+          "1.16.5",
+          "Forge"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -13468,19 +13469,19 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "alexsmobs-1.10.1.jar"
+        "FileNameOnDisk": "alexsmobs-1.11.0.jar"
       },
       "dateInstalled": "2021-04-08T03:39:22.5524114Z",
-      "dateUpdated": "2021-05-20T13:58:15.7266995Z",
-      "dateLastUpdateAttempted": "2021-05-20T13:58:15.7266995Z",
-      "status": 3,
+      "dateUpdated": "2021-06-23T08:41:46.7667176Z",
+      "dateLastUpdateAttempted": "2021-06-23T08:41:46.7667176Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
