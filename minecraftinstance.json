@@ -6764,14 +6764,14 @@
       "addonID": 264231,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3347222,
-        "displayName": "iceandfire-2.1.7-1.16.5",
-        "fileName": "iceandfire-2.1.7-1.16.5.jar",
-        "fileDate": "2021-06-11T01:24:21.523Z",
-        "fileLength": 21292905,
+        "id": 3361256,
+        "displayName": "iceandfire-2.1.8-1.16.5",
+        "fileName": "iceandfire-2.1.8-1.16.5.jar",
+        "fileDate": "2021-06-22T17:50:54.4Z",
+        "fileLength": 21299177,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3347/222/iceandfire-2.1.7-1.16.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3361/256/iceandfire-2.1.8-1.16.5.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -6786,13 +6786,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3944090331,
+            "fingerprint": 3485563183,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 1486596706,
+            "fingerprint": 2797041142,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6804,7 +6804,7 @@
           },
           {
             "foldername": "data",
-            "fingerprint": 3414728428,
+            "fingerprint": 2409061455,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6815,7 +6815,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 387043480,
+        "packageFingerprint": 2541180431,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -6831,12 +6831,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "iceandfire-2.1.7-1.16.5.jar"
+        "FileNameOnDisk": "iceandfire-2.1.8-1.16.5.jar"
       },
       "dateInstalled": "2021-03-24T02:39:59.9149586Z",
-      "dateUpdated": "2021-06-11T06:33:37.7990517Z",
-      "dateLastUpdateAttempted": "2021-06-11T06:33:37.7990517Z",
-      "status": 3,
+      "dateUpdated": "2021-06-23T08:40:33.2816269Z",
+      "dateLastUpdateAttempted": "2021-06-23T08:40:33.2816269Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
