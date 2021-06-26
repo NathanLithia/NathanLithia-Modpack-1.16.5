@@ -43,7 +43,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:false
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -107,12 +107,12 @@ key_key.narrator:key.keyboard.b:CONTROL
 key_key.pause:key.keyboard.escape
 key_key.gui:key.keyboard.f1
 key_key.debugInfo:key.keyboard.f3
-key_key.prone:key.keyboard.unknown
-key_key.prone.toggle:key.keyboard.c
 key_key.dragon_fireAttack:key.keyboard.r
 key_key.dragon_strike:key.keyboard.g
 key_key.dragon_down:key.keyboard.x
 key_key.dragon_change_view:key.keyboard.f7
+key_key.prone:key.keyboard.unknown
+key_key.prone.toggle:key.keyboard.c
 key_key.ftbchunks.map:key.keyboard.m
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
@@ -121,7 +121,6 @@ key_key.immersivepetroleum.projector.flip:key.keyboard.m
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
-key_key.entityculling.toggle:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_placebo.toggleTrails:key.keyboard.keypad.9
 key_key.waila.config:key.keyboard.keypad.0
@@ -150,6 +149,10 @@ key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_key.endergetic.booflo_vest:key.keyboard.space
 key_key.endergetic.booflo_slam:key.keyboard.x
 key_key.diet.open.desc:key.keyboard.unknown
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
+key_quark.keybind.shift_lock:key.keyboard.unknown
+key_quark.keybind.camera_mode:key.keyboard.f12
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -168,26 +171,22 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
+key_quark.keybind.autorun:key.keyboard.caps.lock
 key_quark.keybind.back:key.mouse.4
 key_key.inventoryhud.toggle:key.keyboard.unknown
 key_key.inventoryhud.openconfig:key.keyboard.o:ALT
 key_key.inventoryhud.togglepot:key.keyboard.unknown
 key_key.inventoryhud.togglearm:key.keyboard.unknown
 key_key.inventoryhud.toggleall:key.keyboard.unknown
-key_quark.keybind.autorun:key.keyboard.caps.lock
-key_quark.keybind.change_hotbar:key.keyboard.x
 key_worldeditcuife3.key.cui.options:key.keyboard.unknown
 key_worldeditcuife3.key.cui.toggle.visibility:key.keyboard.unknown
 key_worldeditcuife3.key.cui.clear.selection:key.keyboard.unknown
 key_worldeditcuife3.key.chunk.toggle.visibility:key.keyboard.f4
 key_worldeditcuife3.key.distance.toggle.visibility:key.keyboard.k
-key_quark.keybind.camera_mode:key.keyboard.f12
+key_quark.keybind.lock_rotation:key.keyboard.unknown
+key_quark.keybind.change_hotbar:key.keyboard.x
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
-key_quark.keybind.lock_rotation:key.keyboard.unknown
-key_quark.keybind.transfer_insert:key.keyboard.unknown
-key_quark.keybind.transfer_extract:key.keyboard.unknown
-key_quark.keybind.shift_lock:key.keyboard.unknown
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_mod.chiselsandbits.chiselmode.single:key.keyboard.unknown
 key_mod.chiselsandbits.chiselmode.snap2:key.keyboard.unknown
@@ -209,7 +208,7 @@ key_mod.chiselsandbits.positivepatternmode.impose:key.keyboard.unknown
 key_mod.chiselsandbits.tapemeasure.bit:key.keyboard.unknown
 key_mod.chiselsandbits.tapemeasure.block:key.keyboard.unknown
 key_mod.chiselsandbits.tapemeasure.distance:key.keyboard.unknown
-key_mod.chiselsandbits.other.mode:key.keyboard.unknown
+key_mod.chiselsandbits.other.mode:key.keyboard.r
 key_mod.chiselsandbits.other.rotate.ccw:key.keyboard.unknown
 key_mod.chiselsandbits.other.rotate.cw:key.keyboard.unknown
 key_mod.chiselsandbits.other.pickbit:key.keyboard.unknown
@@ -235,7 +234,7 @@ key_key.craftingtweaks.decompressStack:key.keyboard.unknown
 key_key.craftingtweaks.decompressAll:key.keyboard.unknown
 key_key.craftingtweaks.refill_last:key.keyboard.tab
 key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
-key_key.toolbelt.open:key.keyboard.r
+key_key.toolbelt.open:key.keyboard.b
 key_key.toolbelt.cycle.left:key.keyboard.unknown
 key_key.toolbelt.cycle.right:key.keyboard.unknown
 key_key.toolbelt.slot:key.keyboard.v
@@ -250,8 +249,8 @@ key_key.jei.previousPage:key.keyboard.page.up
 key_key.jei.nextPage:key.keyboard.page.down
 key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
-key_key.jei.bookmark:key.keyboard.a
-key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
+key_key.jei.bookmark:key.keyboard.a:CONTROL
+key_key.jei.toggleBookmarkOverlay:key.keyboard.p:CONTROL
 soundCategory_master:0.5
 soundCategory_music:0.10915493
 soundCategory_record:1.0
