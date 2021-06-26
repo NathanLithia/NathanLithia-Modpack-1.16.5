@@ -3437,6 +3437,86 @@
       "installedTargets": null
     },
     {
+      "addonID": 451284,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": {
+        "id": 3231570,
+        "displayName": "catwares-1.0.1.jar",
+        "fileName": "catwares-1.0.1.jar",
+        "fileDate": "2021-03-08T14:33:57.277Z",
+        "fileLength": 62521,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3231/570/catwares-1.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 137630196,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "io",
+            "fingerprint": 3687561060,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3840010142,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2815856843,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1438559181,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1495783887,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "catwares-1.0.1.jar"
+      },
+      "dateInstalled": "2021-06-24T18:20:20.3989545Z",
+      "dateUpdated": "2021-06-24T18:20:20.425979Z",
+      "dateLastUpdateAttempted": "2021-06-24T18:20:20.425979Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 382216,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
@@ -4644,76 +4724,7 @@
     {
       "addonID": 456335,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3355572,
-        "displayName": "[1.16.X] Seamless Loading Screen v1.1.6",
-        "fileName": "seamless_loading_screen-1.16.5-1.1.6.jar",
-        "fileDate": "2021-06-17T20:23:24.293Z",
-        "fileLength": 45959,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3355/572/seamless_loading_screen-1.16.5-1.1.6.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2557358427,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2864506221,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2121944359,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2304928363,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "seamless_loading_screen.mixins.json",
-            "fingerprint": 384268612,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "seamless_loading_screen.refmap.json",
-            "fingerprint": 3425517826,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3236516037,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.5",
-          "Forge",
-          "1.16.4",
-          "1.16.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "seamless_loading_screen-1.16.5-1.1.6.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-03-26T20:51:56.872173Z",
       "dateUpdated": "2021-06-19T09:27:38.4675066Z",
       "dateLastUpdateAttempted": "2021-06-19T09:27:38.4675066Z",
