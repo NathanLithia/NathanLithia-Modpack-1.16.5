@@ -16030,14 +16030,14 @@
       "addonID": 463402,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3336449,
-        "displayName": "Custom Villager Trades V4",
+        "id": 3363546,
+        "displayName": "Custom Villager Trades V5",
         "fileName": "customvillagertrades-1.16.jar",
-        "fileDate": "2021-06-03T16:16:36.933Z",
-        "fileLength": 18918,
+        "fileDate": "2021-06-24T18:42:43.103Z",
+        "fileLength": 19980,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3336/449/customvillagertrades-1.16.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3363/546/customvillagertrades-1.16.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -16045,13 +16045,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3148024937,
+            "fingerprint": 3427721981,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "uk",
-            "fingerprint": 324377254,
+            "fingerprint": 2251932880,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -16062,7 +16062,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 316836294,
+        "packageFingerprint": 1017679156,
         "gameVersion": [
           "1.16",
           "1.16.5",
@@ -16081,9 +16081,9 @@
         "FileNameOnDisk": "customvillagertrades-1.16.jar"
       },
       "dateInstalled": "2021-06-08T07:14:11.3658647Z",
-      "dateUpdated": "2021-06-08T07:14:11.3748817Z",
-      "dateLastUpdateAttempted": "2021-06-08T07:14:11.3748817Z",
-      "status": 3,
+      "dateUpdated": "2021-06-27T03:32:39.276181Z",
+      "dateLastUpdateAttempted": "2021-06-27T03:32:39.276181Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
