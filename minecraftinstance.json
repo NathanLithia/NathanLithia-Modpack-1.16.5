@@ -13282,14 +13282,14 @@
       "addonID": 345795,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3260557,
-        "displayName": "envirocore-1.16.5-3.0.8.0.jar",
-        "fileName": "envirocore-1.16.5-3.0.8.0.jar",
-        "fileDate": "2021-04-03T08:45:13.34Z",
-        "fileLength": 1183102,
+        "id": 3362950,
+        "displayName": "envirocore-1.16.5-3.0.9.0.jar",
+        "fileName": "envirocore-1.16.5-3.0.9.0.jar",
+        "fileDate": "2021-06-24T07:05:16.113Z",
+        "fileLength": 1204381,
         "releaseType": 3,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3260/557/envirocore-1.16.5-3.0.8.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3362/950/envirocore-1.16.5-3.0.9.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -13304,25 +13304,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 265486513,
+            "fingerprint": 3357388082,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 2817513496,
+            "fingerprint": 397405422,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 4056789487,
+            "fingerprint": 2999720146,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 2474826280,
+            "fingerprint": 2940181742,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -13339,7 +13339,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 772777452,
+        "packageFingerprint": 4177848653,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -13353,16 +13353,16 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "envirocore-1.16.5-3.0.8.0.jar"
+        "FileNameOnDisk": "envirocore-1.16.5-3.0.9.0.jar"
       },
       "dateInstalled": "2021-03-23T21:20:12.7767468Z",
-      "dateUpdated": "2021-04-07T04:56:17.0578082Z",
-      "dateLastUpdateAttempted": "2021-04-07T04:56:17.0578082Z",
-      "status": 3,
+      "dateUpdated": "2021-06-27T03:32:13.3686649Z",
+      "dateLastUpdateAttempted": "2021-06-27T03:32:13.3686649Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
