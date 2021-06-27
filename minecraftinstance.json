@@ -12201,14 +12201,14 @@
       "addonID": 306770,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3300030,
-        "displayName": "Patchouli-1.16.4-51.jar",
-        "fileName": "Patchouli-1.16.4-51.jar",
-        "fileDate": "2021-05-06T01:49:51.543Z",
-        "fileLength": 592446,
+        "id": 3362795,
+        "displayName": "Patchouli-1.16.4-53.jar",
+        "fileName": "Patchouli-1.16.4-53.jar",
+        "fileDate": "2021-06-24T02:33:47.777Z",
+        "fileLength": 592701,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3300/30/Patchouli-1.16.4-51.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3362/795/Patchouli-1.16.4-53.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -12216,13 +12216,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 995116034,
+            "fingerprint": 2455472356,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "vazkii",
-            "fingerprint": 3336216679,
+            "fingerprint": 2673440981,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12257,7 +12257,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3100647776,
+        "packageFingerprint": 2843089850,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -12272,16 +12272,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Patchouli-1.16.4-51.jar"
+        "FileNameOnDisk": "Patchouli-1.16.4-53.jar"
       },
       "dateInstalled": "2021-04-09T19:20:35.7068698Z",
-      "dateUpdated": "2021-05-07T10:47:08.4977499Z",
-      "dateLastUpdateAttempted": "2021-05-07T10:47:08.4977499Z",
-      "status": 3,
+      "dateUpdated": "2021-06-27T03:30:54.1746999Z",
+      "dateLastUpdateAttempted": "2021-06-27T03:30:54.1746999Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
