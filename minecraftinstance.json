@@ -242,85 +242,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 240630,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3336760,
-        "displayName": "JustEnoughResources-1.16.5-0.12.1.121",
-        "fileName": "JustEnoughResources-1.16.5-0.12.1.121.jar",
-        "fileDate": "2021-06-03T19:55:54.267Z",
-        "fileLength": 234178,
-        "releaseType": 3,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3336/760/JustEnoughResources-1.16.5-0.12.1.121.jar",
-        "isAlternate": false,
-        "alternateFileId": 3336761,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 238222,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2410143175,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "jeresources",
-            "fingerprint": 3668128030,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2295823985,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2621008982,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3525039388,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "JustEnoughResources-1.16.5-0.12.1.121.jar"
-      },
-      "dateInstalled": "2021-04-02T01:02:08.2671643Z",
-      "dateUpdated": "2021-06-04T08:08:20.7967079Z",
-      "dateLastUpdateAttempted": "2021-06-04T08:08:20.7967079Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 291874,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
@@ -13257,24 +13178,6 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 417645,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": null,
-      "dateInstalled": "2021-06-04T08:09:40.0520116Z",
-      "dateUpdated": "2021-06-04T08:09:40.0530122Z",
-      "dateLastUpdateAttempted": "2021-06-04T08:09:40.0530122Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
