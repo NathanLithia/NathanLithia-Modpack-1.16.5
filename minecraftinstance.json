@@ -11412,14 +11412,14 @@
       "addonID": 245480,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3260551,
-        "displayName": "valkyrielib-1.16.5-3.0.8.0.jar",
-        "fileName": "valkyrielib-1.16.5-3.0.8.0.jar",
-        "fileDate": "2021-04-03T08:43:23.503Z",
-        "fileLength": 1239147,
+        "id": 3362949,
+        "displayName": "valkyrielib-1.16.5-3.0.9.0.jar",
+        "fileName": "valkyrielib-1.16.5-3.0.9.0.jar",
+        "fileDate": "2021-06-24T07:04:33.05Z",
+        "fileLength": 1299343,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3260/551/valkyrielib-1.16.5-3.0.8.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3362/949/valkyrielib-1.16.5-3.0.9.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -11427,25 +11427,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 455016234,
+            "fingerprint": 2381433806,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 614340894,
+            "fingerprint": 4076656524,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 2025807362,
+            "fingerprint": 3721159694,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 594288466,
+            "fingerprint": 2139009068,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -11462,7 +11462,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4113165516,
+        "packageFingerprint": 1605630056,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -11476,16 +11476,16 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "valkyrielib-1.16.5-3.0.8.0.jar"
+        "FileNameOnDisk": "valkyrielib-1.16.5-3.0.9.0.jar"
       },
       "dateInstalled": "2021-03-23T21:20:11.417974Z",
-      "dateUpdated": "2021-04-07T04:57:08.0467907Z",
-      "dateLastUpdateAttempted": "2021-04-07T04:57:08.0467907Z",
-      "status": 3,
+      "dateUpdated": "2021-06-27T03:29:52.622174Z",
+      "dateLastUpdateAttempted": "2021-06-27T03:29:52.622174Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
