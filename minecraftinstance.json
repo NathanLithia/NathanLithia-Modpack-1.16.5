@@ -840,14 +840,14 @@
       "addonID": 440047,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3301518,
-        "displayName": "customizableelytra-1.16.4-1.4.4.jar",
-        "fileName": "customizableelytra-1.16.4-1.4.4.jar",
-        "fileDate": "2021-05-07T14:01:03.413Z",
-        "fileLength": 158241,
+        "id": 3365847,
+        "displayName": "customizableelytra-1.16.4-1.5.0.jar",
+        "fileName": "customizableelytra-1.16.4-1.5.0.jar",
+        "fileDate": "2021-06-26T21:58:26.543Z",
+        "fileLength": 161230,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3301/518/customizableelytra-1.16.4-1.4.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3365/847/customizableelytra-1.16.4-1.5.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -855,13 +855,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3656231790,
+            "fingerprint": 78072002,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 142987363,
+            "fingerprint": 3936307748,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -879,7 +879,7 @@
           },
           {
             "foldername": "customizableelytra.mixins.json",
-            "fingerprint": 2103482029,
+            "fingerprint": 2615411762,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -897,12 +897,12 @@
           },
           {
             "foldername": "customizableelytra.refmap.json",
-            "fingerprint": 4253327681,
+            "fingerprint": 1481795286,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3692898833,
+        "packageFingerprint": 3807301608,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -917,16 +917,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "customizableelytra-1.16.4-1.4.4.jar"
+        "FileNameOnDisk": "customizableelytra-1.16.4-1.5.0.jar"
       },
       "dateInstalled": "2021-03-24T02:55:25.6525199Z",
-      "dateUpdated": "2021-05-11T13:59:12.8361326Z",
-      "dateLastUpdateAttempted": "2021-05-11T13:59:12.8361326Z",
-      "status": 3,
+      "dateUpdated": "2021-06-27T03:32:24.0705035Z",
+      "dateLastUpdateAttempted": "2021-06-27T03:32:24.0705035Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
