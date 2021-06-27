@@ -2979,14 +2979,14 @@
       "addonID": 363820,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3285909,
-        "displayName": "0.2.10",
-        "fileName": "TerraForged-1.16.5-0.2.10.jar",
-        "fileDate": "2021-04-22T20:49:36.543Z",
-        "fileLength": 1649048,
+        "id": 3365710,
+        "displayName": "0.2.12",
+        "fileName": "TerraForged-1.16.5-0.2.12.jar",
+        "fileDate": "2021-06-26T19:34:03.573Z",
+        "fileLength": 1645541,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3285/909/TerraForged-1.16.5-0.2.10.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3365/710/TerraForged-1.16.5-0.2.12.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -2994,7 +2994,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4051987790,
+            "fingerprint": 2550690315,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3006,7 +3006,7 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2403242277,
+            "fingerprint": 3589983164,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3024,13 +3024,13 @@
           },
           {
             "foldername": "com",
-            "fingerprint": 2224633873,
+            "fingerprint": 3392903075,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 1595918093,
+            "fingerprint": 2274904774,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3065,11 +3065,10 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2012171633,
+        "packageFingerprint": 2494593053,
         "gameVersion": [
           "1.16.5",
-          "Forge",
-          "1.16.4"
+          "Forge"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -3080,16 +3079,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "TerraForged-1.16.5-0.2.10.jar"
+        "FileNameOnDisk": "TerraForged-1.16.5-0.2.12.jar"
       },
       "dateInstalled": "2021-03-24T02:26:33.3004206Z",
-      "dateUpdated": "2021-04-30T07:14:01.2297577Z",
-      "dateLastUpdateAttempted": "2021-04-30T07:14:01.2297577Z",
-      "status": 3,
+      "dateUpdated": "2021-06-27T03:29:42.0259985Z",
+      "dateLastUpdateAttempted": "2021-06-27T03:29:42.0259985Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
