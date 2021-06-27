@@ -11496,14 +11496,14 @@
       "addonID": 250498,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3344622,
-        "displayName": "Mowzie's Mobs - 1.5.18",
-        "fileName": "mowziesmobs-1.5.18.jar",
-        "fileDate": "2021-06-09T04:16:41.687Z",
-        "fileLength": 5534064,
+        "id": 3362794,
+        "displayName": "Mowzie's Mobs - 1.5.19",
+        "fileName": "mowziesmobs-1.5.19.jar",
+        "fileDate": "2021-06-24T02:33:36.18Z",
+        "fileLength": 5522069,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3344/622/mowziesmobs-1.5.18.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3362/794/mowziesmobs-1.5.19.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -11511,19 +11511,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3015006615,
+            "fingerprint": 3059089616,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 547481104,
+            "fingerprint": 3704499934,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 33058344,
+            "fingerprint": 4105949367,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -11546,9 +11546,12 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3352772237,
+        "packageFingerprint": 3860341341,
         "gameVersion": [
-          "1.16.5"
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -11556,15 +11559,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "mowziesmobs-1.5.18.jar"
+        "FileNameOnDisk": "mowziesmobs-1.5.19.jar"
       },
       "dateInstalled": "2021-05-10T09:01:53.4893562Z",
-      "dateUpdated": "2021-06-09T07:06:31.3966084Z",
-      "dateLastUpdateAttempted": "2021-06-09T07:06:31.3966084Z",
-      "status": 3,
+      "dateUpdated": "2021-06-27T03:31:08.6104601Z",
+      "dateLastUpdateAttempted": "2021-06-27T03:31:08.6104601Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
