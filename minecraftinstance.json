@@ -3798,14 +3798,14 @@
       "addonID": 280294,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3281559,
-        "displayName": "FpsReducer-mc1.16.5-1.19.jar",
-        "fileName": "FpsReducer-mc1.16.5-1.19.jar",
-        "fileDate": "2021-04-19T04:22:12.62Z",
-        "fileLength": 90910,
+        "id": 3362165,
+        "displayName": "FpsReducer-mc1.16.5-1.20.jar",
+        "fileName": "FpsReducer-mc1.16.5-1.20.jar",
+        "fileDate": "2021-06-23T14:26:17.31Z",
+        "fileLength": 91952,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3281/559/FpsReducer-mc1.16.5-1.19.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3362/165/FpsReducer-mc1.16.5-1.20.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -3813,7 +3813,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2124277541,
+            "fingerprint": 3010702503,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3825,7 +3825,7 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2000598392,
+            "fingerprint": 2163027845,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3842,11 +3842,10 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1696557421,
+        "packageFingerprint": 3184396364,
         "gameVersion": [
           "1.16.5",
-          "Forge",
-          "1.16.4"
+          "Forge"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -3857,16 +3856,16 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FpsReducer-mc1.16.5-1.19.jar"
+        "FileNameOnDisk": "FpsReducer-mc1.16.5-1.20.jar"
       },
       "dateInstalled": "2021-03-23T21:33:38.2663525Z",
-      "dateUpdated": "2021-04-30T07:11:49.5705535Z",
-      "dateLastUpdateAttempted": "2021-04-30T07:11:49.5705535Z",
-      "status": 3,
+      "dateUpdated": "2021-06-27T03:31:46.0898078Z",
+      "dateLastUpdateAttempted": "2021-06-27T03:31:46.0898078Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
