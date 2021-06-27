@@ -3514,7 +3514,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 382216,
@@ -4722,24 +4722,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 456335,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": null,
-      "dateInstalled": "2021-03-26T20:51:56.872173Z",
-      "dateUpdated": "2021-06-19T09:27:38.4675066Z",
-      "dateLastUpdateAttempted": "2021-06-19T09:27:38.4675066Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 228525,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
@@ -5565,7 +5547,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 326041,
@@ -6958,7 +6940,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 264231,
@@ -11981,7 +11963,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 250498,
