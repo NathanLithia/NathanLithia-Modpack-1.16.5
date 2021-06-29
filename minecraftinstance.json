@@ -8016,14 +8016,14 @@
       "addonID": 243121,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3364469,
-        "displayName": "Quark-r2.4-313.jar",
-        "fileName": "Quark-r2.4-313.jar",
-        "fileDate": "2021-06-25T16:14:40.43Z",
-        "fileLength": 6626810,
+        "id": 3366626,
+        "displayName": "Quark-r2.4-314.jar",
+        "fileName": "Quark-r2.4-314.jar",
+        "fileDate": "2021-06-27T15:37:55.737Z",
+        "fileLength": 6626974,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3364/469/Quark-r2.4-313.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3366/626/Quark-r2.4-314.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -8038,13 +8038,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4246015732,
+            "fingerprint": 2738040352,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "vazkii",
-            "fingerprint": 1995137404,
+            "fingerprint": 2864876965,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -8091,7 +8091,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1906331504,
+        "packageFingerprint": 1444822916,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -8105,12 +8105,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Quark-r2.4-313.jar"
+        "FileNameOnDisk": "Quark-r2.4-314.jar"
       },
       "dateInstalled": "2021-03-23T21:18:15.8365168Z",
-      "dateUpdated": "2021-06-27T03:30:06.1068495Z",
-      "dateLastUpdateAttempted": "2021-06-27T03:30:06.1068495Z",
-      "status": 3,
+      "dateUpdated": "2021-06-29T01:08:52.6416533Z",
+      "dateLastUpdateAttempted": "2021-06-29T01:08:52.6416533Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
