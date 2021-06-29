@@ -7136,6 +7136,97 @@
       "installedTargets": null
     },
     {
+      "addonID": 235279,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": {
+        "id": 3367011,
+        "displayName": "Chisel - MC1.16.5-2.0.0-alpha.3",
+        "fileName": "Chisel-MC1.16.5-2.0.0-alpha.3.jar",
+        "fileDate": "2021-06-27T22:15:06.88Z",
+        "fileLength": 7302670,
+        "releaseType": 3,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3367/11/Chisel-MC1.16.5-2.0.0-alpha.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 267602,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3633711697,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "team",
+            "fingerprint": 1067258892,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2524762533,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 4171709066,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": ".cache",
+            "fingerprint": 1558460928,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4117588642,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1935508087,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Chisel-MC1.16.5-2.0.0-alpha.3.jar"
+      },
+      "dateInstalled": "2021-06-29T12:43:37.5248061Z",
+      "dateUpdated": "2021-06-29T12:43:37.5578367Z",
+      "dateLastUpdateAttempted": "2021-06-29T12:43:37.5578367Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 317716,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
@@ -7632,6 +7723,82 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 267602,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": {
+        "id": 3137659,
+        "displayName": "CTM - MC1.16.1-1.1.2.6",
+        "fileName": "CTM-MC1.16.1-1.1.2.6.jar",
+        "fileDate": "2020-12-13T18:05:47.6Z",
+        "fileLength": 186068,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3137/659/CTM-MC1.16.1-1.1.2.6.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2314499695,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "team",
+            "fingerprint": 1421294105,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2904194323,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 929912909,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1104122771,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.1",
+          "1.16.5",
+          "Forge",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "CTM-MC1.16.1-1.1.2.6.jar"
+      },
+      "dateInstalled": "2021-06-29T12:43:35.7568761Z",
+      "dateUpdated": "2021-06-29T12:43:35.7778957Z",
+      "dateLastUpdateAttempted": "2021-06-29T12:43:35.7778957Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 238086,
