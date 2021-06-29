@@ -1,6 +1,6 @@
 === FTB Ranks ===
 
-Last README file update: Wed Jun 30 01:35:20 ACST 2021
+Last README file update: Wed Jun 30 05:07:03 ACST 2021
 Wiki: https://faq.ftb.world/books/ftb-ranks
 To refresh this file, run /ftbranks refresh_readme
 
@@ -1383,6 +1383,84 @@ command.locate.outer_end:catacombs
 command.locate.outer_end:end_tower
 command.locate.pillager_outpost
 command.locate.quark:big_dungeon
+command.locate.repurposed_structures:bastion_underground
+command.locate.repurposed_structures:city_nether
+command.locate.repurposed_structures:fortress_jungle
+command.locate.repurposed_structures:igloo_grassy
+command.locate.repurposed_structures:igloo_stone
+command.locate.repurposed_structures:mansion_birch
+command.locate.repurposed_structures:mansion_desert
+command.locate.repurposed_structures:mansion_jungle
+command.locate.repurposed_structures:mansion_oak
+command.locate.repurposed_structures:mansion_savanna
+command.locate.repurposed_structures:mansion_snowy
+command.locate.repurposed_structures:mansion_taiga
+command.locate.repurposed_structures:mineshaft_birch
+command.locate.repurposed_structures:mineshaft_crimson
+command.locate.repurposed_structures:mineshaft_dark_forest
+command.locate.repurposed_structures:mineshaft_desert
+command.locate.repurposed_structures:mineshaft_end
+command.locate.repurposed_structures:mineshaft_icy
+command.locate.repurposed_structures:mineshaft_jungle
+command.locate.repurposed_structures:mineshaft_nether
+command.locate.repurposed_structures:mineshaft_ocean
+command.locate.repurposed_structures:mineshaft_savanna
+command.locate.repurposed_structures:mineshaft_stone
+command.locate.repurposed_structures:mineshaft_swamp_forest
+command.locate.repurposed_structures:mineshaft_taiga
+command.locate.repurposed_structures:mineshaft_warped
+command.locate.repurposed_structures:outpost_badlands
+command.locate.repurposed_structures:outpost_birch
+command.locate.repurposed_structures:outpost_crimson
+command.locate.repurposed_structures:outpost_desert
+command.locate.repurposed_structures:outpost_end
+command.locate.repurposed_structures:outpost_giant_tree_taiga
+command.locate.repurposed_structures:outpost_icy
+command.locate.repurposed_structures:outpost_jungle
+command.locate.repurposed_structures:outpost_nether_brick
+command.locate.repurposed_structures:outpost_oak
+command.locate.repurposed_structures:outpost_snowy
+command.locate.repurposed_structures:outpost_taiga
+command.locate.repurposed_structures:outpost_warped
+command.locate.repurposed_structures:pyramid_badlands
+command.locate.repurposed_structures:pyramid_end
+command.locate.repurposed_structures:pyramid_flower_forest
+command.locate.repurposed_structures:pyramid_giant_tree_taiga
+command.locate.repurposed_structures:pyramid_icy
+command.locate.repurposed_structures:pyramid_jungle
+command.locate.repurposed_structures:pyramid_mushroom
+command.locate.repurposed_structures:pyramid_nether
+command.locate.repurposed_structures:pyramid_ocean
+command.locate.repurposed_structures:pyramid_snowy
+command.locate.repurposed_structures:ruined_portal_end
+command.locate.repurposed_structures:ruins_land_hot
+command.locate.repurposed_structures:ruins_land_warm
+command.locate.repurposed_structures:ruins_nether
+command.locate.repurposed_structures:shipwreck_crimson
+command.locate.repurposed_structures:shipwreck_end
+command.locate.repurposed_structures:shipwreck_nether_bricks
+command.locate.repurposed_structures:shipwreck_warped
+command.locate.repurposed_structures:stronghold_nether
+command.locate.repurposed_structures:temple_nether_basalt
+command.locate.repurposed_structures:temple_nether_crimson
+command.locate.repurposed_structures:temple_nether_soul
+command.locate.repurposed_structures:temple_nether_warped
+command.locate.repurposed_structures:temple_nether_wasteland
+command.locate.repurposed_structures:village_badlands
+command.locate.repurposed_structures:village_birch
+command.locate.repurposed_structures:village_crimson
+command.locate.repurposed_structures:village_dark_oak
+command.locate.repurposed_structures:village_giant_taiga
+command.locate.repurposed_structures:village_jungle
+command.locate.repurposed_structures:village_mountains
+command.locate.repurposed_structures:village_oak
+command.locate.repurposed_structures:village_swamp
+command.locate.repurposed_structures:village_warped
+command.locate.repurposed_structures:witch_hut_birch
+command.locate.repurposed_structures:witch_hut_dark_forest
+command.locate.repurposed_structures:witch_hut_giant_tree_taiga
+command.locate.repurposed_structures:witch_hut_oak
+command.locate.repurposed_structures:witch_hut_taiga
 command.locate.ruined_portal
 command.locate.shipwreck
 command.locate.stronghold
@@ -1572,6 +1650,7 @@ command.nicknamefor.player
 command.nicknamefor.player.nickname
 command.night
 command.night.args
+command.ntp
 command.open-patchouli-book
 command.open-patchouli-book.targets
 command.open-patchouli-book.targets.book
