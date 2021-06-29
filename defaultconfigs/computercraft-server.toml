@@ -9,8 +9,6 @@ maximum_open_files = 128
 disable_lua51_features = false
 #A comma separated list of default system settings to set on new computers. Example: "shell.autocomplete=false,lua.autocomplete=false,edit.autocomplete=false" will disable all autocompletion
 default_computer_settings = ""
-#Enable Lua's debug library. This is sandboxed to each computer, so is generally safe to be used by players.
-debug_enabled = true
 #Log exceptions thrown by peripherals and other Lua objects.
 #This makes it easier for mod authors to debug problems, but may result in log spam should people use buggy methods.
 log_computer_errors = true

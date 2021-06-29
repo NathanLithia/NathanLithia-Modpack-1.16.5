@@ -15,4 +15,6 @@ flintKnappingSuccessChance = 1
 #The chance for a fire starter to start fires
 #Range: 0.0 ~ 1.0
 fireStarterFireStartChance = 0.3
+#Makes blocks that would otherwise be broken instantly still drop, even when using an incorrect tool.
+doInstantBreakBlocksDropWithoutCorrectTool = true
 
