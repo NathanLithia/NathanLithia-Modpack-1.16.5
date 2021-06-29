@@ -2,7 +2,7 @@
 #Toggles to allow/disable going prone in various circumstances
 [allowProne]
 	#Allow while flying
-	flying = true
+	flying = false
 
 	#Allow while riding another entity
 	[allowProne.riding]
