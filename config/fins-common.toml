@@ -58,7 +58,7 @@
 	#Spawn weight of Spindly Gem Crabs
 	#Range: 1 ~ 1000
 	spindly_gem_crab_spawn_weight = 7
-	#Spawn weight of Rubber Belly Glider
+	#Spawn weight of Rubber Belly Gliders
 	#Range: 1 ~ 1000
 	rubber_belly_glider_spawn_weight = 3
 
@@ -79,7 +79,7 @@
 	red_bull_crabs_spawn_weight = 2
 
 ["Frozen Ocean Creature Spawn Weight"]
-	#Spawn weight of Night Light Squids
+	#Spawn weight of Night Light Squid
 	#Range: 1 ~ 1000
 	night_light_squids_spawn_weight = 2
 
@@ -93,4 +93,9 @@
 	#Spawn weight of Golden River Rays
 	#Range: 1 ~ 1000
 	golden_river_ray_spawn_weight = 2
+
+["Icy Spawn Weight"]
+	#Spawn weight of Wherbles
+	#Range: 1 ~ 1000
+	wherble_spawn_weight = 3
 

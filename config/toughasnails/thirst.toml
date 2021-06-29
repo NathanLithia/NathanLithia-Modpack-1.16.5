@@ -55,14 +55,13 @@
 		thirst = 2
 		hydration = 0.2
 		poison_chance = 0.05
-		
+
 	[[drink_options.drink_entries]]
 		location = "pamhc2crops:hotcoffeeitem"
 		thirst = 2
 		hydration = 0.2
 		poison_chance = 0.05
-#############################################################################
-	# Pams Harvestcraft 2
+
 	[[drink_options.drink_entries]]
 		location = "pamhc2foodcore:cookiesandmilkitem"
 		thirst = 1
@@ -122,7 +121,7 @@
 		thirst = 2
 		hydration = 0.2
 		poison_chance = 0.05
-		
+
 	[[drink_options.drink_entries]]
 		location = "pamhc2foodextended:soymilkitem"
 		thirst = 2
@@ -176,7 +175,6 @@
 		thirst = 2
 		hydration = 0.2
 		poison_chance = 0.05
-
 
 	[[drink_options.drink_entries]]
 		location = "pamhc2foodextended:rootbeerfloatitem"
@@ -357,7 +355,6 @@
 		thirst = 2
 		hydration = 0.2
 		poison_chance = 0.05
-
 
 	[[drink_options.drink_entries]]
 		location = "pamhc2foodextended:grapefruitjuiceitem"
@@ -730,7 +727,7 @@
 		thirst = 2
 		hydration = 0.2
 		poison_chance = 0.05
-		
+
 	[[drink_options.drink_entries]]
 		location = "pamhc2foodextended:carrotjuiceitem"
 		thirst = 2
