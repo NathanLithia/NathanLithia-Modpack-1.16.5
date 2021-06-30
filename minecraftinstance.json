@@ -15538,6 +15538,89 @@
       "installedTargets": null
     },
     {
+      "addonID": 348076,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": {
+        "id": 3239927,
+        "displayName": "enchantedbookredesign-3.3-1.16.4.jar",
+        "fileName": "enchantedbookredesign-3.3-1.16.4.jar",
+        "fileDate": "2021-03-15T07:17:50.523Z",
+        "fileLength": 32254,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3239/927/enchantedbookredesign-3.3-1.16.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3168727515,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "tfar",
+            "fingerprint": 3839446714,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 20966557,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "enchantedbookredesign.mixins.json",
+            "fingerprint": 3324829640,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3632007162,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "enchantedbookredesign.refmap.json",
+            "fingerprint": 1930475685,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1213078011,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "enchantedbookredesign-3.3-1.16.4.jar"
+      },
+      "dateInstalled": "2021-06-30T13:46:57.7047709Z",
+      "dateUpdated": "2021-06-30T13:46:57.7297898Z",
+      "dateLastUpdateAttempted": "2021-06-30T13:46:57.7297898Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 293496,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
