@@ -5104,26 +5104,26 @@
       "addonID": 423490,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3351495,
-        "displayName": "kubejs-ui-1605.1.4-build.7-forge.jar",
-        "fileName": "kubejs-ui-1605.1.4-build.7-forge.jar",
-        "fileDate": "2021-06-14T09:57:33.81Z",
-        "fileLength": 55864,
+        "id": 3374367,
+        "displayName": "kubejs-ui-1605.1.4-build.10-forge.jar",
+        "fileName": "kubejs-ui-1605.1.4-build.10-forge.jar",
+        "fileDate": "2021-07-02T21:37:34.14Z",
+        "fileLength": 56210,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3351/495/kubejs-ui-1605.1.4-build.7-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3374/367/kubejs-ui-1605.1.4-build.10-forge.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 419699,
+            "addonId": 238086,
             "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 238086,
+            "addonId": 419699,
             "type": 3,
             "fileId": 0
           }
@@ -5144,24 +5144,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 3560687358,
+            "fingerprint": 2164151124,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 2456805552,
+            "fingerprint": 3561291942,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_KubeJSUI1164_common_093294f769fd4a66bf6ebe91f8d09522",
-            "fingerprint": 1581613592,
+            "foldername": "architectury_inject_KubeJSUI1164_common_9ba29f6739a548e4be1a2b7ff5650b8d",
+            "fingerprint": 296225924,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2968021004,
+        "packageFingerprint": 3491344789,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -5173,15 +5173,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "kubejs-ui-1605.1.4-build.7-forge.jar"
+        "FileNameOnDisk": "kubejs-ui-1605.1.4-build.10-forge.jar"
       },
       "dateInstalled": "2021-04-10T17:51:33.8934339Z",
-      "dateUpdated": "2021-06-17T08:01:01.2137566Z",
-      "dateLastUpdateAttempted": "2021-06-17T08:01:01.2137566Z",
-      "status": 3,
+      "dateUpdated": "2021-07-04T22:18:50.5015666Z",
+      "dateLastUpdateAttempted": "2021-07-04T22:18:50.5015666Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
