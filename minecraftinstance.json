@@ -3648,10 +3648,77 @@
     {
       "addonID": 372196,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": null,
-      "dateInstalled": "2021-07-04T22:15:50.0342693Z",
-      "dateUpdated": "2021-07-04T22:15:50.0362719Z",
-      "dateLastUpdateAttempted": "2021-07-04T22:15:50.0362719Z",
+      "installedFile": {
+        "id": 3248738,
+        "displayName": "OptiForge-MC1.16.5-0.5.5",
+        "fileName": "OptiForge-MC1.16.5-0.5.5.jar",
+        "fileDate": "2021-03-23T12:13:52.18Z",
+        "fileLength": 185043,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3248/738/OptiForge-MC1.16.5-0.5.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 3248739,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 332975,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1234731956,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "io",
+            "fingerprint": 91701800,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2600745453,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "requiredmods.properties",
+            "fingerprint": 3631821388,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "optiforge.png",
+            "fingerprint": 2255592829,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1105036725,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "OptiForge-MC1.16.5-0.5.5.jar"
+      },
+      "dateInstalled": "2021-07-04T22:15:53.6755802Z",
+      "dateUpdated": "2021-07-04T22:15:53.6785827Z",
+      "dateLastUpdateAttempted": "2021-07-04T22:15:53.6785827Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -13847,14 +13914,14 @@
       "addonID": 426558,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3360505,
-        "displayName": "alexsmobs-1.11.0",
-        "fileName": "alexsmobs-1.11.0.jar",
-        "fileDate": "2021-06-22T01:23:46.663Z",
-        "fileLength": 17974629,
+        "id": 3371504,
+        "displayName": "alexsmobs-1.11.1",
+        "fileName": "alexsmobs-1.11.1.jar",
+        "fileDate": "2021-06-30T19:21:41.957Z",
+        "fileLength": 18012255,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3360/505/alexsmobs-1.11.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3371/504/alexsmobs-1.11.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -13869,25 +13936,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3163569058,
+            "fingerprint": 2460216862,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 105688,
+            "fingerprint": 1496897505,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 118352487,
+            "fingerprint": 3926938331,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 1814127402,
+            "fingerprint": 2813637946,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -13898,7 +13965,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 533485939,
+        "packageFingerprint": 2237286053,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -13912,12 +13979,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "alexsmobs-1.11.0.jar"
+        "FileNameOnDisk": "alexsmobs-1.11.1.jar"
       },
       "dateInstalled": "2021-04-08T03:39:22.5524114Z",
-      "dateUpdated": "2021-06-23T08:41:46.7667176Z",
-      "dateLastUpdateAttempted": "2021-06-23T08:41:46.7667176Z",
-      "status": 3,
+      "dateUpdated": "2021-07-04T22:16:27.0090467Z",
+      "dateLastUpdateAttempted": "2021-07-04T22:16:27.0090467Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
