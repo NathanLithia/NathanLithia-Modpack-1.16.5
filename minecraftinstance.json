@@ -6489,14 +6489,14 @@
       "addonID": 314906,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3344869,
-        "displayName": "ftb-chunks-forge-1605.3.1-build.16.jar",
-        "fileName": "ftb-chunks-forge-1605.3.1-build.16.jar",
-        "fileDate": "2021-06-09T10:51:39.287Z",
-        "fileLength": 693212,
-        "releaseType": 3,
+        "id": 3373847,
+        "displayName": "ftb-chunks-forge-1605.3.1-build.20.jar",
+        "fileName": "ftb-chunks-forge-1605.3.1-build.20.jar",
+        "fileDate": "2021-07-02T13:22:51.027Z",
+        "fileLength": 693525,
+        "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3344/869/ftb-chunks-forge-1605.3.1-build.16.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3373/847/ftb-chunks-forge-1605.3.1-build.20.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -6520,12 +6520,6 @@
           },
           {
             "id": 0,
-            "addonId": 348521,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
             "addonId": 314905,
             "type": 2,
             "fileId": 0
@@ -6534,8 +6528,8 @@
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "kubejs.classfilter.txt",
-            "fingerprint": 666273691,
+            "foldername": "kubejs.plugins.txt",
+            "fingerprint": 1949217215,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6552,14 +6546,14 @@
             "invalidFingerprint": false
           },
           {
-            "foldername": "kubejs.plugins.txt",
-            "fingerprint": 1949217215,
+            "foldername": "data",
+            "fingerprint": 116981138,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "data",
-            "fingerprint": 116981138,
+            "foldername": "kubejs.classfilter.txt",
+            "fingerprint": 666273691,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6577,24 +6571,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 2257749918,
+            "fingerprint": 3197674498,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 3877740508,
+            "fingerprint": 2396922937,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_FTBChunks1165_common_4031bd59716c4cb7b7104a31589ef581",
-            "fingerprint": 3254055368,
+            "foldername": "architectury_inject_FTBChunks1165_common_250d05bfa27d4a55ac34955fedc55821",
+            "fingerprint": 2271664504,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1020620129,
+        "packageFingerprint": 829231298,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -6608,12 +6602,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-chunks-forge-1605.3.1-build.16.jar"
+        "FileNameOnDisk": "ftb-chunks-forge-1605.3.1-build.20.jar"
       },
       "dateInstalled": "2021-05-20T15:18:59.2561545Z",
-      "dateUpdated": "2021-06-09T16:27:12.2949463Z",
-      "dateLastUpdateAttempted": "2021-06-09T16:27:12.2949463Z",
-      "status": 3,
+      "dateUpdated": "2021-07-04T22:17:35.1357594Z",
+      "dateLastUpdateAttempted": "2021-07-04T22:17:35.1357594Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
