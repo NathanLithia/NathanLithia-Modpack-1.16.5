@@ -13191,14 +13191,14 @@
       "addonID": 312353,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3344129,
-        "displayName": "Artifacts-1.16.5-2.9.3.jar",
-        "fileName": "Artifacts-1.16.5-2.9.3.jar",
-        "fileDate": "2021-06-08T20:34:59.597Z",
-        "fileLength": 472190,
+        "id": 3374317,
+        "displayName": "Artifacts-1.16.5-2.10.0.jar",
+        "fileName": "Artifacts-1.16.5-2.10.0.jar",
+        "fileDate": "2021-07-02T20:59:04.887Z",
+        "fileLength": 464318,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3344/129/Artifacts-1.16.5-2.9.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3374/317/Artifacts-1.16.5-2.10.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -13219,37 +13219,37 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1582848725,
+            "fingerprint": 1739477954,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "artifacts",
-            "fingerprint": 556417392,
+            "fingerprint": 1739447542,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": ".cache",
-            "fingerprint": 934829177,
+            "fingerprint": 2587024261,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "artifacts.mixins.json",
-            "fingerprint": 3629440966,
+            "fingerprint": 2910579360,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 892777076,
+            "fingerprint": 3187471784,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 2191944227,
+            "fingerprint": 2793233805,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -13267,12 +13267,12 @@
           },
           {
             "foldername": "artifacts.refmap.json",
-            "fingerprint": 3501160483,
+            "fingerprint": 1241368700,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3745802417,
+        "packageFingerprint": 1778053120,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -13286,12 +13286,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Artifacts-1.16.5-2.9.3.jar"
+        "FileNameOnDisk": "Artifacts-1.16.5-2.10.0.jar"
       },
       "dateInstalled": "2021-04-09T02:07:13.4870841Z",
-      "dateUpdated": "2021-06-09T07:05:54.7258522Z",
-      "dateLastUpdateAttempted": "2021-06-09T07:05:54.7258522Z",
-      "status": 3,
+      "dateUpdated": "2021-07-04T22:16:47.0880508Z",
+      "dateLastUpdateAttempted": "2021-07-04T22:16:47.0880508Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
