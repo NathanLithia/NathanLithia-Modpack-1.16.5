@@ -9747,14 +9747,14 @@
       "addonID": 410811,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3313692,
-        "displayName": "ftb-essentials-1605.1.2-build.20.jar",
-        "fileName": "ftb-essentials-1605.1.2-build.20.jar",
-        "fileDate": "2021-05-18T13:45:18.907Z",
-        "fileLength": 70706,
-        "releaseType": 3,
+        "id": 3373851,
+        "displayName": "ftb-essentials-1605.1.4-build.4.jar",
+        "fileName": "ftb-essentials-1605.1.4-build.4.jar",
+        "fileDate": "2021-07-02T13:24:35.33Z",
+        "fileLength": 68922,
+        "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3313/692/ftb-essentials-1605.1.2-build.20.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3373/851/ftb-essentials-1605.1.4-build.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -9774,31 +9774,31 @@
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "kubejs.classfilter.txt",
-            "fingerprint": 2278401661,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
             "foldername": "pack.mcmeta",
             "fingerprint": 1298629587,
             "type": 0,
             "invalidFingerprint": false
           },
           {
+            "foldername": "kubejs.classfilter.txt",
+            "fingerprint": 2278401661,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "META-INF",
-            "fingerprint": 524812275,
+            "fingerprint": 239814905,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 3494111676,
+            "fingerprint": 1194647122,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1239323844,
+        "packageFingerprint": 1727577425,
         "gameVersion": [
           "1.16.5"
         ],
@@ -9811,16 +9811,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-essentials-1605.1.2-build.20.jar"
+        "FileNameOnDisk": "ftb-essentials-1605.1.4-build.4.jar"
       },
       "dateInstalled": "2021-06-07T09:24:37.936696Z",
-      "dateUpdated": "2021-06-07T09:24:37.9507087Z",
-      "dateLastUpdateAttempted": "2021-06-07T09:24:37.9507087Z",
-      "status": 3,
+      "dateUpdated": "2021-07-04T22:17:45.5294983Z",
+      "dateLastUpdateAttempted": "2021-07-04T22:17:45.5294983Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
