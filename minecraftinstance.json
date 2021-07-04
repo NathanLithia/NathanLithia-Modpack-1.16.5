@@ -10548,32 +10548,32 @@
       "addonID": 289412,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3364908,
-        "displayName": "ftb-quests-forge-1605.3.3-build.30.jar",
-        "fileName": "ftb-quests-forge-1605.3.3-build.30.jar",
-        "fileDate": "2021-06-25T23:54:02.04Z",
-        "fileLength": 935885,
-        "releaseType": 3,
+        "id": 3373853,
+        "displayName": "ftb-quests-forge-1605.3.3-build.36.jar",
+        "fileName": "ftb-quests-forge-1605.3.3-build.36.jar",
+        "fileDate": "2021-07-02T13:24:55.653Z",
+        "fileLength": 936065,
+        "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3364/908/ftb-quests-forge-1605.3.3-build.30.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3373/853/ftb-quests-forge-1605.3.3-build.36.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 309674,
+            "addonId": 419699,
             "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 268655,
+            "addonId": 238222,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 419699,
+            "addonId": 309674,
             "type": 3,
             "fileId": 0
           },
@@ -10585,8 +10585,8 @@
           },
           {
             "id": 0,
-            "addonId": 238222,
-            "type": 2,
+            "addonId": 404465,
+            "type": 3,
             "fileId": 0
           },
           {
@@ -10594,25 +10594,19 @@
             "addonId": 404468,
             "type": 3,
             "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 404465,
-            "type": 3,
-            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "data",
-            "fingerprint": 1908987372,
+            "foldername": "assets",
+            "fingerprint": 1139386358,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "assets",
-            "fingerprint": 3837852317,
+            "foldername": "data",
+            "fingerprint": 1908987372,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -10630,24 +10624,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 207944145,
+            "fingerprint": 1818449446,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 2627450802,
+            "fingerprint": 2646756698,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_FTBQuests1165_common_973e53ca71f24b7f8343d612f5857ab4",
-            "fingerprint": 1200032313,
+            "foldername": "architectury_inject_FTBQuests1165_common_69f76b5382074a57a4315204deae8e43",
+            "fingerprint": 2707673703,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1431148225,
+        "packageFingerprint": 231112671,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -10662,12 +10656,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-quests-forge-1605.3.3-build.30.jar"
+        "FileNameOnDisk": "ftb-quests-forge-1605.3.3-build.36.jar"
       },
       "dateInstalled": "2021-06-19T09:27:13.3012464Z",
-      "dateUpdated": "2021-06-27T03:31:26.727064Z",
-      "dateLastUpdateAttempted": "2021-06-27T03:31:26.727064Z",
-      "status": 3,
+      "dateUpdated": "2021-07-04T22:18:07.404199Z",
+      "dateLastUpdateAttempted": "2021-07-04T22:18:07.404199Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
