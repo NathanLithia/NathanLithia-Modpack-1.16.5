@@ -7873,14 +7873,14 @@
       "addonID": 231951,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3326143,
-        "displayName": "ImmersiveEngineering-1.16.5-5.0.0-135",
-        "fileName": "ImmersiveEngineering-1.16.5-5.0.0-135.jar",
-        "fileDate": "2021-05-26T21:59:21.707Z",
-        "fileLength": 8864181,
+        "id": 3376454,
+        "displayName": "ImmersiveEngineering-1.16.5-5.0.1-136",
+        "fileName": "ImmersiveEngineering-1.16.5-5.0.1-136.jar",
+        "fileDate": "2021-07-04T18:53:17.273Z",
+        "fileLength": 8815193,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3326/143/ImmersiveEngineering-1.16.5-5.0.0-135.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3376/454/ImmersiveEngineering-1.16.5-5.0.1-136.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -7888,43 +7888,43 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2705226356,
+            "fingerprint": 336763413,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": ".cache",
-            "fingerprint": 1361173295,
+            "fingerprint": 1858950338,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 1529351655,
+            "fingerprint": 2486626033,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "blusunrize",
-            "fingerprint": 3947829786,
+            "fingerprint": 3456807584,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 2219666452,
+            "fingerprint": 3893405986,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "immersiveengineering.mixins.json",
-            "fingerprint": 1389004148,
+            "fingerprint": 2017914936,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "immersiveengineering.refmap.json",
-            "fingerprint": 889141391,
+            "fingerprint": 2052073045,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -7953,7 +7953,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1166450702,
+        "packageFingerprint": 4022524708,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -7967,12 +7967,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ImmersiveEngineering-1.16.5-5.0.0-135.jar"
+        "FileNameOnDisk": "ImmersiveEngineering-1.16.5-5.0.1-136.jar"
       },
       "dateInstalled": "2021-03-23T21:18:24.3786203Z",
-      "dateUpdated": "2021-05-29T00:08:12.0463395Z",
-      "dateLastUpdateAttempted": "2021-05-29T00:08:12.0463395Z",
-      "status": 3,
+      "dateUpdated": "2021-07-05T22:18:22.6175171Z",
+      "dateLastUpdateAttempted": "2021-07-05T22:18:22.6175171Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
