@@ -6,8 +6,11 @@
 *.lang
 *.abc
 *.local
-/shaderpacks/ComplementaryShaders
-/shaderpacks/VoxelmentaryShaders
+*.vsh
+*.fsh
+*.mcmeta
+overlay.png
+cucumber.png
 worldedit_wand.png
 servers.dat
 /mods/clef
