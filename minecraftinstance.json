@@ -1313,14 +1313,14 @@
       "addonID": 342584,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3283885,
-        "displayName": "collective-1.16.5-2.26.jar",
-        "fileName": "collective-1.16.5-2.26.jar",
-        "fileDate": "2021-04-21T08:58:23.173Z",
-        "fileLength": 131333,
+        "id": 3376521,
+        "displayName": "collective-1.16.5-2.27.jar",
+        "fileName": "collective-1.16.5-2.27.jar",
+        "fileDate": "2021-07-04T19:59:22.013Z",
+        "fileLength": 131331,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3283/885/collective-1.16.5-2.26.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3376/521/collective-1.16.5-2.27.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -1328,13 +1328,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2136366379,
+            "fingerprint": 423343963,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 2453808257,
+            "fingerprint": 2503445115,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1345,7 +1345,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 895102992,
+        "packageFingerprint": 1634570672,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -1359,12 +1359,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "collective-1.16.5-2.26.jar"
+        "FileNameOnDisk": "collective-1.16.5-2.27.jar"
       },
       "dateInstalled": "2021-06-16T17:27:39.4052451Z",
-      "dateUpdated": "2021-06-16T17:27:39.4132527Z",
-      "dateLastUpdateAttempted": "2021-06-16T17:27:39.4132527Z",
-      "status": 3,
+      "dateUpdated": "2021-07-05T22:18:35.6022087Z",
+      "dateLastUpdateAttempted": "2021-07-05T22:18:35.6022087Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
