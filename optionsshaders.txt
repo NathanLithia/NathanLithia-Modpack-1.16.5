@@ -1,10 +1,10 @@
-#Thu Jun 17 21:03:48 ACST 2021
+#Tue Jul 06 15:50:14 ACST 2021
 handDepthMul=0.125
 TexMinFilB=0
 oldLighting=default
 TexMagFilN=0
 tweakBlockDamage=false
-cloudShadow=true
+cloudShadow=false
 TexMagFilS=0
 shaderPack=ComplementaryShaders
 TexMinFilN=0
