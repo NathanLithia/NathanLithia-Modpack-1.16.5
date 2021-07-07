@@ -1,0 +1,25 @@
+{
+	"texture": "textures/entity/pig/baby_pig_head",
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-8, -8, -16, 16, 16, 16],
+			"uvNorth": [8, 8, 16, 16],
+			"uvEast": [0, 8, 8, 16],
+			"uvSouth": [24, 8, 32, 16],
+			"uvWest": [16, 8, 24, 16],
+			"uvUp": [16, 8, 8, 0],
+			"uvDown": [24, 0, 16, 8]
+		},
+		{
+			"coordinates": [-4, 0, -18, 8, 6, 2],
+			"uvNorth": [17, 17, 21, 20],
+			"uvEast": [16, 17, 17, 20],
+			"uvSouth": [22, 17, 26, 20],
+			"uvWest": [21, 17, 22, 20],
+			"uvUp": [21, 17, 17, 16],
+			"uvDown": [25, 16, 21, 17]
+		}
+	]
+}
