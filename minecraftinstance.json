@@ -2713,34 +2713,34 @@
       "addonID": 303657,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3298561,
-        "displayName": "Kiwi-1.16.5-3.5.1.jar",
-        "fileName": "Kiwi-1.16.5-3.5.1.jar",
-        "fileDate": "2021-05-04T19:42:48.583Z",
-        "fileLength": 219913,
+        "id": 3377053,
+        "displayName": "Kiwi-1.16.5-3.5.2.jar",
+        "fileName": "Kiwi-1.16.5-3.5.2.jar",
+        "fileDate": "2021-07-05T07:24:55.37Z",
+        "fileLength": 222370,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3298/561/Kiwi-1.16.5-3.5.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3377/53/Kiwi-1.16.5-3.5.2.jar",
         "isAlternate": false,
-        "alternateFileId": 3298562,
+        "alternateFileId": 3377054,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 123197055,
+            "fingerprint": 2518107497,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "snownee",
-            "fingerprint": 906317461,
+            "fingerprint": 1587966429,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 759431020,
+            "fingerprint": 2833864315,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -2751,7 +2751,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2170468284,
+        "packageFingerprint": 125253871,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -2763,15 +2763,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionDateReleased": "2020-09-10T14:44:20.443Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Kiwi-1.16.5-3.5.1.jar"
+        "FileNameOnDisk": "Kiwi-1.16.5-3.5.2.jar"
       },
       "dateInstalled": "2021-05-10T08:55:03.3769792Z",
-      "dateUpdated": "2021-05-10T08:55:03.3789713Z",
-      "dateLastUpdateAttempted": "2021-05-10T08:55:03.3789713Z",
-      "status": 3,
+      "dateUpdated": "2021-07-08T08:30:57.8114741Z",
+      "dateLastUpdateAttempted": "2021-07-08T08:30:57.8114741Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
