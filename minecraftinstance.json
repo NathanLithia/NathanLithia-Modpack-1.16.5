@@ -7308,14 +7308,14 @@
       "addonID": 235279,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3367011,
-        "displayName": "Chisel - MC1.16.5-2.0.0-alpha.3",
-        "fileName": "Chisel-MC1.16.5-2.0.0-alpha.3.jar",
-        "fileDate": "2021-06-27T22:15:06.88Z",
-        "fileLength": 7302670,
+        "id": 3376782,
+        "displayName": "Chisel - MC1.16.5-2.0.1-alpha.4",
+        "fileName": "Chisel-MC1.16.5-2.0.1-alpha.4.jar",
+        "fileDate": "2021-07-04T23:38:36.057Z",
+        "fileLength": 7313725,
         "releaseType": 3,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3367/11/Chisel-MC1.16.5-2.0.0-alpha.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3376/782/Chisel-MC1.16.5-2.0.1-alpha.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -7330,19 +7330,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3633711697,
+            "fingerprint": 1999748061,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "team",
-            "fingerprint": 1067258892,
+            "fingerprint": 2022868106,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 2524762533,
+            "fingerprint": 824854242,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -7354,18 +7354,18 @@
           },
           {
             "foldername": ".cache",
-            "fingerprint": 1558460928,
+            "fingerprint": 3123031256,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 4117588642,
+            "fingerprint": 2217915551,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1935508087,
+        "packageFingerprint": 1882005860,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -7379,12 +7379,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Chisel-MC1.16.5-2.0.0-alpha.3.jar"
+        "FileNameOnDisk": "Chisel-MC1.16.5-2.0.1-alpha.4.jar"
       },
       "dateInstalled": "2021-06-29T12:43:37.5248061Z",
-      "dateUpdated": "2021-06-29T12:43:37.5578367Z",
-      "dateLastUpdateAttempted": "2021-06-29T12:43:37.5578367Z",
-      "status": 3,
+      "dateUpdated": "2021-07-08T08:31:40.1297678Z",
+      "dateLastUpdateAttempted": "2021-07-08T08:31:40.1297678Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
