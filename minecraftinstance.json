@@ -16959,14 +16959,14 @@
       "addonID": 309674,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3376013,
-        "displayName": "item-filters-forge-1605.2.5-build.7.jar",
-        "fileName": "item-filters-forge-1605.2.5-build.7.jar",
-        "fileDate": "2021-07-04T11:46:53.237Z",
-        "fileLength": 106802,
+        "id": 3376819,
+        "displayName": "item-filters-forge-1605.2.5-build.9.jar",
+        "fileName": "item-filters-forge-1605.2.5-build.9.jar",
+        "fileDate": "2021-07-05T00:30:35.13Z",
+        "fileLength": 106801,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3376/13/item-filters-forge-1605.2.5-build.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3376/819/item-filters-forge-1605.2.5-build.9.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -17011,7 +17011,7 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 2212880910,
+            "fingerprint": 185804119,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -17022,13 +17022,13 @@
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_ItemFilters1165_common_f5a747110bbe46668c96d74c5bb3295a",
-            "fingerprint": 3180753543,
+            "foldername": "architectury_inject_ItemFilters1165_common_1193252d27c84c9d916d77f0c87ce283",
+            "fingerprint": 1897237996,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3809683881,
+        "packageFingerprint": 4059505426,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -17043,12 +17043,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "item-filters-forge-1605.2.5-build.7.jar"
+        "FileNameOnDisk": "item-filters-forge-1605.2.5-build.9.jar"
       },
       "dateInstalled": "2021-05-10T08:53:36.0468304Z",
-      "dateUpdated": "2021-07-04T22:18:34.0228257Z",
-      "dateLastUpdateAttempted": "2021-07-04T22:18:34.0228257Z",
-      "status": 3,
+      "dateUpdated": "2021-07-08T08:31:08.1218992Z",
+      "dateLastUpdateAttempted": "2021-07-08T08:31:08.1218992Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
