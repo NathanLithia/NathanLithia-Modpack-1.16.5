@@ -7867,14 +7867,14 @@
       "addonID": 231951,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3376454,
-        "displayName": "ImmersiveEngineering-1.16.5-5.0.1-136",
-        "fileName": "ImmersiveEngineering-1.16.5-5.0.1-136.jar",
-        "fileDate": "2021-07-04T18:53:17.273Z",
-        "fileLength": 8815193,
+        "id": 3377691,
+        "displayName": "ImmersiveEngineering-1.16.5-5.0.2-137",
+        "fileName": "ImmersiveEngineering-1.16.5-5.0.2-137.jar",
+        "fileDate": "2021-07-05T19:15:16.497Z",
+        "fileLength": 8817719,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3376/454/ImmersiveEngineering-1.16.5-5.0.1-136.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3377/691/ImmersiveEngineering-1.16.5-5.0.2-137.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -7882,7 +7882,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 336763413,
+            "fingerprint": 3350412957,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -7894,13 +7894,13 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2486626033,
+            "fingerprint": 2116310072,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "blusunrize",
-            "fingerprint": 3456807584,
+            "fingerprint": 2297037109,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -7947,7 +7947,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4022524708,
+        "packageFingerprint": 2088764509,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -7961,12 +7961,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ImmersiveEngineering-1.16.5-5.0.1-136.jar"
+        "FileNameOnDisk": "ImmersiveEngineering-1.16.5-5.0.2-137.jar"
       },
       "dateInstalled": "2021-03-23T21:18:24.3786203Z",
-      "dateUpdated": "2021-07-05T22:18:22.6175171Z",
-      "dateLastUpdateAttempted": "2021-07-05T22:18:22.6175171Z",
-      "status": 3,
+      "dateUpdated": "2021-07-08T08:31:24.6628644Z",
+      "dateLastUpdateAttempted": "2021-07-08T08:31:24.6628644Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
