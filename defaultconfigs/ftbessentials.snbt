@@ -4,7 +4,7 @@
 			# /back cooldown in seconds
 			# Default: 30
 			# Range: 0 ~ 604800
-			cooldown: 30
+			cooldown: 16
 			
 			# Max number of times you can use /back
 			# Default: 10
