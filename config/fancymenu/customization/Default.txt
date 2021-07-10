@@ -23,7 +23,7 @@ customization {
   buttonaction = openlink
   x = 1
   width = 98
-  actionid = 7df0f78a-28cb-4e7a-8fee-07b8084b87c41623412752376
+  actionid = 90b163a7-2257-4c36-9a96-c97fe1d594c91625958838314
   action = addbutton
   y = 4
   label = Website
@@ -49,7 +49,7 @@ customization {
 customization {
   identifier = %id=400322%
   action = setbuttonlabel
-  value = MP
+  value = M
 }
 
 customization {
@@ -61,9 +61,9 @@ customization {
 customization {
   identifier = %id=400298%
   orientation = mid-centered
-  x = -121
+  x = 101
   action = movebutton
-  y = 4
+  y = 26
 }
 
 customization {
@@ -76,7 +76,7 @@ customization {
 customization {
   identifier = %id=400298%
   action = setbuttonlabel
-  value = SP
+  value = S
 }
 
 customization {
@@ -96,9 +96,9 @@ customization {
 customization {
   identifier = %id=604382%
   orientation = mid-centered
-  x = 101
+  x = -121
   action = movebutton
-  y = 26
+  y = 4
 }
 
 customization {
@@ -128,27 +128,13 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = joinserver
-  x = -99
-  width = 220
-  actionid = 5918be83-a424-4dd8-8128-97b5929ebb681623412752384
-  action = addbutton
-  y = -18
-  label = Connect To Primary Server
-  value = thecloudserver.duckdns.org:25565
-  height = 20
-}
-
-customization {
-  orientation = mid-centered
-  buttonaction = joinserver
   x = -121
-  width = 20
-  actionid = 2a344f7a-f4ec-4b66-8ba6-14a2bdd8104b1623412752391
+  width = 242
+  actionid = 8224006c-b0c4-4ea5-96f7-06ea669869511625958838321
   action = addbutton
   y = -18
-  description = Development Server
-  label = S2
-  value = NathanLithia.duckdns.org:25565
+  label = Connect
+  value = thecloudserver.duckdns.org:25565
   height = 20
 }
 
