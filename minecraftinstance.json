@@ -9280,14 +9280,14 @@
       "addonID": 233105,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3380268,
-        "displayName": "McJtyLib - 1.16-5.0.20",
-        "fileName": "mcjtylib-1.16-5.0.20.jar",
-        "fileDate": "2021-07-07T16:44:43.913Z",
-        "fileLength": 560443,
+        "id": 3380980,
+        "displayName": "McJtyLib - 1.16-5.0.21",
+        "fileName": "mcjtylib-1.16-5.0.21.jar",
+        "fileDate": "2021-07-08T05:04:33.04Z",
+        "fileLength": 561310,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3380/268/mcjtylib-1.16-5.0.20.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3380/980/mcjtylib-1.16-5.0.21.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -9308,13 +9308,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1132430630,
+            "fingerprint": 1756530296,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcjty",
-            "fingerprint": 3661423666,
+            "fingerprint": 3941106096,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -9331,7 +9331,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 447183181,
+        "packageFingerprint": 2272150536,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -9345,12 +9345,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "mcjtylib-1.16-5.0.20.jar"
+        "FileNameOnDisk": "mcjtylib-1.16-5.0.21.jar"
       },
       "dateInstalled": "2021-03-23T21:47:41.1987871Z",
-      "dateUpdated": "2021-07-10T07:31:51.6381937Z",
-      "dateLastUpdateAttempted": "2021-07-10T07:31:51.6381937Z",
-      "status": 3,
+      "dateUpdated": "2021-07-10T08:47:55.0938127Z",
+      "dateLastUpdateAttempted": "2021-07-10T08:47:55.0938127Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
