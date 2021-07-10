@@ -3257,17 +3257,23 @@
       "addonID": 250763,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3310449,
-        "displayName": "RFToolsControl - 1.16-4.0.10",
-        "fileName": "rftoolscontrol-1.16-4.0.10.jar",
-        "fileDate": "2021-05-15T12:32:43.16Z",
-        "fileLength": 615133,
+        "id": 3380280,
+        "displayName": "RFToolsControl - 1.16-4.0.11",
+        "fileName": "rftoolscontrol-1.16-4.0.11.jar",
+        "fileDate": "2021-07-07T16:51:39.4Z",
+        "fileLength": 615168,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3310/449/rftoolscontrol-1.16-4.0.10.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3380/280/rftoolscontrol-1.16-4.0.11.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
+          {
+            "id": 0,
+            "addonId": 233105,
+            "type": 3,
+            "fileId": 0
+          },
           {
             "id": 0,
             "addonId": 245211,
@@ -3285,31 +3291,25 @@
             "addonId": 326041,
             "type": 3,
             "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 233105,
-            "type": 3,
-            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1678256511,
+            "fingerprint": 2019200650,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcjty",
-            "fingerprint": 938187559,
+            "fingerprint": 345349831,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3023943556,
+            "fingerprint": 945044135,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3326,7 +3326,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4230131224,
+        "packageFingerprint": 2371023085,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -3340,12 +3340,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "rftoolscontrol-1.16-4.0.10.jar"
+        "FileNameOnDisk": "rftoolscontrol-1.16-4.0.11.jar"
       },
       "dateInstalled": "2021-03-23T21:47:46.4877233Z",
-      "dateUpdated": "2021-05-20T13:59:29.2435304Z",
-      "dateLastUpdateAttempted": "2021-05-20T13:59:29.2435304Z",
-      "status": 3,
+      "dateUpdated": "2021-07-10T07:31:29.1791107Z",
+      "dateLastUpdateAttempted": "2021-07-10T07:31:29.1791107Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
