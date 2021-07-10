@@ -3,7 +3,7 @@
 [mob_configuration]
 	#Enable the default ability of Wraiths to summon Wraith Fire around the player as an attack. 
 	#If you prefer a less griefy attack using Soul Fireballs akin to the Blaze, disable this feature. [true / false]
-	enableWraithFireSummon = true
+	enableWraithFireSummon = false
 	#Add mobs (preferably undead) that the Necromancer can summon. 
 	#To do so, enter the namespace ID of the mob, like "minecraft:zombie".
 	#If this list is empty, zombies will be summoned instead.
@@ -14,7 +14,7 @@
 [spawn_configuration]
 	#Enable Frozen Zombies replacing 80% of  Zombie spawns in ICY biomes. 
 	#If you prefer to not have them do this, disable this feature. [true / false]
-	enableFrozenZombieReplacesZombie = true
+	enableFrozenZombieReplacesZombie = false
 	#Enable Icy Creepers replacing 80% of Creeper spawns in ICY biomes. 
 	#If you prefer to not have them do this, disable this feature. [true / false]
 	enableIcyCreeperReplacesCreeper = true
