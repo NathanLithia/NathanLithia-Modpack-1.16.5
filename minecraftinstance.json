@@ -5738,14 +5738,14 @@
       "addonID": 326041,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3206945,
-        "displayName": "RFToolsBase - 1.16-2.0.10",
-        "fileName": "rftoolsbase-1.16-2.0.10.jar",
-        "fileDate": "2021-02-17T04:10:35.473Z",
-        "fileLength": 414285,
+        "id": 3380271,
+        "displayName": "RFToolsBase - 1.16-2.0.11",
+        "fileName": "rftoolsbase-1.16-2.0.11.jar",
+        "fileDate": "2021-07-07T16:45:36.187Z",
+        "fileLength": 414291,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3206/945/rftoolsbase-1.16-2.0.10.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3380/271/rftoolsbase-1.16-2.0.11.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -5757,14 +5757,14 @@
           },
           {
             "id": 0,
-            "addonId": 245211,
-            "type": 2,
+            "addonId": 233105,
+            "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 233105,
-            "type": 3,
+            "addonId": 245211,
+            "type": 2,
             "fileId": 0
           }
         ],
@@ -5772,13 +5772,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4163259097,
+            "fingerprint": 1362579129,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcjty",
-            "fingerprint": 3801029730,
+            "fingerprint": 2177491659,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -5801,12 +5801,10 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2304509888,
+        "packageFingerprint": 126991286,
         "gameVersion": [
-          "1.16.3",
           "1.16.5",
-          "Forge",
-          "1.16.4"
+          "Forge"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -5817,12 +5815,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "rftoolsbase-1.16-2.0.10.jar"
+        "FileNameOnDisk": "rftoolsbase-1.16-2.0.11.jar"
       },
       "dateInstalled": "2021-03-23T21:47:41.5655197Z",
-      "dateUpdated": "2021-03-23T21:47:41.5665214Z",
-      "dateLastUpdateAttempted": "2021-03-23T21:47:41.5665214Z",
-      "status": 3,
+      "dateUpdated": "2021-07-10T07:31:37.5641767Z",
+      "dateLastUpdateAttempted": "2021-07-10T07:31:37.5641767Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
