@@ -14249,14 +14249,14 @@
       "addonID": 345795,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3362950,
-        "displayName": "envirocore-1.16.5-3.0.9.0.jar",
-        "fileName": "envirocore-1.16.5-3.0.9.0.jar",
-        "fileDate": "2021-06-24T07:05:16.113Z",
-        "fileLength": 1204381,
-        "releaseType": 3,
+        "id": 3380278,
+        "displayName": "envirocore-1.16.5-3.0.9.1.jar",
+        "fileName": "envirocore-1.16.5-3.0.9.1.jar",
+        "fileDate": "2021-07-07T16:50:33.327Z",
+        "fileLength": 1203553,
+        "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3362/950/envirocore-1.16.5-3.0.9.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3380/278/envirocore-1.16.5-3.0.9.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -14271,13 +14271,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3357388082,
+            "fingerprint": 3643974003,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 397405422,
+            "fingerprint": 1602507943,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -14306,7 +14306,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4177848653,
+        "packageFingerprint": 140971011,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -14320,12 +14320,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "envirocore-1.16.5-3.0.9.0.jar"
+        "FileNameOnDisk": "envirocore-1.16.5-3.0.9.1.jar"
       },
       "dateInstalled": "2021-03-23T21:20:12.7767468Z",
-      "dateUpdated": "2021-06-27T03:32:13.3686649Z",
-      "dateLastUpdateAttempted": "2021-06-27T03:32:13.3686649Z",
-      "status": 3,
+      "dateUpdated": "2021-07-10T07:32:09.8068276Z",
+      "dateLastUpdateAttempted": "2021-07-10T07:32:09.8068276Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
