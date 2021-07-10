@@ -1,0 +1,13 @@
+create:creative_motor
+create:creative_fluid_tank
+create:creative_crate
+immersiveengineering:capacitor_creative
+stpragedrawers:creative_storage_upgrade
+storagedrawers:creative_vending_upgrade
+iceandfire:creative_dragon_meal
+tconstruct:creative_upgrade
+tconstruct:creative_ability
+createaddition:creative_energy
+appliedenergistics2:creative_energy_cell
+appliedenergistics2:creative_storage_cell
+bloodmagic:activationcrystalcreative
