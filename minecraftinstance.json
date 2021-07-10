@@ -6415,14 +6415,14 @@
       "addonID": 314905,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3373844,
-        "displayName": "ftb-ranks-1605.1.4-build.3-forge.jar",
-        "fileName": "ftb-ranks-1605.1.4-build.3-forge.jar",
-        "fileDate": "2021-07-02T13:20:06.597Z",
-        "fileLength": 65308,
+        "id": 3381473,
+        "displayName": "ftb-ranks-1605.1.4-build.5-forge.jar",
+        "fileName": "ftb-ranks-1605.1.4-build.5-forge.jar",
+        "fileDate": "2021-07-08T16:57:12.52Z",
+        "fileLength": 67284,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3373/844/ftb-ranks-1605.1.4-build.3-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3381/473/ftb-ranks-1605.1.4-build.5-forge.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -6443,7 +6443,13 @@
         "modules": [
           {
             "foldername": "ftbranks-common.mixins.json",
-            "fingerprint": 2929449231,
+            "fingerprint": 3158185349,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ftb-ranks-common-refmap.json",
+            "fingerprint": 1493072104,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6455,24 +6461,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 2624151491,
+            "fingerprint": 1862093748,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 3698851289,
+            "fingerprint": 1837508144,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_FTBRanks1165_common_d2bec380e6c54ad8ab1eb1b9bda9fc81",
-            "fingerprint": 729691507,
+            "foldername": "architectury_inject_FTBRanks1165_common_3bbc4ee2c82b4196986e3808cab91fdd",
+            "fingerprint": 1060592673,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1105014835,
+        "packageFingerprint": 2889913785,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -6486,12 +6492,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-ranks-1605.1.4-build.3-forge.jar"
+        "FileNameOnDisk": "ftb-ranks-1605.1.4-build.5-forge.jar"
       },
       "dateInstalled": "2021-06-09T16:26:40.1348526Z",
-      "dateUpdated": "2021-07-04T22:18:15.3363356Z",
-      "dateLastUpdateAttempted": "2021-07-04T22:18:15.3363356Z",
-      "status": 3,
+      "dateUpdated": "2021-07-10T08:48:22.1022362Z",
+      "dateLastUpdateAttempted": "2021-07-10T08:48:22.1022362Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
