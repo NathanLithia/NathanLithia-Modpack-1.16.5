@@ -12024,14 +12024,14 @@
       "addonID": 238222,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3373521,
-        "displayName": "jei-1.16.5-7.7.0.107.jar",
-        "fileName": "jei-1.16.5-7.7.0.107.jar",
-        "fileDate": "2021-07-02T05:33:28.127Z",
-        "fileLength": 809714,
+        "id": 3383214,
+        "displayName": "jei-1.16.5-7.7.1.110.jar",
+        "fileName": "jei-1.16.5-7.7.1.110.jar",
+        "fileDate": "2021-07-10T01:33:28.393Z",
+        "fileLength": 812772,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3373/521/jei-1.16.5-7.7.0.107.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3383/214/jei-1.16.5-7.7.1.110.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -12039,13 +12039,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 533045566,
+            "fingerprint": 1812552369,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mezz",
-            "fingerprint": 3091068878,
+            "fingerprint": 1485561878,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12062,7 +12062,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1279710168,
+        "packageFingerprint": 1858634730,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -12076,12 +12076,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "jei-1.16.5-7.7.0.107.jar"
+        "FileNameOnDisk": "jei-1.16.5-7.7.1.110.jar"
       },
       "dateInstalled": "2021-03-23T21:18:04.8239951Z",
-      "dateUpdated": "2021-07-04T22:18:42.3961807Z",
-      "dateLastUpdateAttempted": "2021-07-04T22:18:42.3961807Z",
-      "status": 3,
+      "dateUpdated": "2021-07-10T08:48:06.4271227Z",
+      "dateLastUpdateAttempted": "2021-07-10T08:48:06.4271227Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
