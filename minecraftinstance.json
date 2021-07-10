@@ -7606,14 +7606,14 @@
       "addonID": 289310,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3204813,
-        "displayName": "[1.16.5] Camera Mod 1.16.5-1.0.2",
-        "fileName": "camera-1.16.5-1.0.2.jar",
-        "fileDate": "2021-02-15T13:29:36.887Z",
-        "fileLength": 262429,
+        "id": 3381163,
+        "displayName": "[1.16.5] Camera Mod 1.16.5-1.0.14",
+        "fileName": "camera-1.16.5-1.0.14.jar",
+        "fileDate": "2021-07-08T10:19:19.663Z",
+        "fileLength": 273299,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3204/813/camera-1.16.5-1.0.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3381/163/camera-1.16.5-1.0.14.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -7621,19 +7621,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3253762590,
+            "fingerprint": 3399682809,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "de",
-            "fingerprint": 4258161499,
+            "fingerprint": 2838593210,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 1159762624,
+            "fingerprint": 4008914428,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -7650,13 +7650,13 @@
             "invalidFingerprint": false
           },
           {
-            "foldername": "mixin.refmap.json",
-            "fingerprint": 4000652415,
+            "foldername": "camera.refmap.json",
+            "fingerprint": 2682130958,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 989636116,
+        "packageFingerprint": 543021999,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -7670,12 +7670,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "camera-1.16.5-1.0.2.jar"
+        "FileNameOnDisk": "camera-1.16.5-1.0.14.jar"
       },
       "dateInstalled": "2021-06-29T16:03:08.7313653Z",
-      "dateUpdated": "2021-06-29T16:03:08.7333688Z",
-      "dateLastUpdateAttempted": "2021-06-29T16:03:08.7333688Z",
-      "status": 3,
+      "dateUpdated": "2021-07-10T08:50:48.3647293Z",
+      "dateLastUpdateAttempted": "2021-07-10T08:50:48.3647293Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
