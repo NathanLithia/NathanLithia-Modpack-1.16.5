@@ -1,0 +1,4 @@
+immersiveengineering:thermoeletric_generator
+immersiveengineering:dynamo
+immersiveengineering:windmill
+immersiveengineering:watermill
