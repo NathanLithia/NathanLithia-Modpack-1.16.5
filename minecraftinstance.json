@@ -6579,20 +6579,20 @@
       "addonID": 314906,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3373847,
-        "displayName": "ftb-chunks-forge-1605.3.1-build.20.jar",
-        "fileName": "ftb-chunks-forge-1605.3.1-build.20.jar",
-        "fileDate": "2021-07-02T13:22:51.027Z",
-        "fileLength": 693525,
+        "id": 3379733,
+        "displayName": "ftb-chunks-forge-1605.3.1-build.24.jar",
+        "fileName": "ftb-chunks-forge-1605.3.1-build.24.jar",
+        "fileDate": "2021-07-07T10:28:55.593Z",
+        "fileLength": 706637,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3373/847/ftb-chunks-forge-1605.3.1-build.20.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3379/733/ftb-chunks-forge-1605.3.1-build.24.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 419699,
+            "addonId": 404465,
             "type": 3,
             "fileId": 0
           },
@@ -6604,7 +6604,7 @@
           },
           {
             "id": 0,
-            "addonId": 404465,
+            "addonId": 419699,
             "type": 3,
             "fileId": 0
           },
@@ -6625,13 +6625,13 @@
           },
           {
             "foldername": "ftbchunks-common.mixins.json",
-            "fingerprint": 678863854,
+            "fingerprint": 691596479,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3759948110,
+            "fingerprint": 309134154,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6649,7 +6649,7 @@
           },
           {
             "foldername": "ftb-chunks-common-refmap.json",
-            "fingerprint": 2962955797,
+            "fingerprint": 1767887801,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6661,24 +6661,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 3197674498,
+            "fingerprint": 1710321743,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 2396922937,
+            "fingerprint": 334393146,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_FTBChunks1165_common_250d05bfa27d4a55ac34955fedc55821",
-            "fingerprint": 2271664504,
+            "foldername": "architectury_inject_FTBChunks1165_common_4c316c64e5314b14b800fe457a2aeb13",
+            "fingerprint": 2245106462,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 829231298,
+        "packageFingerprint": 533353366,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -6692,12 +6692,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-chunks-forge-1605.3.1-build.20.jar"
+        "FileNameOnDisk": "ftb-chunks-forge-1605.3.1-build.24.jar"
       },
       "dateInstalled": "2021-05-20T15:18:59.2561545Z",
-      "dateUpdated": "2021-07-04T22:17:35.1357594Z",
-      "dateLastUpdateAttempted": "2021-07-04T22:17:35.1357594Z",
-      "status": 3,
+      "dateUpdated": "2021-07-10T07:31:59.5104589Z",
+      "dateLastUpdateAttempted": "2021-07-10T07:31:59.5104589Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
