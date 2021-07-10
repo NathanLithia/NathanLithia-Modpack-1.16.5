@@ -9280,26 +9280,26 @@
       "addonID": 233105,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3236516,
-        "displayName": "McJtyLib - 1.16-5.0.19",
-        "fileName": "mcjtylib-1.16-5.0.19.jar",
-        "fileDate": "2021-03-12T05:02:33.08Z",
-        "fileLength": 558966,
+        "id": 3380268,
+        "displayName": "McJtyLib - 1.16-5.0.20",
+        "fileName": "mcjtylib-1.16-5.0.20.jar",
+        "fileDate": "2021-07-07T16:44:43.913Z",
+        "fileLength": 560443,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3236/516/mcjtylib-1.16-5.0.19.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3380/268/mcjtylib-1.16-5.0.20.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 245211,
+            "addonId": 270789,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 270789,
+            "addonId": 245211,
             "type": 2,
             "fileId": 0
           }
@@ -9308,13 +9308,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 700380235,
+            "fingerprint": 1132430630,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcjty",
-            "fingerprint": 3086241108,
+            "fingerprint": 3661423666,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -9331,7 +9331,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1051781291,
+        "packageFingerprint": 447183181,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -9345,12 +9345,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "mcjtylib-1.16-5.0.19.jar"
+        "FileNameOnDisk": "mcjtylib-1.16-5.0.20.jar"
       },
       "dateInstalled": "2021-03-23T21:47:41.1987871Z",
-      "dateUpdated": "2021-03-23T21:47:41.2007902Z",
-      "dateLastUpdateAttempted": "2021-03-23T21:47:41.2007902Z",
-      "status": 3,
+      "dateUpdated": "2021-07-10T07:31:51.6381937Z",
+      "dateLastUpdateAttempted": "2021-07-10T07:31:51.6381937Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
