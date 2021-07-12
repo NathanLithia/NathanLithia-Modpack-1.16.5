@@ -142,9 +142,9 @@
 
 	[[drink_options.drink_entries]]
 		location = "pamhc2foodextended:energydrinkitem"
-		thirst = 2
-		hydration = 0.2
-		poison_chance = 0.05
+		thirst = 20
+		hydration = 1
+		poison_chance = 1
 
 	[[drink_options.drink_entries]]
 		location = "pamhc2foodextended:gingersodaitem"
