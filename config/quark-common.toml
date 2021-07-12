@@ -7,7 +7,7 @@
 	"Use Fast Worldgen" = false
 	"Enable 'q' Button" = false
 	#A list of screens that don't play well with quark's buttons. Use "Print Screen Classnames" to find the names of any others you'd want to add.
-	"Ignored Screens" = ["appeng.client.gui.me.items.CraftingTermScreen", "slimeknights.tconstruct.tables.client.inventory.TinkerChestScreen", "com.tfar.craftingstation.client.CraftingStationScreen", "com.refinedmods.refinedstorage.screen.grid.GridScreen", "appeng.client.gui.implementations.CraftingTermScreen", "appeng.client.gui.implementations.PatternTermScreen", "slimeknights.tconstruct.tables.client.inventory.table.CraftingStationScreen", "slimeknights.tconstruct.tables.client.inventory.module.TinkerTabsScreen", "slimeknights.tconstruct.tables.client.inventory.module.SideInventoryScreen"]
+	"Ignored Screens" = ["blusunrize.immersiveengineering.client.gui.CraftingTableScreen", "appeng.client.gui.me.items.CraftingTermScreen", "slimeknights.tconstruct.tables.client.inventory.TinkerChestScreen", "com.tfar.craftingstation.client.CraftingStationScreen", "com.refinedmods.refinedstorage.screen.grid.GridScreen", "appeng.client.gui.implementations.CraftingTermScreen", "appeng.client.gui.implementations.PatternTermScreen", "slimeknights.tconstruct.tables.client.inventory.table.CraftingStationScreen", "slimeknights.tconstruct.tables.client.inventory.module.TinkerTabsScreen", "slimeknights.tconstruct.tables.client.inventory.module.SideInventoryScreen"]
 	"Use Anti Overlap" = true
 	#Enables quark network profiling features. Do not enable this unless requested to.
 	"Enable Network Profiling" = false
