@@ -11100,14 +11100,14 @@
       "addonID": 429235,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3272785,
-        "displayName": "ferritecore-2.0.4-forge.jar",
-        "fileName": "ferritecore-2.0.4-forge.jar",
-        "fileDate": "2021-04-11T18:44:09.04Z",
-        "fileLength": 88084,
+        "id": 3358428,
+        "displayName": "ferritecore-2.0.5-forge.jar",
+        "fileName": "ferritecore-2.0.5-forge.jar",
+        "fileDate": "2021-06-20T12:35:15.947Z",
+        "fileLength": 98900,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3272/785/ferritecore-2.0.4-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3358/428/ferritecore-2.0.5-forge.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -11115,7 +11115,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2527344560,
+            "fingerprint": 1818801341,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "googleaccess",
+            "fingerprint": 3491285138,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -11144,6 +11150,12 @@
             "invalidFingerprint": false
           },
           {
+            "foldername": "logo.png",
+            "fingerprint": 3369927219,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "ferritecore.dedupmultipart.mixin.json",
             "fingerprint": 179854321,
             "type": 0,
@@ -11157,7 +11169,7 @@
           },
           {
             "foldername": "ferritecore-common-refmap.json",
-            "fingerprint": 1443878361,
+            "fingerprint": 1744839825,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -11169,18 +11181,12 @@
           },
           {
             "foldername": "malte0811",
-            "fingerprint": 1803536837,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2615150273,
+            "fingerprint": 2499703496,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2787783962,
+        "packageFingerprint": 1345743269,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -11194,12 +11200,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ferritecore-2.0.4-forge.jar"
+        "FileNameOnDisk": "ferritecore-2.0.5-forge.jar"
       },
       "dateInstalled": "2021-03-23T21:24:12.7559744Z",
-      "dateUpdated": "2021-04-19T13:34:27.6951739Z",
-      "dateLastUpdateAttempted": "2021-04-19T13:34:27.6951739Z",
-      "status": 3,
+      "dateUpdated": "2021-07-13T01:43:25.150837Z",
+      "dateLastUpdateAttempted": "2021-07-13T01:43:25.150837Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
