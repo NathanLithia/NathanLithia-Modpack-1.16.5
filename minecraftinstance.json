@@ -1228,14 +1228,14 @@
       "addonID": 466792,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3361933,
-        "displayName": "create-stuff-additions1.16.5_v1.0.5.jar",
-        "fileName": "create-stuff-additions1.16.5_v1.0.5.jar",
-        "fileDate": "2021-06-23T08:51:23.84Z",
-        "fileLength": 470785,
+        "id": 3384570,
+        "displayName": "create-stuff-additions1.16.5_v1.0.6.jar",
+        "fileName": "create-stuff-additions1.16.5_v1.0.6.jar",
+        "fileDate": "2021-07-11T09:48:07.14Z",
+        "fileLength": 466574,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3361/933/create-stuff-additions1.16.5_v1.0.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3384/570/create-stuff-additions1.16.5_v1.0.6.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -1250,25 +1250,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3561250839,
+            "fingerprint": 1473469950,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 3930031701,
+            "fingerprint": 1449904868,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 4096714610,
+            "fingerprint": 3733257013,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 1890619994,
+            "fingerprint": 3401793527,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1279,7 +1279,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2657828056,
+        "packageFingerprint": 3591416302,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -1293,12 +1293,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "create-stuff-additions1.16.5_v1.0.5.jar"
+        "FileNameOnDisk": "create-stuff-additions1.16.5_v1.0.6.jar"
       },
       "dateInstalled": "2021-05-23T23:23:02.1189768Z",
-      "dateUpdated": "2021-06-27T03:29:27.1327441Z",
-      "dateLastUpdateAttempted": "2021-06-27T03:29:27.1327441Z",
-      "status": 3,
+      "dateUpdated": "2021-07-13T01:44:07.4734662Z",
+      "dateLastUpdateAttempted": "2021-07-13T01:44:07.4734662Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4047,6 +4047,96 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 486392,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": {
+        "id": 3384004,
+        "displayName": "flywheel-1.16-0.1.0.jar",
+        "fileName": "flywheel-1.16-0.1.0.jar",
+        "fileDate": "2021-07-10T20:11:55.817Z",
+        "fileLength": 347541,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3384/4/flywheel-1.16-0.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 3384005,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2087557020,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2255818407,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 91055496,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "flywheel.mixins.json",
+            "fingerprint": 985135896,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 102418554,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2941651391,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "flywheel.refmap.json",
+            "fingerprint": 947680750,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 359381045,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "flywheel-1.16-0.1.0.jar"
+      },
+      "dateInstalled": "2021-07-13T01:43:45.9729407Z",
+      "dateUpdated": "2021-07-13T01:43:45.9759432Z",
+      "dateLastUpdateAttempted": "2021-07-13T01:43:45.9759432Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 283644,
@@ -12960,140 +13050,6 @@
       "dateUpdated": "2021-07-09T23:09:00.0161232Z",
       "dateLastUpdateAttempted": "2021-07-09T23:09:00.0161232Z",
       "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 439890,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3384793,
-        "displayName": "createaddition-1.16.5-20210711a",
-        "fileName": "createaddition-1.16.5-20210711a.jar",
-        "fileDate": "2021-07-11T14:03:46.603Z",
-        "fileLength": 608447,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3384/793/createaddition-1.16.5-20210711a.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 486392,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 282001,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 328085,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 231951,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 100702422,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3623387628,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2940707528,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "createaddition.mixins.json",
-            "fingerprint": 128980934,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "createaddition.refmap.json",
-            "fingerprint": 2227455800,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 2246937616,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "deprecated",
-            "fingerprint": 1872006660,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1438559181,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "ponder",
-            "fingerprint": 2987820376,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 4124563225,
-        "gameVersion": [
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "createaddition-1.16.5-20210711a.jar"
-      },
-      "dateInstalled": "2021-05-23T23:19:54.5804585Z",
-      "dateUpdated": "2021-07-13T01:43:46.6215316Z",
-      "dateLastUpdateAttempted": "2021-07-13T01:43:46.6215316Z",
-      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
