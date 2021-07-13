@@ -10772,14 +10772,14 @@
       "addonID": 268250,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3326712,
-        "displayName": "[1.16.5] Immersive Petroleum 3.3.0-4",
-        "fileName": "ImmersivePetroleum-1.16.5-3.3.0-4.jar",
-        "fileDate": "2021-05-27T10:54:28.62Z",
-        "fileLength": 1315234,
+        "id": 3384353,
+        "displayName": "ImmersivePetroleum-1.16.5-3.3.0-5.jar",
+        "fileName": "ImmersivePetroleum-1.16.5-3.3.0-5.jar",
+        "fileDate": "2021-07-11T02:02:30.963Z",
+        "fileLength": 1403987,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3326/712/ImmersivePetroleum-1.16.5-3.3.0-4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3384/353/ImmersivePetroleum-1.16.5-3.3.0-5.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -10794,31 +10794,31 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2352228323,
+            "fingerprint": 2901855107,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "flaxbeard",
-            "fingerprint": 801589675,
+            "fingerprint": 2951562629,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": ".cache",
-            "fingerprint": 3087498105,
+            "fingerprint": 4121718859,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 706485774,
+            "fingerprint": 699629541,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 3708300044,
+            "fingerprint": 3580830941,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -10830,12 +10830,12 @@
           },
           {
             "foldername": "pack.mcmeta",
-            "fingerprint": 4211050909,
+            "fingerprint": 3200837954,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 266915526,
+        "packageFingerprint": 493567899,
         "gameVersion": [
           "1.16.5"
         ],
@@ -10848,12 +10848,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ImmersivePetroleum-1.16.5-3.3.0-4.jar"
+        "FileNameOnDisk": "ImmersivePetroleum-1.16.5-3.3.0-5.jar"
       },
       "dateInstalled": "2021-03-23T21:19:37.9989478Z",
-      "dateUpdated": "2021-05-29T07:12:13.8287324Z",
-      "dateLastUpdateAttempted": "2021-05-29T07:12:13.8287324Z",
-      "status": 3,
+      "dateUpdated": "2021-07-13T01:43:01.1113817Z",
+      "dateLastUpdateAttempted": "2021-07-13T01:43:01.1113817Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
