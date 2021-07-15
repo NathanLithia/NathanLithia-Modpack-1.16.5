@@ -21,7 +21,5 @@ del Winpython64-3.8.9.0dot.exe
 
 :installed
 echo Starting Python.
-call "mcpkg\scripts\activate.bat"
-call "WPy64-3890\python-3.8.9.amd64\python.exe" "-m" "pip" "install" "gitpython"
 CLS
 call "WPy64-3890\python-3.8.9.amd64\python.exe" "main.py" "%1" "%2" "%3" "%4" "%5"
