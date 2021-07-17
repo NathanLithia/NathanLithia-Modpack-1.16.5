@@ -692,27 +692,27 @@
       "addonID": 328085,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3384222,
-        "displayName": "Create 1.16.5 v0.3.2a",
-        "fileName": "create-mc1.16.5_v0.3.2a.jar",
-        "fileDate": "2021-07-10T23:37:23.73Z",
-        "fileLength": 11274370,
+        "id": 3386319,
+        "displayName": "Create 1.16.5 v0.3.2b",
+        "fileName": "create-mc1.16.5_v0.3.2b.jar",
+        "fileDate": "2021-07-12T18:28:22.113Z",
+        "fileLength": 11281073,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3384/222/create-mc1.16.5_v0.3.2a.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3386/319/create-mc1.16.5_v0.3.2b.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 238222,
-            "type": 2,
+            "addonId": 486392,
+            "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 486392,
-            "type": 3,
+            "addonId": 238222,
+            "type": 2,
             "fileId": 0
           }
         ],
@@ -720,25 +720,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1169734409,
+            "fingerprint": 413033374,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 4061536805,
+            "fingerprint": 3583413446,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": ".cache",
-            "fingerprint": 2640076685,
+            "fingerprint": 2647527584,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 466972432,
+            "fingerprint": 3152013176,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -750,7 +750,7 @@
           },
           {
             "foldername": "data",
-            "fingerprint": 2241282249,
+            "fingerprint": 4066247939,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -779,7 +779,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2306541201,
+        "packageFingerprint": 3859372213,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -793,12 +793,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "create-mc1.16.5_v0.3.2a.jar"
+        "FileNameOnDisk": "create-mc1.16.5_v0.3.2b.jar"
       },
       "dateInstalled": "2021-03-24T02:35:09.3008942Z",
-      "dateUpdated": "2021-07-13T01:44:22.7422429Z",
-      "dateLastUpdateAttempted": "2021-07-13T01:44:22.7422429Z",
-      "status": 3,
+      "dateUpdated": "2021-07-17T12:34:44.0300385Z",
+      "dateLastUpdateAttempted": "2021-07-17T12:34:44.0300385Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
