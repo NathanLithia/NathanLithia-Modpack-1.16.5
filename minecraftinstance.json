@@ -6640,22 +6640,22 @@
       "addonID": 443570,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3375811,
-        "displayName": "diet-forge-1.16.5-0.34.jar",
-        "fileName": "diet-forge-1.16.5-0.34.jar",
-        "fileDate": "2021-07-04T07:58:51.347Z",
-        "fileLength": 175214,
+        "id": 3390373,
+        "displayName": "diet-forge-1.16.5-0.35.jar",
+        "fileName": "diet-forge-1.16.5-0.35.jar",
+        "fileDate": "2021-07-16T03:36:41.65Z",
+        "fileLength": 175342,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3375/811/diet-forge-1.16.5-0.34.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3390/373/diet-forge-1.16.5-0.35.jar",
         "isAlternate": false,
-        "alternateFileId": 3375812,
+        "alternateFileId": 3390374,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4011007115,
+            "fingerprint": 1924835069,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6673,13 +6673,13 @@
           },
           {
             "foldername": "CHANGELOG.md",
-            "fingerprint": 306740212,
+            "fingerprint": 2892161716,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 1609900093,
+            "fingerprint": 2221664028,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6721,7 +6721,7 @@
           },
           {
             "foldername": "README.md",
-            "fingerprint": 650788007,
+            "fingerprint": 3553632689,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6732,7 +6732,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2903516461,
+        "packageFingerprint": 816062200,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -6746,12 +6746,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "diet-forge-1.16.5-0.34.jar"
+        "FileNameOnDisk": "diet-forge-1.16.5-0.35.jar"
       },
       "dateInstalled": "2021-04-02T11:21:57.999336Z",
-      "dateUpdated": "2021-07-04T22:17:05.3084754Z",
-      "dateLastUpdateAttempted": "2021-07-04T22:17:05.3084754Z",
-      "status": 3,
+      "dateUpdated": "2021-07-17T12:33:59.995749Z",
+      "dateLastUpdateAttempted": "2021-07-17T12:33:59.995749Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
