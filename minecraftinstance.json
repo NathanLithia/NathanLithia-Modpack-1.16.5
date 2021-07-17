@@ -4548,28 +4548,28 @@
       "addonID": 486392,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3384004,
-        "displayName": "flywheel-1.16-0.1.0.jar",
-        "fileName": "flywheel-1.16-0.1.0.jar",
-        "fileDate": "2021-07-10T20:11:55.817Z",
-        "fileLength": 347541,
+        "id": 3389159,
+        "displayName": "flywheel-1.16-0.1.1.jar",
+        "fileName": "flywheel-1.16-0.1.1.jar",
+        "fileDate": "2021-07-14T23:53:34.6Z",
+        "fileLength": 390328,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3384/4/flywheel-1.16-0.1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3389/159/flywheel-1.16-0.1.1.jar",
         "isAlternate": false,
-        "alternateFileId": 3384005,
+        "alternateFileId": 0,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2087557020,
+            "fingerprint": 2151709625,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 2255818407,
+            "fingerprint": 999136415,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4581,7 +4581,7 @@
           },
           {
             "foldername": "flywheel.mixins.json",
-            "fingerprint": 985135896,
+            "fingerprint": 3740558676,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4599,12 +4599,12 @@
           },
           {
             "foldername": "flywheel.refmap.json",
-            "fingerprint": 947680750,
+            "fingerprint": 2171969703,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 359381045,
+        "packageFingerprint": 3876543801,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -4618,12 +4618,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "flywheel-1.16-0.1.0.jar"
+        "FileNameOnDisk": "flywheel-1.16-0.1.1.jar"
       },
       "dateInstalled": "2021-07-13T01:43:45.9729407Z",
-      "dateUpdated": "2021-07-13T01:43:45.9759432Z",
-      "dateLastUpdateAttempted": "2021-07-13T01:43:45.9759432Z",
-      "status": 3,
+      "dateUpdated": "2021-07-17T12:33:29.0021603Z",
+      "dateLastUpdateAttempted": "2021-07-17T12:33:29.0021603Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
