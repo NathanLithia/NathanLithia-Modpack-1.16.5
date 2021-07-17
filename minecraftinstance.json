@@ -18392,14 +18392,14 @@
       "addonID": 463402,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3385412,
-        "displayName": "Custom Villager Trades V6",
-        "fileName": "customvillagertrades-1.16_V6.jar",
-        "fileDate": "2021-07-11T23:06:06.807Z",
-        "fileLength": 23216,
+        "id": 3391544,
+        "displayName": "Custom Villager Trades V7",
+        "fileName": "customvillagertrades-1.16_V7.jar",
+        "fileDate": "2021-07-17T10:23:17.557Z",
+        "fileLength": 25200,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3385/412/customvillagertrades-1.16_V6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3391/544/customvillagertrades-1.16_V7.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -18407,13 +18407,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 322860961,
+            "fingerprint": 2326831979,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "uk",
-            "fingerprint": 2894767343,
+            "fingerprint": 2763905734,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -18424,7 +18424,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1613696522,
+        "packageFingerprint": 3633417580,
         "gameVersion": [
           "1.16",
           "1.16.5",
@@ -18440,12 +18440,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "customvillagertrades-1.16_V6.jar"
+        "FileNameOnDisk": "customvillagertrades-1.16_V7.jar"
       },
       "dateInstalled": "2021-06-08T07:14:11.3658647Z",
-      "dateUpdated": "2021-07-13T01:43:35.0185134Z",
-      "dateLastUpdateAttempted": "2021-07-13T01:43:35.0185134Z",
-      "status": 3,
+      "dateUpdated": "2021-07-17T12:34:18.998703Z",
+      "dateLastUpdateAttempted": "2021-07-17T12:34:18.998703Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
