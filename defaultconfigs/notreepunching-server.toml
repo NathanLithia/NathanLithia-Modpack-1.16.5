@@ -17,4 +17,6 @@ flintKnappingSuccessChance = 1
 fireStarterFireStartChance = 0.3
 #Makes blocks that would otherwise be broken instantly still drop, even when using an incorrect tool.
 doInstantBreakBlocksDropWithoutCorrectTool = true
+#If the large ceramic vessel block keeps it's contents when broken (as opposed to dropping them on the ground
+largeVesselKeepsContentsWhenBroken = true
 
