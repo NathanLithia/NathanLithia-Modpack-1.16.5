@@ -6244,17 +6244,23 @@
       "addonID": 377835,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3356278,
-        "displayName": "createplus-1.16.4_v0.3.2.jar",
-        "fileName": "createplus-1.16.4_v0.3.2.jar",
-        "fileDate": "2021-06-18T14:23:10.453Z",
-        "fileLength": 63695,
+        "id": 3388486,
+        "displayName": "createplus-1.16.4_v0.3.2.1.jar",
+        "fileName": "createplus-1.16.4_v0.3.2.1.jar",
+        "fileDate": "2021-07-14T13:02:19.57Z",
+        "fileLength": 64683,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3356/278/createplus-1.16.4_v0.3.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3388/486/createplus-1.16.4_v0.3.2.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
+          {
+            "id": 0,
+            "addonId": 309927,
+            "type": 2,
+            "fileId": 0
+          },
           {
             "id": 0,
             "addonId": 328085,
@@ -6266,25 +6272,19 @@
             "addonId": 268560,
             "type": 2,
             "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 309927,
-            "type": 2,
-            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4184240239,
+            "fingerprint": 3137750284,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 2993302809,
+            "fingerprint": 2419413848,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6307,7 +6307,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1411609430,
+        "packageFingerprint": 3408096121,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -6322,12 +6322,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "createplus-1.16.4_v0.3.2.jar"
+        "FileNameOnDisk": "createplus-1.16.4_v0.3.2.1.jar"
       },
       "dateInstalled": "2021-06-23T14:35:03.0435292Z",
-      "dateUpdated": "2021-06-23T14:35:03.0455314Z",
-      "dateLastUpdateAttempted": "2021-06-23T14:35:03.0455314Z",
-      "status": 3,
+      "dateUpdated": "2021-07-17T12:34:29.1958844Z",
+      "dateLastUpdateAttempted": "2021-07-17T12:34:29.1958844Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
