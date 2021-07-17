@@ -2575,16 +2575,16 @@
       "addonID": 367706,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3369039,
-        "displayName": "FancyMenu v2.1.2-1 MC 1.16.2-1.16.5",
-        "fileName": "fancymenu_2.1.2-1_MC_1.16.2-1.16.5.jar",
-        "fileDate": "2021-06-29T15:00:52.973Z",
-        "fileLength": 502080,
+        "id": 3391015,
+        "displayName": "FancyMenu v2.2.0 MC 1.16.2-1.16.5",
+        "fileName": "fancymenu_2.2.0_MC_1.16.2-1.16.5.jar",
+        "fileDate": "2021-07-16T20:11:05.17Z",
+        "fileLength": 513641,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3369/39/fancymenu_2.1.2-1_MC_1.16.2-1.16.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3391/15/fancymenu_2.2.0_MC_1.16.2-1.16.5.jar",
         "isAlternate": false,
-        "alternateFileId": 0,
+        "alternateFileId": 3391295,
         "dependencies": [
           {
             "id": 0,
@@ -2597,19 +2597,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1438252027,
+            "fingerprint": 474818073,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "de",
-            "fingerprint": 2801261390,
+            "fingerprint": 3803793588,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3118325102,
+            "fingerprint": 2608894649,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -2627,12 +2627,12 @@
           },
           {
             "foldername": "fancymenu.general.mixin-refmap.json",
-            "fingerprint": 2684804665,
+            "fingerprint": 3049332561,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2341475194,
+        "packageFingerprint": 1720949848,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -2649,12 +2649,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "fancymenu_2.1.2-1_MC_1.16.2-1.16.5.jar"
+        "FileNameOnDisk": "fancymenu_2.2.0_MC_1.16.2-1.16.5.jar"
       },
       "dateInstalled": "2021-05-20T18:42:25.3199731Z",
-      "dateUpdated": "2021-07-04T22:17:14.8980855Z",
-      "dateLastUpdateAttempted": "2021-07-04T22:17:14.8980855Z",
-      "status": 3,
+      "dateUpdated": "2021-07-17T12:33:49.620936Z",
+      "dateLastUpdateAttempted": "2021-07-17T12:33:49.620936Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
