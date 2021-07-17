@@ -19509,14 +19509,14 @@
       "addonID": 475117,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3323552,
-        "displayName": "FastSuite-1.16.4-1.0.2.jar",
-        "fileName": "FastSuite-1.16.4-1.0.2.jar",
-        "fileDate": "2021-05-24T20:52:05.177Z",
-        "fileLength": 10511,
+        "id": 3391318,
+        "displayName": "FastSuite-1.16.4-1.1.0.jar",
+        "fileName": "FastSuite-1.16.4-1.1.0.jar",
+        "fileDate": "2021-07-17T02:18:46.587Z",
+        "fileLength": 10698,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3323/552/FastSuite-1.16.4-1.0.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3391/318/FastSuite-1.16.4-1.1.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -19531,19 +19531,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3562551404,
+            "fingerprint": 601796269,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "shadows",
-            "fingerprint": 3116780949,
+            "fingerprint": 1545124460,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "fastsuite.mixins.json",
-            "fingerprint": 2881176993,
+            "fingerprint": 3832686222,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -19555,12 +19555,12 @@
           },
           {
             "foldername": "fastsuite.refmap.json",
-            "fingerprint": 3536717808,
+            "fingerprint": 2799022973,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3404730937,
+        "packageFingerprint": 4286784016,
         "gameVersion": [
           "1.16.5",
           "1.16.4"
@@ -19574,12 +19574,12 @@
         "gameVersionDateReleased": "2020-11-02T18:40:51.49Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FastSuite-1.16.4-1.0.2.jar"
+        "FileNameOnDisk": "FastSuite-1.16.4-1.1.0.jar"
       },
       "dateInstalled": "2021-06-27T03:40:22.1166611Z",
-      "dateUpdated": "2021-06-27T03:40:22.1186629Z",
-      "dateLastUpdateAttempted": "2021-06-27T03:40:22.1186629Z",
-      "status": 3,
+      "dateUpdated": "2021-07-17T12:33:39.2324703Z",
+      "dateLastUpdateAttempted": "2021-07-17T12:33:39.2324703Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
