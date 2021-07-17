@@ -3,6 +3,7 @@ import time
 from os import system, name, mkdir, getcwd
 import urllib.request
 import zipfile
+import json
 
 
 class Minecraft:
@@ -25,14 +26,16 @@ class Console:
     def __init__(self):
         self = Console
         Minecraft()
-        print("!!! IF SOMEONE TOLD YOU TO TYPE SOMETHING IN HERE ITS PROBABLY DANGEROUS !!!")
-        print("!!! TO VIEW SAFE FUNCTIONS TYPE COMMANDS !!!")
+        Commands()
         while True:
             request = input(f"{sys.argv[1]}: ")
             try:
-                output = eval("Commands."+request+"()")
-                if output != None:
-                    print(output)
+                if request in Commands.ValidCommands:
+                    output = eval("Commands."+request+"()")
+                    if output != None:
+                        print(output)
+                else:
+                    print(f"Not a valid command: {request}")
             except Exception as e: print(str(e))
 
 
@@ -51,10 +54,39 @@ class Functions:
         with zipfile.ZipFile(filezip, 'r') as unzip:
             unzip.extractall(path)
 
+class NLGit:
+    def __init__(self):
+        self = Git
+
+    def clone(repository, save_path):
+        url = f"https://github.com/{repository}/archive/refs/heads/main.zip"
+        repohash = NLGit.shahash(repository)
+        print(f"Cloning: {save_path} from https://github.com/{repository}\nHash: {repohash}")
+        with urllib.request.urlopen(url) as dl_file:
+            with open(save_path, 'wb') as out_file:
+                try:
+                    out_file.write(dl_file.read())
+                    print(f"Wrote: {save_path}")
+                except Exception as e: print(e)
+
+
+    def shahash(repository):
+        RequestedJson = NLGit.RequestJson(f"https://api.github.com/repos/{repository}/branches/main")
+        return RequestedJson['commit']['sha']
+
+    def RequestJson(URL, TimeOutInSeconds = 15):
+        try:
+            RequestedJson = json.loads(urllib.request.urlopen(URL, timeout=TimeOutInSeconds).read().decode("utf8"))
+        except Exception as e:
+            print(str(e))
+            return e
+        else:
+            return RequestedJson
 
 class Commands:
     def __init__(self):
         self = Commands
+        self.ValidCommands = [ m for m in dir(self) if not m.startswith('__')]
 
     def stats():
         """Prints minecraft stats"""
@@ -63,8 +95,8 @@ class Commands:
         print(f"Forge: {Minecraft.ForgeVersion} with {Minecraft.ModCount} mods loaded")
 
     def commands():
-        """Prints program functions"""
-        print([ m for m in dir(Commands) if not m.startswith('__')])
+        """Prints Commands"""
+        print(Commands.ValidCommands)
 
     def sandbox():
         """Development command for sandboxing code"""
@@ -87,8 +119,10 @@ class Commands:
 
     def update():
         """Updates the shader and resources"""
-        Functions.download('https://github.com/NathanLithia/NLShader/archive/refs/heads/main.zip', 'NLShader.zip')
-        Functions.download('https://github.com/NathanLithia/NLResourcePack/archive/refs/heads/main.zip', 'NLResourcePack.zip')
+        NLGit.clone('NathanLithia/NLResourcePack', 'NLResourcePack.zip')
+        NLGit.clone('NathanLithia/NLShader', 'NLShader.zip')
         Functions.unzipfile("NLShader.zip", Minecraft.ShadersDir)
+        print("!!! Its highly Recommended to F3-R ingame !!!")
+
 
 Console()
