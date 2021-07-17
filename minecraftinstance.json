@@ -324,28 +324,28 @@
       "addonID": 291874,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3360824,
-        "displayName": "Serene Seasons 1.16.5-4.0.1.119",
-        "fileName": "SereneSeasons-1.16.5-4.0.1.119-universal.jar",
-        "fileDate": "2021-06-22T10:26:11.29Z",
-        "fileLength": 148497,
+        "id": 3385421,
+        "displayName": "Serene Seasons 1.16.5-4.0.1.120",
+        "fileName": "SereneSeasons-1.16.5-4.0.1.120-universal.jar",
+        "fileDate": "2021-07-11T23:14:11.373Z",
+        "fileLength": 148102,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3360/824/SereneSeasons-1.16.5-4.0.1.119-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3385/421/SereneSeasons-1.16.5-4.0.1.120-universal.jar",
         "isAlternate": false,
-        "alternateFileId": 3360825,
+        "alternateFileId": 3385422,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1177365908,
+            "fingerprint": 3009440476,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "sereneseasons",
-            "fingerprint": 3435143613,
+            "fingerprint": 503891252,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -398,7 +398,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3648071647,
+        "packageFingerprint": 2283803993,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -412,12 +412,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "SereneSeasons-1.16.5-4.0.1.119-universal.jar"
+        "FileNameOnDisk": "SereneSeasons-1.16.5-4.0.1.120-universal.jar"
       },
       "dateInstalled": "2021-03-23T21:21:59.0942963Z",
-      "dateUpdated": "2021-06-23T08:40:10.2519224Z",
-      "dateLastUpdateAttempted": "2021-06-23T08:40:10.2519224Z",
-      "status": 3,
+      "dateUpdated": "2021-07-17T12:31:44.8863431Z",
+      "dateLastUpdateAttempted": "2021-07-17T12:31:44.8863431Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
