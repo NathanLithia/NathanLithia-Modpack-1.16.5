@@ -5698,14 +5698,14 @@
       "addonID": 499803,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3385549,
-        "displayName": "1.16.5-1.0.2",
-        "fileName": "mimimod-1.16.5-1.0.2.jar",
-        "fileDate": "2021-07-12T01:59:51.58Z",
-        "fileLength": 267185,
+        "id": 3387398,
+        "displayName": "1.16.5-1.0.3",
+        "fileName": "mimimod-1.16.5-1.0.3.jar",
+        "fileDate": "2021-07-13T14:53:51.84Z",
+        "fileLength": 267228,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3385/549/mimimod-1.16.5-1.0.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3387/398/mimimod-1.16.5-1.0.3.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -5716,17 +5716,17 @@
             "fileId": 0
           }
         ],
-        "isAvailable": false,
+        "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3697564061,
+            "fingerprint": 2847953112,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "io",
-            "fingerprint": 4266587538,
+            "fingerprint": 3534451945,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -5755,7 +5755,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3974917233,
+        "packageFingerprint": 3824955148,
         "gameVersion": [
           "1.16.3",
           "1.16.1",
@@ -5774,12 +5774,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "mimimod-1.16.5-1.0.2.jar"
+        "FileNameOnDisk": "mimimod-1.16.5-1.0.3.jar"
       },
       "dateInstalled": "2021-07-13T10:55:10.2620338Z",
-      "dateUpdated": "2021-07-13T10:55:10.2640367Z",
-      "dateLastUpdateAttempted": "2021-07-13T10:55:10.2640367Z",
-      "status": 3,
+      "dateUpdated": "2021-07-17T12:32:29.207982Z",
+      "dateLastUpdateAttempted": "2021-07-17T12:32:29.207982Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
