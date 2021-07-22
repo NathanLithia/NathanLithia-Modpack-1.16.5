@@ -18046,14 +18046,14 @@
       "addonID": 398784,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3343340,
-        "displayName": "Curious Armor Stands-1.16.5-2.1.1.jar",
-        "fileName": "Curious Armor Stands-1.16.5-2.1.1.jar",
-        "fileDate": "2021-06-08T13:35:37.32Z",
-        "fileLength": 21590,
+        "id": 3392688,
+        "displayName": "Curious Armor Stands-1.16.5-2.1.2.jar",
+        "fileName": "Curious Armor Stands-1.16.5-2.1.2.jar",
+        "fileDate": "2021-07-18T12:46:10.8Z",
+        "fileLength": 21734,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3343/340/Curious Armor Stands-1.16.5-2.1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3392/688/Curious Armor Stands-1.16.5-2.1.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -18068,13 +18068,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3065584333,
+            "fingerprint": 210373515,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "curiousarmorstands",
-            "fingerprint": 2627994166,
+            "fingerprint": 3682346151,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -18091,7 +18091,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 424658073,
+        "packageFingerprint": 648547089,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -18105,12 +18105,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Curious Armor Stands-1.16.5-2.1.1.jar"
+        "FileNameOnDisk": "Curious Armor Stands-1.16.5-2.1.2.jar"
       },
       "dateInstalled": "2021-04-09T02:07:41.5329153Z",
-      "dateUpdated": "2021-06-09T07:06:23.0694893Z",
-      "dateLastUpdateAttempted": "2021-06-09T07:06:23.0694893Z",
-      "status": 3,
+      "dateUpdated": "2021-07-22T07:26:55.3734956Z",
+      "dateLastUpdateAttempted": "2021-07-22T07:26:55.3734956Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
