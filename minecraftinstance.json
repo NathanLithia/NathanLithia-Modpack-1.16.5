@@ -12314,14 +12314,14 @@
       "addonID": 248787,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3358019,
-        "displayName": "appleskin-forge-mc1.16.x-2.0.0.jar",
-        "fileName": "appleskin-forge-mc1.16.x-2.0.0.jar",
-        "fileDate": "2021-06-20T01:45:40.157Z",
-        "fileLength": 46712,
+        "id": 3395800,
+        "displayName": "appleskin-forge-mc1.16.x-2.1.0.jar",
+        "fileName": "appleskin-forge-mc1.16.x-2.1.0.jar",
+        "fileDate": "2021-07-21T06:15:07.117Z",
+        "fileLength": 46287,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3358/19/appleskin-forge-mc1.16.x-2.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3395/800/appleskin-forge-mc1.16.x-2.1.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -12329,13 +12329,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3185800861,
+            "fingerprint": 3026614748,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "squeek",
-            "fingerprint": 2319859130,
+            "fingerprint": 1022454976,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12352,7 +12352,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1550512520,
+        "packageFingerprint": 3838742211,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -12367,12 +12367,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "appleskin-forge-mc1.16.x-2.0.0.jar"
+        "FileNameOnDisk": "appleskin-forge-mc1.16.x-2.1.0.jar"
       },
       "dateInstalled": "2021-03-23T21:18:06.5644425Z",
-      "dateUpdated": "2021-06-20T19:33:03.0752224Z",
-      "dateLastUpdateAttempted": "2021-06-20T19:33:03.0752224Z",
-      "status": 3,
+      "dateUpdated": "2021-07-22T07:27:31.1266646Z",
+      "dateLastUpdateAttempted": "2021-07-22T07:27:31.1266646Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
