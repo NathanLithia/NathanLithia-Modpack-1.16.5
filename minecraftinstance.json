@@ -14415,14 +14415,14 @@
       "addonID": 506194,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3393574,
-        "displayName": "ColdSweat-r1.0.1.jar",
-        "fileName": "ColdSweat-r1.0.1.jar",
-        "fileDate": "2021-07-19T06:48:38.98Z",
-        "fileLength": 520368,
+        "id": 3396523,
+        "displayName": "ColdSweat-r1.1.1.jar",
+        "fileName": "ColdSweat-r1.1.1.jar",
+        "fileDate": "2021-07-21T22:45:49.217Z",
+        "fileLength": 585809,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3393/574/ColdSweat-r1.0.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3396/523/ColdSweat-r1.1.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -14436,19 +14436,19 @@
           },
           {
             "foldername": "net",
-            "fingerprint": 1155331911,
+            "fingerprint": 2524093041,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3354485778,
+            "fingerprint": 3161618622,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 2280170924,
+            "fingerprint": 3226705383,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -14459,7 +14459,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 372293795,
+        "packageFingerprint": 3064953800,
         "gameVersion": [
           "1.16.5"
         ],
@@ -14469,15 +14469,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ColdSweat-r1.0.1.jar"
+        "FileNameOnDisk": "ColdSweat-r1.1.1.jar"
       },
       "dateInstalled": "2021-07-20T07:19:58.9583043Z",
-      "dateUpdated": "2021-07-20T07:19:58.9813347Z",
-      "dateLastUpdateAttempted": "2021-07-20T07:19:58.9813347Z",
-      "status": 3,
+      "dateUpdated": "2021-07-22T07:27:07.0914157Z",
+      "dateLastUpdateAttempted": "2021-07-22T07:27:07.0914157Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
