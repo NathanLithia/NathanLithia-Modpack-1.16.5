@@ -15309,14 +15309,14 @@
       "addonID": 501213,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3386041,
-        "displayName": "apaimon-r1.0-3.jar",
-        "fileName": "apaimon-r1.0-3.jar",
-        "fileDate": "2021-07-12T13:34:16.43Z",
-        "fileLength": 1157159,
+        "id": 3393815,
+        "displayName": "apaimon-r1.0-4.jar",
+        "fileName": "apaimon-r1.0-4.jar",
+        "fileDate": "2021-07-19T13:07:20.957Z",
+        "fileLength": 1324943,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3386/41/apaimon-r1.0-3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3393/815/apaimon-r1.0-4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -15331,19 +15331,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3898688345,
+            "fingerprint": 3635387921,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 440984560,
+            "fingerprint": 1919958457,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 1618912618,
+            "fingerprint": 2261138172,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -15360,7 +15360,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3476883139,
+        "packageFingerprint": 1860580457,
         "gameVersion": [
           "1.16.5"
         ],
@@ -15373,12 +15373,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "apaimon-r1.0-3.jar"
+        "FileNameOnDisk": "apaimon-r1.0-4.jar"
       },
       "dateInstalled": "2021-07-13T10:52:55.3406069Z",
-      "dateUpdated": "2021-07-13T10:52:55.3566309Z",
-      "dateLastUpdateAttempted": "2021-07-13T10:52:55.3566309Z",
-      "status": 3,
+      "dateUpdated": "2021-07-22T07:27:46.295307Z",
+      "dateLastUpdateAttempted": "2021-07-22T07:27:46.295307Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
