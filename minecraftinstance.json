@@ -9112,14 +9112,14 @@
       "addonID": 243121,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3366626,
-        "displayName": "Quark-r2.4-314.jar",
-        "fileName": "Quark-r2.4-314.jar",
-        "fileDate": "2021-06-27T15:37:55.737Z",
-        "fileLength": 6626974,
+        "id": 3394265,
+        "displayName": "Quark-r2.4-316.jar",
+        "fileName": "Quark-r2.4-316.jar",
+        "fileDate": "2021-07-19T20:47:46.443Z",
+        "fileLength": 7999660,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3366/626/Quark-r2.4-314.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3394/265/Quark-r2.4-316.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -9134,25 +9134,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2738040352,
+            "fingerprint": 794764165,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "vazkii",
-            "fingerprint": 2864876965,
+            "fingerprint": 3033013436,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 1894062958,
+            "fingerprint": 1180932916,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 869916591,
+            "fingerprint": 4264593583,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -9176,18 +9176,18 @@
           },
           {
             "foldername": "quark.mixins.json",
-            "fingerprint": 933030516,
+            "fingerprint": 4015462449,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "quark.mixins.refmap.json",
-            "fingerprint": 2874018675,
+            "fingerprint": 3001659495,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1444822916,
+        "packageFingerprint": 462326912,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -9201,12 +9201,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Quark-r2.4-314.jar"
+        "FileNameOnDisk": "Quark-r2.4-316.jar"
       },
       "dateInstalled": "2021-03-23T21:18:15.8365168Z",
-      "dateUpdated": "2021-06-29T01:08:52.6416533Z",
-      "dateLastUpdateAttempted": "2021-06-29T01:08:52.6416533Z",
-      "status": 3,
+      "dateUpdated": "2021-07-22T07:26:06.2909322Z",
+      "dateLastUpdateAttempted": "2021-07-22T07:26:06.2909322Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
