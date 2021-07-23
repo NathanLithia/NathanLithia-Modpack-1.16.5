@@ -9,6 +9,7 @@
 *.vsh
 *.fsh
 *.mcmeta
+*.disabled
 overlay.png
 cucumber.png
 worldedit_wand.png
