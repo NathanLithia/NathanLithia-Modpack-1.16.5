@@ -9373,61 +9373,7 @@
     {
       "addonID": 284899,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3263773,
-        "displayName": "bookdisplay-1.16.5-2.0.0",
-        "fileName": "bookdisplay-1.16.5-2.0.0.jar",
-        "fileDate": "2021-04-05T06:20:51.64Z",
-        "fileLength": 62039,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3263/773/bookdisplay-1.16.5-2.0.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 196236649,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "astavie",
-            "fingerprint": 3976949940,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3553561063,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1142919743,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1699835745,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "bookdisplay-1.16.5-2.0.0.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-06-30T13:48:13.0532283Z",
       "dateUpdated": "2021-06-30T13:48:13.0552308Z",
       "dateLastUpdateAttempted": "2021-06-30T13:48:13.0552308Z",
@@ -13870,7 +13816,7 @@
       "dateInstalled": "2021-07-23T14:17:55.1756179Z",
       "dateUpdated": "2021-07-23T14:17:55.1806132Z",
       "dateLastUpdateAttempted": "2021-07-23T14:17:55.1806132Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
