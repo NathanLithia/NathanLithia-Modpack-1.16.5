@@ -3,7 +3,7 @@
 maxBack = 10
 #Max homes
 #Range: > 0
-maxHomes = 3
+maxHomes = 5
 #/back cooldown in seconds
 #Range: 0 ~ 604800
 backCooldown = 60
