@@ -1,8 +1,9 @@
 import sys
 import time
-from os import system, name, mkdir, getcwd
+from os import system, name, mkdir, getcwd, rename, path
 import urllib.request
 import zipfile
+import shutil
 import json
 
 
@@ -16,7 +17,8 @@ class Minecraft:
         self.ForgeVersion = sys.argv[4]
         self.ModCount = sys.argv[5]
         #lets try our best to find where we are
-        self.ConfigDir = str(getcwd()).rstrip("\\nathanlithia")
+        self.NathanLithiaDir = str(getcwd())
+        self.ConfigDir = self.NathanLithiaDir.rstrip("\\nathanlithia")
         self.MinecraftDir = self.ConfigDir.rstrip("\\config")
         self.ShadersDir = self.MinecraftDir+"\\shaderpacks"
         self.AssetsDir = self.MinecraftDir+"\\kubejs\\assets"
@@ -53,6 +55,17 @@ class Functions:
         print(f"Unzipping {filezip} to {path}.")
         with zipfile.ZipFile(filezip, 'r') as unzip:
             unzip.extractall(path)
+    
+    def deldir(directory):
+        if path.isdir(directory) == True:
+            try:
+                system(f'rmdir /S /Q "{directory}"')
+                print(f'Deleted: {directory}')
+            except:
+                print(f"failed to delete: {directory}")
+        else:
+            return
+
 
 class NLGit:
     def __init__(self):
@@ -68,7 +81,6 @@ class NLGit:
                     out_file.write(dl_file.read())
                     print(f"Wrote: {save_path}")
                 except Exception as e: print(e)
-
 
     def shahash(repository):
         RequestedJson = NLGit.RequestJson(f"https://api.github.com/repos/{repository}/branches/main")
@@ -117,12 +129,26 @@ class Commands:
         else:
             system('clear')
 
-    def update():
+    def update(): 
         """Updates the shader and resources"""
-        NLGit.clone('NathanLithia/NLResourcePack', 'NLResourcePack.zip')
+        Commands.shaders()
+        Commands.resources()
+
+    def shaders():
+        """Updates the shader"""
         NLGit.clone('NathanLithia/NLShader', 'NLShader.zip')
         Functions.unzipfile("NLShader.zip", Minecraft.ShadersDir)
         print("!!! Its highly Recommended to F3-R ingame !!!")
+
+    def resources():
+        """Updates the resources"""
+        NLGit.clone('NathanLithia/NLResourcePack', 'NLResourcePack.zip')
+        Functions.unzipfile('NLResourcePack.zip', Minecraft.NathanLithiaDir)
+        Functions.deldir('assets')
+        rename('NLResourcePack-main', 'assets')
+        Functions.deldir(f'{Minecraft.MinecraftDir}/kubejs/assets')
+        shutil.move('assets', f'{Minecraft.MinecraftDir}/kubejs/assets') 
+        print("!!! Its highly Recommended to F3-T ingame !!!")
 
 
 Console()
