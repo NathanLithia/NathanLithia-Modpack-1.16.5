@@ -12,3 +12,6 @@ ranks | ftbranks list_all_ranks
 day | time set day
 night | time set night
 pl | list
+enderchest | cofh enderchest
+repair | cofh repair
+burn | cofh ignite
