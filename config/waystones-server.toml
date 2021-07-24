@@ -94,7 +94,7 @@
 		transportLeashedDimensional = true
 		#How much xp is need per leashed animal to travel with you
 		#Range: > 0
-		costPerLeashed = 1
+		costPerLeashed = 0
 		#Which leashed mobs cannot be taken with you when travelling.
 		leashedBlacklist = ["minecraft:wither"]
 
