@@ -1319,22 +1319,22 @@
       "addonID": 237307,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3342430,
-        "displayName": "CosmeticArmorReworked-1.16.5-v3a.jar",
-        "fileName": "CosmeticArmorReworked-1.16.5-v3a.jar",
-        "fileDate": "2021-06-07T18:11:21.427Z",
-        "fileLength": 86425,
+        "id": 3398000,
+        "displayName": "CosmeticArmorReworked-1.16.5-v4.jar",
+        "fileName": "CosmeticArmorReworked-1.16.5-v4.jar",
+        "fileDate": "2021-07-23T05:53:21.86Z",
+        "fileLength": 86844,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3342/430/CosmeticArmorReworked-1.16.5-v3a.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3398/0/CosmeticArmorReworked-1.16.5-v4.jar",
         "isAlternate": false,
-        "alternateFileId": 3342432,
+        "alternateFileId": 3398001,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2107213998,
+            "fingerprint": 3538467986,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1346,13 +1346,13 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 1138495732,
+            "fingerprint": 3268752115,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "lain",
-            "fingerprint": 962504864,
+            "fingerprint": 797966852,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1363,7 +1363,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1281317570,
+        "packageFingerprint": 1715933748,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -1377,12 +1377,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "CosmeticArmorReworked-1.16.5-v3a.jar"
+        "FileNameOnDisk": "CosmeticArmorReworked-1.16.5-v4.jar"
       },
       "dateInstalled": "2021-03-23T21:19:19.6595478Z",
-      "dateUpdated": "2021-06-08T07:15:43.5270052Z",
-      "dateLastUpdateAttempted": "2021-06-08T07:15:43.5270052Z",
-      "status": 3,
+      "dateUpdated": "2021-07-24T07:26:33.4797692Z",
+      "dateLastUpdateAttempted": "2021-07-24T07:26:33.4797692Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
