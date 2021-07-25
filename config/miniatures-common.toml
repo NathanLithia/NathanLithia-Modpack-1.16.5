@@ -22,7 +22,7 @@
 	#whether blocks in the default tag (miniatures:break_blocks) will be destroyed (true) or instead dropped when broken (false)
 	destroys_blocks = false
 	#whether or not non-hostile miniatures will try to pick up players
-	pickup_goal = true
+	pickup_goal = false
 	#whether or not only the owner entity of the miniature will attempt to pick up a player, or whether it will pick up any player
 	owner_rider = false
 
