@@ -14562,14 +14562,14 @@
       "addonID": 506194,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3398017,
-        "displayName": "ColdSweat-r1.2.jar",
-        "fileName": "ColdSweat-r1.2.jar",
-        "fileDate": "2021-07-23T06:25:31.07Z",
-        "fileLength": 587893,
+        "id": 3399131,
+        "displayName": "ColdSweat-r1.2.2.jar",
+        "fileName": "ColdSweat-r1.2.2.jar",
+        "fileDate": "2021-07-24T06:17:09.317Z",
+        "fileLength": 606877,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3398/17/ColdSweat-r1.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3399/131/ColdSweat-r1.2.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -14577,25 +14577,31 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 356865611,
+            "fingerprint": 2266326123,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 619820724,
+            "fingerprint": 3718830729,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3121542693,
+            "fingerprint": 443775803,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 3085077505,
+            "fingerprint": 3226705383,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 1209185898,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -14606,7 +14612,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3498405685,
+        "packageFingerprint": 1104571552,
         "gameVersion": [
           "1.16.5"
         ],
@@ -14619,12 +14625,12 @@
         "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ColdSweat-r1.2.jar"
+        "FileNameOnDisk": "ColdSweat-r1.2.2.jar"
       },
       "dateInstalled": "2021-07-20T07:19:58.9583043Z",
-      "dateUpdated": "2021-07-24T07:26:46.3519284Z",
-      "dateLastUpdateAttempted": "2021-07-24T07:26:46.3519284Z",
-      "status": 3,
+      "dateUpdated": "2021-07-25T13:17:05.7976713Z",
+      "dateLastUpdateAttempted": "2021-07-25T13:17:05.7976713Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
