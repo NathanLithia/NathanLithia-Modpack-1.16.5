@@ -4632,22 +4632,22 @@
       "addonID": 272515,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3364386,
-        "displayName": "BetterAdvancements-1.16.5-0.1.1.109",
-        "fileName": "BetterAdvancements-1.16.5-0.1.1.109.jar",
-        "fileDate": "2021-06-25T14:36:46.677Z",
+        "id": 3400299,
+        "displayName": "BetterAdvancements-1.16.5-0.1.1.111",
+        "fileName": "BetterAdvancements-1.16.5-0.1.1.111.jar",
+        "fileDate": "2021-07-25T10:48:51.397Z",
         "fileLength": 63271,
         "releaseType": 3,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3364/386/BetterAdvancements-1.16.5-0.1.1.109.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3400/299/BetterAdvancements-1.16.5-0.1.1.111.jar",
         "isAlternate": false,
-        "alternateFileId": 3364387,
+        "alternateFileId": 3400300,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2311098073,
+            "fingerprint": 484736520,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4670,7 +4670,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3250349096,
+        "packageFingerprint": 53585469,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -4684,12 +4684,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "BetterAdvancements-1.16.5-0.1.1.109.jar"
+        "FileNameOnDisk": "BetterAdvancements-1.16.5-0.1.1.111.jar"
       },
       "dateInstalled": "2021-05-10T07:38:49.4720802Z",
-      "dateUpdated": "2021-06-27T03:29:09.9544449Z",
-      "dateLastUpdateAttempted": "2021-06-27T03:29:09.9544449Z",
-      "status": 3,
+      "dateUpdated": "2021-07-25T13:17:24.8319287Z",
+      "dateLastUpdateAttempted": "2021-07-25T13:17:24.8319287Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
