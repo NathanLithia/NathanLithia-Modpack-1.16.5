@@ -245,16 +245,16 @@
       "addonID": 240630,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3336760,
-        "displayName": "JustEnoughResources-1.16.5-0.12.1.121",
-        "fileName": "JustEnoughResources-1.16.5-0.12.1.121.jar",
-        "fileDate": "2021-06-03T19:55:54.267Z",
-        "fileLength": 234178,
+        "id": 3409354,
+        "displayName": "JustEnoughResources-1.16.5-0.12.1.122",
+        "fileName": "JustEnoughResources-1.16.5-0.12.1.122.jar",
+        "fileDate": "2021-08-02T08:50:52.397Z",
+        "fileLength": 234047,
         "releaseType": 3,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3336/760/JustEnoughResources-1.16.5-0.12.1.121.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3409/354/JustEnoughResources-1.16.5-0.12.1.122.jar",
         "isAlternate": false,
-        "alternateFileId": 3336761,
+        "alternateFileId": 3409355,
         "dependencies": [
           {
             "id": 0,
@@ -267,13 +267,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2410143175,
+            "fingerprint": 3714047106,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "jeresources",
-            "fingerprint": 3668128030,
+            "fingerprint": 1519512523,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -290,7 +290,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3525039388,
+        "packageFingerprint": 2208511746,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -304,12 +304,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "JustEnoughResources-1.16.5-0.12.1.121.jar"
+        "FileNameOnDisk": "JustEnoughResources-1.16.5-0.12.1.122.jar"
       },
       "dateInstalled": "2021-07-17T05:02:20.6498248Z",
-      "dateUpdated": "2021-07-17T05:02:20.6638374Z",
-      "dateLastUpdateAttempted": "2021-07-17T05:02:20.6638374Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:30:23.3740637Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:30:23.3740637Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
