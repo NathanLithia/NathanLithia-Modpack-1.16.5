@@ -16130,14 +16130,14 @@
       "addonID": 444965,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3279560,
-        "displayName": "MoreCreateStuffs1.3a",
-        "fileName": "morecreatestuffs-1.3.jar",
-        "fileDate": "2021-04-17T04:13:19.82Z",
-        "fileLength": 299108,
+        "id": 3409143,
+        "displayName": " MoreCreateStuffs - 1.16-1.4.1a",
+        "fileName": "morecreatestuffs-mc1.16-1.4.1a.jar",
+        "fileDate": "2021-08-02T00:52:10.36Z",
+        "fileLength": 79644,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3279/560/morecreatestuffs-1.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3409/143/morecreatestuffs-mc1.16-1.4.1a.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -16152,31 +16152,31 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3207304836,
+            "fingerprint": 2130749559,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 2975404618,
+            "fingerprint": 179675922,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 1020023509,
+            "fingerprint": 927117667,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 3061899809,
+            "fingerprint": 3681569797,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "icon.png",
-            "fingerprint": 2997150492,
+            "fingerprint": 2832406016,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -16187,14 +16187,12 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4287742414,
+        "packageFingerprint": 3271892639,
         "gameVersion": [
           "1.16.3",
-          "1.16.1",
           "1.16.5",
           "Forge",
-          "1.16.4",
-          "1.16.2"
+          "1.16.4"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -16205,12 +16203,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "morecreatestuffs-1.3.jar"
+        "FileNameOnDisk": "morecreatestuffs-mc1.16-1.4.1a.jar"
       },
       "dateInstalled": "2021-05-23T23:22:22.7548817Z",
-      "dateUpdated": "2021-05-23T23:22:22.7578845Z",
-      "dateLastUpdateAttempted": "2021-05-23T23:22:22.7578845Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:31:01.4738853Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:31:01.4738853Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
