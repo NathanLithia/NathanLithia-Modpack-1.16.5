@@ -613,28 +613,28 @@
       "addonID": 310259,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3110910,
-        "displayName": "ServerStop-1.16.4-0.1.0b.jar",
-        "fileName": "ServerStop-1.16.4-0.1.0b.jar",
-        "fileDate": "2020-11-13T23:35:46.547Z",
-        "fileLength": 43123,
+        "id": 3409772,
+        "displayName": "ServerStop-1.16.5-0.1.1.jar",
+        "fileName": "ServerStop-1.16.5-0.1.1.jar",
+        "fileDate": "2021-08-02T16:22:28.617Z",
+        "fileLength": 41859,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3110/910/ServerStop-1.16.4-0.1.0b.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3409/772/ServerStop-1.16.5-0.1.1.jar",
         "isAlternate": false,
-        "alternateFileId": 3110911,
+        "alternateFileId": 3409773,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 803272394,
+            "fingerprint": 2336439967,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 740338210,
+            "fingerprint": 3236570521,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -646,22 +646,21 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2901003367,
+            "fingerprint": 60153291,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "pack.mcmeta",
-            "fingerprint": 965892765,
+            "fingerprint": 198782342,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3915139471,
+        "packageFingerprint": 263180552,
         "gameVersion": [
           "1.16.5",
-          "Forge",
-          "1.16.4"
+          "Forge"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -672,12 +671,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ServerStop-1.16.4-0.1.0b.jar"
+        "FileNameOnDisk": "ServerStop-1.16.5-0.1.1.jar"
       },
       "dateInstalled": "2021-07-17T09:11:33.6504135Z",
-      "dateUpdated": "2021-07-17T09:11:33.6524152Z",
-      "dateLastUpdateAttempted": "2021-07-17T09:11:33.6524152Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:31:40.001756Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:31:40.001756Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
