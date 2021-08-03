@@ -5192,14 +5192,14 @@
       "addonID": 228525,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3325826,
-        "displayName": "Bookshelf-1.16.5-10.1.11.jar",
-        "fileName": "Bookshelf-1.16.5-10.1.11.jar",
-        "fileDate": "2021-05-26T17:17:19.44Z",
-        "fileLength": 309330,
+        "id": 3402183,
+        "displayName": "Bookshelf-1.16.5-10.2.15.jar",
+        "fileName": "Bookshelf-1.16.5-10.2.15.jar",
+        "fileDate": "2021-07-26T21:10:12.49Z",
+        "fileLength": 309993,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3325/826/Bookshelf-1.16.5-10.1.11.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3402/183/Bookshelf-1.16.5-10.2.15.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -5207,13 +5207,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3942417480,
+            "fingerprint": 2555101291,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 1406021867,
+            "fingerprint": 1384105030,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -5225,7 +5225,7 @@
           },
           {
             "foldername": "net",
-            "fingerprint": 2044549973,
+            "fingerprint": 532797448,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -5236,7 +5236,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2326624319,
+        "packageFingerprint": 3597314605,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -5250,12 +5250,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Bookshelf-1.16.5-10.1.11.jar"
+        "FileNameOnDisk": "Bookshelf-1.16.5-10.2.15.jar"
       },
       "dateInstalled": "2021-03-23T21:36:33.6890379Z",
-      "dateUpdated": "2021-06-04T06:48:56.8508616Z",
-      "dateLastUpdateAttempted": "2021-06-04T06:48:56.8508616Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:24:07.1768493Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:24:07.1768493Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
