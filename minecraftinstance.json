@@ -10351,26 +10351,26 @@
       "addonID": 371813,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3306707,
-        "displayName": "crashutilities-3.11.1.jar",
-        "fileName": "crashutilities-3.11.1.jar",
-        "fileDate": "2021-05-12T06:57:34.577Z",
-        "fileLength": 2071172,
+        "id": 3400648,
+        "displayName": "crashutilities-3.12.jar",
+        "fileName": "crashutilities-3.12.jar",
+        "fileDate": "2021-07-25T15:57:59.5Z",
+        "fileLength": 2086298,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3306/707/crashutilities-3.11.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3400/648/crashutilities-3.12.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 309927,
+            "addonId": 361579,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 361579,
+            "addonId": 309927,
             "type": 2,
             "fileId": 0
           }
@@ -10379,13 +10379,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2961605208,
+            "fingerprint": 1860537174,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 1683452162,
+            "fingerprint": 3544893945,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -10420,7 +10420,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 471255567,
+        "packageFingerprint": 2039618924,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -10434,12 +10434,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "crashutilities-3.11.1.jar"
+        "FileNameOnDisk": "crashutilities-3.12.jar"
       },
       "dateInstalled": "2021-07-15T02:27:55.6349984Z",
-      "dateUpdated": "2021-07-15T02:27:55.6380031Z",
-      "dateLastUpdateAttempted": "2021-07-15T02:27:55.6380031Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:25:00.8874486Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:25:00.8874486Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
