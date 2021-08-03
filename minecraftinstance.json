@@ -1643,34 +1643,34 @@
       "addonID": 368223,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3118173,
-        "displayName": "HealthOverlay-1.16.4-2.1.7.jar",
-        "fileName": "HealthOverlay-1.16.4-2.1.7.jar",
-        "fileDate": "2020-11-20T23:12:07.107Z",
-        "fileLength": 20534,
+        "id": 3402106,
+        "displayName": "HealthOverlay-1.16.5-3.0.0.jar",
+        "fileName": "HealthOverlay-1.16.5-3.0.0.jar",
+        "fileDate": "2021-07-26T19:43:44.183Z",
+        "fileLength": 31914,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3118/173/HealthOverlay-1.16.4-2.1.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3402/106/HealthOverlay-1.16.5-3.0.0.jar",
         "isAlternate": false,
-        "alternateFileId": 3118174,
+        "alternateFileId": 3402107,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1937756008,
+            "fingerprint": 1220943733,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "terrails",
-            "fingerprint": 2865603438,
+            "fingerprint": 3687247852,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3982383262,
+            "fingerprint": 1091112143,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1682,12 +1682,12 @@
           },
           {
             "foldername": "LICENSE",
-            "fingerprint": 1205345383,
+            "fingerprint": 4053339065,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2529919483,
+        "packageFingerprint": 2719004978,
         "gameVersion": [
           "1.16.3",
           "1.16.1",
@@ -1706,12 +1706,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "HealthOverlay-1.16.4-2.1.7.jar"
+        "FileNameOnDisk": "HealthOverlay-1.16.5-3.0.0.jar"
       },
       "dateInstalled": "2021-05-27T05:20:56.1370796Z",
-      "dateUpdated": "2021-05-27T05:20:56.1380555Z",
-      "dateLastUpdateAttempted": "2021-05-27T05:20:56.1380555Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:29:50.7655638Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:29:50.7655638Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
