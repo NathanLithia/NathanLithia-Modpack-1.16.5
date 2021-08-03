@@ -4752,28 +4752,28 @@
       "addonID": 272515,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3400299,
-        "displayName": "BetterAdvancements-1.16.5-0.1.1.111",
-        "fileName": "BetterAdvancements-1.16.5-0.1.1.111.jar",
-        "fileDate": "2021-07-25T10:48:51.397Z",
-        "fileLength": 63271,
+        "id": 3404330,
+        "displayName": "BetterAdvancements-1.16.5-0.1.1.115",
+        "fileName": "BetterAdvancements-1.16.5-0.1.1.115.jar",
+        "fileDate": "2021-07-28T18:38:51.697Z",
+        "fileLength": 63647,
         "releaseType": 3,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3400/299/BetterAdvancements-1.16.5-0.1.1.111.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3404/330/BetterAdvancements-1.16.5-0.1.1.115.jar",
         "isAlternate": false,
-        "alternateFileId": 3400300,
+        "alternateFileId": 3404331,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 484736520,
+            "fingerprint": 1865052446,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "betteradvancements",
-            "fingerprint": 2934134305,
+            "fingerprint": 271621060,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4790,7 +4790,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 53585469,
+        "packageFingerprint": 3041603780,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -4804,12 +4804,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "BetterAdvancements-1.16.5-0.1.1.111.jar"
+        "FileNameOnDisk": "BetterAdvancements-1.16.5-0.1.1.115.jar"
       },
       "dateInstalled": "2021-05-10T07:38:49.4720802Z",
-      "dateUpdated": "2021-07-25T13:17:24.8319287Z",
-      "dateLastUpdateAttempted": "2021-07-25T13:17:24.8319287Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:23:52.9128409Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:23:52.9128409Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
