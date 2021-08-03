@@ -5270,14 +5270,14 @@
       "addonID": 282001,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3368207,
-        "displayName": "cc-tweaked-1.16.5-1.97.0.jar",
-        "fileName": "cc-tweaked-1.16.5-1.97.0.jar",
-        "fileDate": "2021-06-28T22:10:56.22Z",
-        "fileLength": 1844020,
+        "id": 3409979,
+        "displayName": "cc-tweaked-1.16.5-1.98.1.jar",
+        "fileName": "cc-tweaked-1.16.5-1.98.1.jar",
+        "fileDate": "2021-08-02T19:16:17.533Z",
+        "fileLength": 1848976,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3368/207/cc-tweaked-1.16.5-1.97.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3409/979/cc-tweaked-1.16.5-1.98.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -5285,19 +5285,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 686161564,
+            "fingerprint": 435615183,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dan200",
-            "fingerprint": 2678034699,
+            "fingerprint": 3851519607,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 516324961,
+            "fingerprint": 851359128,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -5315,7 +5315,7 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 3676209147,
+            "fingerprint": 3986889744,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -5326,7 +5326,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 743542537,
+        "packageFingerprint": 3449171365,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -5340,12 +5340,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "cc-tweaked-1.16.5-1.97.0.jar"
+        "FileNameOnDisk": "cc-tweaked-1.16.5-1.98.1.jar"
       },
       "dateInstalled": "2021-03-23T21:20:47.822898Z",
-      "dateUpdated": "2021-06-29T01:09:26.3745075Z",
-      "dateLastUpdateAttempted": "2021-06-29T01:09:26.3745075Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:24:23.2972487Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:24:23.2972487Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
