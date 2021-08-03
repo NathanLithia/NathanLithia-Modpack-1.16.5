@@ -5105,14 +5105,14 @@
       "addonID": 406201,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3352368,
-        "displayName": "Blame v3.2.3 (1.16.5 MC)",
-        "fileName": "blame-1.16.5-3.2.3-forge.jar",
-        "fileDate": "2021-06-14T23:57:02.42Z",
-        "fileLength": 87305,
+        "id": 3407996,
+        "displayName": "Blame v3.2.5 (1.16.5 MC)",
+        "fileName": "blame-1.16.5-3.2.5-forge.jar",
+        "fileDate": "2021-07-31T22:52:00.467Z",
+        "fileLength": 87819,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3352/368/blame-1.16.5-3.2.3-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3407/996/blame-1.16.5-3.2.5-forge.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -5120,13 +5120,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3338224595,
+            "fingerprint": 4021837321,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 2041701778,
+            "fingerprint": 1930519854,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -5155,7 +5155,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2685429128,
+        "packageFingerprint": 3578227081,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -5172,12 +5172,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "blame-1.16.5-3.2.3-forge.jar"
+        "FileNameOnDisk": "blame-1.16.5-3.2.5-forge.jar"
       },
       "dateInstalled": "2021-06-16T18:57:08.6339638Z",
-      "dateUpdated": "2021-06-16T18:57:08.6359659Z",
-      "dateLastUpdateAttempted": "2021-06-16T18:57:08.6359659Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:23:58.1468521Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:23:58.1468521Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
