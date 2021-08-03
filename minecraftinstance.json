@@ -16370,14 +16370,14 @@
       "addonID": 429371,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3398164,
-        "displayName": "kubejs-create-1605.1.2-build.3.jar",
-        "fileName": "kubejs-create-1605.1.2-build.3.jar",
-        "fileDate": "2021-07-23T10:53:34.507Z",
-        "fileLength": 9355,
+        "id": 3407451,
+        "displayName": "kubejs-create-1605.1.2-build.7.jar",
+        "fileName": "kubejs-create-1605.1.2-build.7.jar",
+        "fileDate": "2021-07-31T13:47:40.073Z",
+        "fileLength": 10141,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3398/164/kubejs-create-1605.1.2-build.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3407/451/kubejs-create-1605.1.2-build.7.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -16416,18 +16416,18 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 999873058,
+            "fingerprint": 3892145808,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 2322586290,
+            "fingerprint": 970984042,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 346113281,
+        "packageFingerprint": 63099391,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -16441,12 +16441,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "kubejs-create-1605.1.2-build.3.jar"
+        "FileNameOnDisk": "kubejs-create-1605.1.2-build.7.jar"
       },
       "dateInstalled": "2021-04-02T12:48:54.5841855Z",
-      "dateUpdated": "2021-07-24T07:25:27.5132212Z",
-      "dateLastUpdateAttempted": "2021-07-24T07:25:27.5132212Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:30:42.8263576Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:30:42.8263576Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
