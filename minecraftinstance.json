@@ -3198,41 +3198,17 @@
       "addonID": 422301,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3399778,
-        "displayName": "sophisticatedbackpacks-1.16.4-3.0.0.289.jar",
-        "fileName": "sophisticatedbackpacks-1.16.4-3.0.0.289.jar",
-        "fileDate": "2021-07-24T20:36:40.3Z",
-        "fileLength": 1160026,
+        "id": 3404306,
+        "displayName": "sophisticatedbackpacks-1.16.5-3.0.3.297.jar",
+        "fileName": "sophisticatedbackpacks-1.16.5-3.0.3.297.jar",
+        "fileDate": "2021-07-28T18:04:58.857Z",
+        "fileLength": 1161966,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3399/778/sophisticatedbackpacks-1.16.4-3.0.0.289.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3404/306/sophisticatedbackpacks-1.16.5-3.0.3.297.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
-          {
-            "id": 0,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 233071,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 225643,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 301356,
-            "type": 2,
-            "fileId": 0
-          },
           {
             "id": 0,
             "addonId": 243121,
@@ -3244,19 +3220,55 @@
             "addonId": 309927,
             "type": 2,
             "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 301356,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 225643,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 233071,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1550260381,
+            "fingerprint": 184651766,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 1440641462,
+            "fingerprint": 4023715346,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1102936719,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1651173092,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3271,21 +3283,9 @@
             "fingerprint": 3655983288,
             "type": 0,
             "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1510751291,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1102936719,
-            "type": 0,
-            "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 753301674,
+        "packageFingerprint": 2449525582,
         "gameVersion": [
           "1.16.5"
         ],
@@ -3295,15 +3295,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2020-11-02T18:40:51.49Z",
+        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "sophisticatedbackpacks-1.16.4-3.0.0.289.jar"
+        "FileNameOnDisk": "sophisticatedbackpacks-1.16.5-3.0.3.297.jar"
       },
       "dateInstalled": "2021-07-26T14:55:48.3626891Z",
-      "dateUpdated": "2021-07-26T14:55:48.3797046Z",
-      "dateLastUpdateAttempted": "2021-07-26T14:55:48.3797046Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:31:48.7415419Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:31:48.7415419Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
