@@ -4415,14 +4415,14 @@
       "addonID": 280294,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3362165,
-        "displayName": "FpsReducer-mc1.16.5-1.20.jar",
-        "fileName": "FpsReducer-mc1.16.5-1.20.jar",
-        "fileDate": "2021-06-23T14:26:17.31Z",
-        "fileLength": 91952,
+        "id": 3409850,
+        "displayName": "FpsReducer-forge-1.21-mc1.16.5.jar",
+        "fileName": "FpsReducer-forge-1.21-mc1.16.5.jar",
+        "fileDate": "2021-08-02T17:06:45.707Z",
+        "fileLength": 95229,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3362/165/FpsReducer-mc1.16.5-1.20.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3409/850/FpsReducer-forge-1.21-mc1.16.5.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -4430,19 +4430,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3010702503,
+            "fingerprint": 1292764472,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "bre2el",
-            "fingerprint": 2891768153,
+            "fingerprint": 1406639022,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
             "fingerprint": 2163027845,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fpsreducer.mixins.json",
+            "fingerprint": 1828560234,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4457,9 +4463,15 @@
             "fingerprint": 419585142,
             "type": 0,
             "invalidFingerprint": false
+          },
+          {
+            "foldername": "fpsreducer.refmap.json",
+            "fingerprint": 4067606497,
+            "type": 0,
+            "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3184396364,
+        "packageFingerprint": 2626044509,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -4473,12 +4485,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FpsReducer-mc1.16.5-1.20.jar"
+        "FileNameOnDisk": "FpsReducer-forge-1.21-mc1.16.5.jar"
       },
       "dateInstalled": "2021-03-23T21:33:38.2663525Z",
-      "dateUpdated": "2021-06-27T03:31:46.0898078Z",
-      "dateLastUpdateAttempted": "2021-06-27T03:31:46.0898078Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:28:42.9536759Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:28:42.9536759Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
