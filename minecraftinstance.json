@@ -19556,14 +19556,14 @@
       "addonID": 428883,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3316063,
-        "displayName": "dungeons_mobs-1.16.5-1.0.5.jar",
-        "fileName": "dungeons_mobs-1.16.5-1.0.5.jar",
-        "fileDate": "2021-05-20T03:01:02.853Z",
-        "fileLength": 845975,
+        "id": 3409294,
+        "displayName": "dungeons_mobs-1.16.5-1.0.8.jar",
+        "fileName": "dungeons_mobs-1.16.5-1.0.8.jar",
+        "fileDate": "2021-08-02T06:29:48.14Z",
+        "fileLength": 1066037,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3316/63/dungeons_mobs-1.16.5-1.0.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3409/294/dungeons_mobs-1.16.5-1.0.8.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -19571,31 +19571,31 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 913164683,
+            "fingerprint": 25998361,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 1811402052,
+            "fingerprint": 363527527,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 2683706015,
+            "fingerprint": 143606716,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 3185107726,
+            "fingerprint": 2291748302,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dungeons_mobs.mixins.json",
-            "fingerprint": 2413514858,
+            "fingerprint": 1778011907,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -19607,17 +19607,15 @@
           },
           {
             "foldername": "dungeons_mobs.refmap.json",
-            "fingerprint": 2104704149,
+            "fingerprint": 2958057714,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 247001996,
+        "packageFingerprint": 1104940501,
         "gameVersion": [
-          "1.16.3",
           "1.16.5",
-          "Forge",
-          "1.16.4"
+          "Forge"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -19628,12 +19626,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "dungeons_mobs-1.16.5-1.0.5.jar"
+        "FileNameOnDisk": "dungeons_mobs-1.16.5-1.0.8.jar"
       },
       "dateInstalled": "2021-07-05T00:27:17.1275478Z",
-      "dateUpdated": "2021-07-05T00:27:17.1375578Z",
-      "dateLastUpdateAttempted": "2021-07-05T00:27:17.1375578Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:27:56.2095428Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:27:56.2095428Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
