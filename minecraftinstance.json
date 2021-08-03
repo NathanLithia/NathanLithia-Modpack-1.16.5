@@ -3114,14 +3114,14 @@
       "addonID": 69162,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3249453,
-        "displayName": "cofh_core-1.16.4-1.2.1.jar",
-        "fileName": "cofh_core-1.16.4-1.2.1.jar",
-        "fileDate": "2021-03-24T03:54:27.99Z",
-        "fileLength": 1067855,
+        "id": 3407019,
+        "displayName": "cofh_core-1.16.5-1.3.1.jar",
+        "fileName": "cofh_core-1.16.5-1.3.1.jar",
+        "fileDate": "2021-07-31T01:04:44.44Z",
+        "fileLength": 1074217,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3249/453/cofh_core-1.16.4-1.2.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3407/19/cofh_core-1.16.5-1.3.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -3136,25 +3136,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 402531755,
+            "fingerprint": 824148502,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "cofh",
-            "fingerprint": 1469962158,
+            "fingerprint": 2585166152,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3567183779,
+            "fingerprint": 2085806998,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 192729279,
+            "fingerprint": 4000834770,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3171,11 +3171,10 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1090955231,
+        "packageFingerprint": 252800266,
         "gameVersion": [
           "1.16.5",
-          "Forge",
-          "1.16.4"
+          "Forge"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -3186,12 +3185,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "cofh_core-1.16.4-1.2.1.jar"
+        "FileNameOnDisk": "cofh_core-1.16.5-1.3.1.jar"
       },
       "dateInstalled": "2021-03-23T21:44:39.0182713Z",
-      "dateUpdated": "2021-03-25T04:20:36.3339502Z",
-      "dateLastUpdateAttempted": "2021-03-25T04:20:36.3339502Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:24:32.5145651Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:24:32.5145651Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
