@@ -7326,14 +7326,14 @@
       "addonID": 478112,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3313862,
-        "displayName": "prune-addon-ftb-chunks-0.0.3.jar",
-        "fileName": "prune-addon-ftb-chunks-0.0.3.jar",
-        "fileDate": "2021-05-18T16:19:28.61Z",
-        "fileLength": 16154,
-        "releaseType": 3,
+        "id": 3408436,
+        "displayName": "prune-addon-ftb-chunks-forge-0.1.1.jar",
+        "fileName": "prune-addon-ftb-chunks-forge-0.1.1.jar",
+        "fileDate": "2021-08-01T10:45:27.87Z",
+        "fileLength": 30606,
+        "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3313/862/prune-addon-ftb-chunks-0.0.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3408/436/prune-addon-ftb-chunks-forge-0.1.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -7353,42 +7353,55 @@
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "LICENSE_prune-addon-ftb-chunks",
-            "fingerprint": 18375977,
+            "foldername": "META-INF",
+            "fingerprint": 137338030,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2584565256,
+            "foldername": "pruneaddonftbchunks.mixins.json",
+            "fingerprint": 3234700972,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 4288801447,
+            "fingerprint": 2936743987,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "META-INF",
-            "fingerprint": 250290286,
+            "foldername": "prune-addon-ftb-chunks-common-refmap.json",
+            "fingerprint": 1493072104,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 551361805,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "xyz",
-            "fingerprint": 3110941499,
+            "fingerprint": 2801777369,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_pruneaddonftbchunks_common_59a92165b19649c6981cac54a61ada42",
+            "fingerprint": 3897039594,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2060485352,
+        "packageFingerprint": 607436457,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
           "Forge",
-          "1.16.4"
+          "1.16.4",
+          "1.16.2"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -7396,15 +7409,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "prune-addon-ftb-chunks-0.0.3.jar"
+        "FileNameOnDisk": "prune-addon-ftb-chunks-forge-0.1.1.jar"
       },
       "dateInstalled": "2021-06-10T15:43:10.3608161Z",
-      "dateUpdated": "2021-06-10T15:43:10.3628189Z",
-      "dateLastUpdateAttempted": "2021-06-10T15:43:10.3628189Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:31:22.7124172Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:31:22.7124172Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
