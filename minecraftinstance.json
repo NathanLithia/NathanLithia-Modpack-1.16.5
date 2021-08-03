@@ -14930,14 +14930,14 @@
       "addonID": 354143,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3389539,
-        "displayName": "performant-1.16.2-5-3.71m.jar",
-        "fileName": "performant-1.16.2-5-3.71m.jar",
-        "fileDate": "2021-07-15T11:00:32.17Z",
-        "fileLength": 232291,
+        "id": 3401152,
+        "displayName": "performant-1.16.2-5-3.72m.jar",
+        "fileName": "performant-1.16.2-5-3.72m.jar",
+        "fileDate": "2021-07-25T23:20:18.343Z",
+        "fileLength": 232527,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3389/539/performant-1.16.2-5-3.71m.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3401/152/performant-1.16.2-5-3.72m.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -14945,13 +14945,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2011147166,
+            "fingerprint": 2162424888,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 206622844,
+            "fingerprint": 959936665,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -14974,12 +14974,11 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4000298829,
+        "packageFingerprint": 1486571541,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
           "Forge",
-          "1.16.4",
           "1.16.2"
         ],
         "hasInstallScript": false,
@@ -14991,12 +14990,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "performant-1.16.2-5-3.71m.jar"
+        "FileNameOnDisk": "performant-1.16.2-5-3.72m.jar"
       },
       "dateInstalled": "2021-05-23T18:58:44.782638Z",
-      "dateUpdated": "2021-07-17T12:32:04.1404309Z",
-      "dateLastUpdateAttempted": "2021-07-17T12:32:04.1404309Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:31:13.2237693Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:31:13.2237693Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
