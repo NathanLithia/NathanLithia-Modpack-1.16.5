@@ -17017,14 +17017,14 @@
       "addonID": 223852,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3180569,
-        "displayName": "StorageDrawers-1.16.3-8.2.2.jar",
-        "fileName": "StorageDrawers-1.16.3-8.2.2.jar",
-        "fileDate": "2021-01-25T09:25:58.593Z",
-        "fileLength": 494228,
+        "id": 3402515,
+        "displayName": "StorageDrawers-1.16.3-8.3.0.jar",
+        "fileName": "StorageDrawers-1.16.3-8.3.0.jar",
+        "fileDate": "2021-07-27T04:54:34.703Z",
+        "fileLength": 500792,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3180/569/StorageDrawers-1.16.3-8.2.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3402/515/StorageDrawers-1.16.3-8.3.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -17032,19 +17032,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3910615336,
+            "fingerprint": 997917962,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 4237090010,
+            "fingerprint": 1729075938,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 2528167220,
+            "fingerprint": 400019514,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -17061,7 +17061,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 883976394,
+        "packageFingerprint": 1640644228,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -17077,12 +17077,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "StorageDrawers-1.16.3-8.2.2.jar"
+        "FileNameOnDisk": "StorageDrawers-1.16.3-8.3.0.jar"
       },
       "dateInstalled": "2021-03-23T21:18:09.1344749Z",
-      "dateUpdated": "2021-03-23T21:18:09.1364772Z",
-      "dateLastUpdateAttempted": "2021-03-23T21:18:09.1364772Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:31:55.918695Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:31:55.918695Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
