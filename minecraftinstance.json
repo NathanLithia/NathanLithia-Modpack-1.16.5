@@ -19147,23 +19147,17 @@
       "addonID": 282947,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3393408,
-        "displayName": "baubley-heart-canisters-1.16.5-1.1.5.jar",
-        "fileName": "baubley-heart-canisters-1.16.5-1.1.5.jar",
-        "fileDate": "2021-07-19T02:49:44.413Z",
-        "fileLength": 63115,
+        "id": 3404904,
+        "displayName": "baubely-heart-canisters-1.16.5-1.1.10.jar",
+        "fileName": "baubely-heart-canisters-1.16.5-1.1.10.jar",
+        "fileDate": "2021-07-29T05:03:35.88Z",
+        "fileLength": 63721,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3393/408/baubley-heart-canisters-1.16.5-1.1.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3404/904/baubely-heart-canisters-1.16.5-1.1.10.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
-          {
-            "id": 0,
-            "addonId": 74072,
-            "type": 2,
-            "fileId": 0
-          },
           {
             "id": 0,
             "addonId": 309927,
@@ -19175,31 +19169,37 @@
             "addonId": 74924,
             "type": 3,
             "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 74072,
+            "type": 2,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1769955046,
+            "fingerprint": 3583889493,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 2750900406,
+            "fingerprint": 2813517219,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 1919052193,
+            "fingerprint": 48067324,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 3038846562,
+            "fingerprint": 1985635135,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -19210,10 +19210,9 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3942357831,
+        "packageFingerprint": 2718622942,
         "gameVersion": [
-          "1.16.5",
-          "Forge"
+          "1.16.5"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -19224,12 +19223,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "baubley-heart-canisters-1.16.5-1.1.5.jar"
+        "FileNameOnDisk": "baubely-heart-canisters-1.16.5-1.1.10.jar"
       },
       "dateInstalled": "2021-04-01T01:00:03.0491305Z",
-      "dateUpdated": "2021-07-22T07:27:16.6981631Z",
-      "dateLastUpdateAttempted": "2021-07-22T07:27:16.6981631Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:23:38.6938117Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:23:38.6938117Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
