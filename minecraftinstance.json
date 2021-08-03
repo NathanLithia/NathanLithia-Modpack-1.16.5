@@ -12935,14 +12935,14 @@
       "addonID": 360203,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3287806,
-        "displayName": "guardvillagers-1.16.5.1.2.4.jar",
-        "fileName": "guardvillagers-1.16.5.1.2.4.jar",
-        "fileDate": "2021-04-24T20:02:53.813Z",
-        "fileLength": 188171,
+        "id": 3404373,
+        "displayName": "guardvillagers-1.16.5.1.2.5.jar",
+        "fileName": "guardvillagers-1.16.5.1.2.5.jar",
+        "fileDate": "2021-07-28T19:28:18.023Z",
+        "fileLength": 190041,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3287/806/guardvillagers-1.16.5.1.2.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3404/373/guardvillagers-1.16.5.1.2.5.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -12950,25 +12950,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1327292927,
+            "fingerprint": 2321760006,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "tallestegg",
-            "fingerprint": 567057732,
+            "fingerprint": 1323805461,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 71155993,
+            "fingerprint": 830122828,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 3245644032,
+            "fingerprint": 1865134657,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12991,11 +12991,9 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 840876696,
+        "packageFingerprint": 2234460556,
         "gameVersion": [
-          "1.16.5",
-          "Forge",
-          "1.16.4"
+          "1.16.5"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -13003,15 +13001,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionDateReleased": "2020-11-02T18:40:51.49Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "guardvillagers-1.16.5.1.2.4.jar"
+        "FileNameOnDisk": "guardvillagers-1.16.5.1.2.5.jar"
       },
       "dateInstalled": "2021-03-27T01:39:27.9559652Z",
-      "dateUpdated": "2021-04-30T07:12:07.4561215Z",
-      "dateLastUpdateAttempted": "2021-04-30T07:12:07.4561215Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:29:38.4703486Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:29:38.4703486Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
