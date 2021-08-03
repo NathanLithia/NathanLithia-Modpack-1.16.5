@@ -13372,14 +13372,14 @@
       "addonID": 430404,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3354110,
-        "displayName": "OuterEnd-0.2.13.jar",
-        "fileName": "OuterEnd-0.2.13.jar",
-        "fileDate": "2021-06-16T15:56:20.19Z",
-        "fileLength": 57325484,
+        "id": 3404058,
+        "displayName": "OuterEnd-0.2.14.jar",
+        "fileName": "OuterEnd-0.2.14.jar",
+        "fileDate": "2021-07-28T13:42:39.4Z",
+        "fileLength": 57328296,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3354/110/OuterEnd-0.2.13.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3404/58/OuterEnd-0.2.14.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -13394,25 +13394,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2341214140,
+            "fingerprint": 2544589080,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "blueduck",
-            "fingerprint": 3576400157,
+            "fingerprint": 2714990417,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 4003139743,
+            "fingerprint": 350566151,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 493983516,
+            "fingerprint": 3688443870,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -13441,7 +13441,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2431184597,
+        "packageFingerprint": 2346284930,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -13455,12 +13455,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "OuterEnd-0.2.13.jar"
+        "FileNameOnDisk": "OuterEnd-0.2.14.jar"
       },
       "dateInstalled": "2021-06-17T07:59:22.2834373Z",
-      "dateUpdated": "2021-06-17T07:59:22.3575041Z",
-      "dateLastUpdateAttempted": "2021-06-17T07:59:22.3575041Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:32:31.890793Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:32:31.890793Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
