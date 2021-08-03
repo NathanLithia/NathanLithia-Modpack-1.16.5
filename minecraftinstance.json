@@ -4325,22 +4325,22 @@
       "addonID": 276951,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3359524,
-        "displayName": "comforts-forge-1.16.5-4.0.1.1.jar",
-        "fileName": "comforts-forge-1.16.5-4.0.1.1.jar",
-        "fileDate": "2021-06-21T08:15:58.327Z",
-        "fileLength": 241852,
+        "id": 3411197,
+        "displayName": "comforts-forge-1.16.5-4.0.1.2.jar",
+        "fileName": "comforts-forge-1.16.5-4.0.1.2.jar",
+        "fileDate": "2021-08-02T23:17:29.317Z",
+        "fileLength": 241861,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3359/524/comforts-forge-1.16.5-4.0.1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3411/197/comforts-forge-1.16.5-4.0.1.2.jar",
         "isAlternate": false,
-        "alternateFileId": 3359525,
+        "alternateFileId": 3411198,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 476376354,
+            "fingerprint": 1673944698,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4352,7 +4352,7 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2348746069,
+            "fingerprint": 2877107043,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4387,7 +4387,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 229097414,
+        "packageFingerprint": 381053195,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -4401,12 +4401,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "comforts-forge-1.16.5-4.0.1.1.jar"
+        "FileNameOnDisk": "comforts-forge-1.16.5-4.0.1.2.jar"
       },
       "dateInstalled": "2021-03-23T21:18:58.5716112Z",
-      "dateUpdated": "2021-06-23T08:41:17.3078107Z",
-      "dateLastUpdateAttempted": "2021-06-23T08:41:17.3078107Z",
-      "status": 3,
+      "dateUpdated": "2021-08-03T15:24:51.4414505Z",
+      "dateLastUpdateAttempted": "2021-08-03T15:24:51.4414505Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
