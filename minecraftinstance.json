@@ -7182,14 +7182,14 @@
       "addonID": 421850,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3386962,
-        "displayName": "[1.16.4 / 1.16.5] YUNG's API vForge-11",
-        "fileName": "YungsApi-1.16.4-Forge-11.jar",
-        "fileDate": "2021-07-13T04:35:19.36Z",
-        "fileLength": 102676,
+        "id": 3412585,
+        "displayName": "[1.16.4 / 1.16.5] YUNG's API vForge-12",
+        "fileName": "YungsApi-1.16.4-Forge-12.jar",
+        "fileDate": "2021-08-04T07:27:41.133Z",
+        "fileLength": 106044,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3386/962/YungsApi-1.16.4-Forge-11.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3412/585/YungsApi-1.16.4-Forge-12.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -7197,13 +7197,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 963435282,
+            "fingerprint": 2597342886,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 618843387,
+            "fingerprint": 4089625021,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -7212,9 +7212,21 @@
             "fingerprint": 2686543822,
             "type": 0,
             "invalidFingerprint": false
+          },
+          {
+            "foldername": "yungsapi.mixins.json",
+            "fingerprint": 146205936,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "yungsapi.refmap.json",
+            "fingerprint": 841431199,
+            "type": 0,
+            "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 857349200,
+        "packageFingerprint": 2028424798,
         "gameVersion": [
           "1.16",
           "1.16.5",
@@ -7230,12 +7242,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "YungsApi-1.16.4-Forge-11.jar"
+        "FileNameOnDisk": "YungsApi-1.16.4-Forge-12.jar"
       },
       "dateInstalled": "2021-07-15T02:21:19.7849306Z",
-      "dateUpdated": "2021-07-15T02:21:19.8059524Z",
-      "dateLastUpdateAttempted": "2021-07-15T02:21:19.8059524Z",
-      "status": 3,
+      "dateUpdated": "2021-08-05T19:26:16.6811973Z",
+      "dateLastUpdateAttempted": "2021-08-05T19:26:16.6811973Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -16740,14 +16752,14 @@
       "addonID": 465575,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3386965,
-        "displayName": "[1.16.4 / 1.16.5] YUNG's Better Strongholds v1.2",
-        "fileName": "BetterStrongholds-1.16.4-1.2.jar",
-        "fileDate": "2021-07-13T04:46:49.647Z",
-        "fileLength": 540812,
+        "id": 3412586,
+        "displayName": "[1.16.4 / 1.16.5] YUNG's Better Strongholds v1.2.1",
+        "fileName": "BetterStrongholds-1.16.4-1.2.1.jar",
+        "fileDate": "2021-08-04T07:29:50.157Z",
+        "fileLength": 541396,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3386/965/BetterStrongholds-1.16.4-1.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3412/586/BetterStrongholds-1.16.4-1.2.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -16762,13 +16774,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2296602819,
+            "fingerprint": 3209368555,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 929489140,
+            "fingerprint": 1455731591,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -16780,7 +16792,7 @@
           },
           {
             "foldername": "betterstrongholds.mixins.json",
-            "fingerprint": 3554324613,
+            "fingerprint": 685146903,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -16804,12 +16816,12 @@
           },
           {
             "foldername": "betterstrongholds.refmap.json",
-            "fingerprint": 1987217195,
+            "fingerprint": 459052230,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2928323508,
+        "packageFingerprint": 2521239407,
         "gameVersion": [
           "1.16",
           "1.16.5",
@@ -16825,12 +16837,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "BetterStrongholds-1.16.4-1.2.jar"
+        "FileNameOnDisk": "BetterStrongholds-1.16.4-1.2.1.jar"
       },
       "dateInstalled": "2021-08-03T15:44:25.6409666Z",
-      "dateUpdated": "2021-08-03T15:44:25.6439741Z",
-      "dateLastUpdateAttempted": "2021-08-03T15:44:25.6439741Z",
-      "status": 3,
+      "dateUpdated": "2021-08-05T19:26:19.911377Z",
+      "dateLastUpdateAttempted": "2021-08-05T19:26:19.911377Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
