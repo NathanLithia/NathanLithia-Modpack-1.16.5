@@ -14191,14 +14191,14 @@
       "addonID": 454372,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3407800,
-        "displayName": "supermartijn642corelib-1.0.11a-mc1.16.5",
-        "fileName": "supermartijn642corelib-1.0.11a-mc1.16.5.jar",
-        "fileDate": "2021-07-31T20:12:03.7Z",
-        "fileLength": 202151,
+        "id": 3413422,
+        "displayName": "supermartijn642corelib-1.0.12-mc1.16.5",
+        "fileName": "supermartijn642corelib-1.0.12-mc1.16.5.jar",
+        "fileDate": "2021-08-04T23:28:06.07Z",
+        "fileLength": 202294,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3407/800/supermartijn642corelib-1.0.11a-mc1.16.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3413/422/supermartijn642corelib-1.0.12-mc1.16.5.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -14206,13 +14206,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3709353012,
+            "fingerprint": 4032317977,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 2768322947,
+            "fingerprint": 733152587,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -14235,7 +14235,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2513524432,
+        "packageFingerprint": 572436363,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -14252,12 +14252,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "supermartijn642corelib-1.0.11a-mc1.16.5.jar"
+        "FileNameOnDisk": "supermartijn642corelib-1.0.12-mc1.16.5.jar"
       },
       "dateInstalled": "2021-07-09T23:08:59.9820921Z",
-      "dateUpdated": "2021-08-03T15:32:04.3418957Z",
-      "dateLastUpdateAttempted": "2021-08-03T15:32:04.3418957Z",
-      "status": 3,
+      "dateUpdated": "2021-08-05T19:26:02.4195635Z",
+      "dateLastUpdateAttempted": "2021-08-05T19:26:02.4195635Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -20073,14 +20073,14 @@
       "addonID": 74072,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3389395,
-        "displayName": "Tinkers' Construct 3.1.0.231 for 1.16.5",
-        "fileName": "TConstruct-1.16.5-3.1.0.231.jar",
-        "fileDate": "2021-07-15T05:43:04.14Z",
-        "fileLength": 8693840,
+        "id": 3412365,
+        "displayName": "Tinker's Construct 3.1.1.252 for 1.16.5",
+        "fileName": "TConstruct-1.16.5-3.1.1.252.jar",
+        "fileDate": "2021-08-04T01:29:26.437Z",
+        "fileLength": 8903474,
         "releaseType": 3,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3389/395/TConstruct-1.16.5-3.1.0.231.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3412/365/TConstruct-1.16.5-3.1.1.252.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -20095,19 +20095,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1547198921,
+            "fingerprint": 1817175080,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "slimeknights",
-            "fingerprint": 4282119942,
+            "fingerprint": 1076202856,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 2703656721,
+            "fingerprint": 1714028067,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -20125,12 +20125,12 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 835241509,
+            "fingerprint": 74116223,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1749378630,
+        "packageFingerprint": 3271888402,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -20141,15 +20141,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2017-09-17T00:00:00Z",
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "TConstruct-1.16.5-3.1.0.231.jar"
+        "FileNameOnDisk": "TConstruct-1.16.5-3.1.1.252.jar"
       },
       "dateInstalled": "2021-04-02T12:33:10.1568907Z",
-      "dateUpdated": "2021-07-17T12:31:10.5671695Z",
-      "dateLastUpdateAttempted": "2021-07-17T12:31:10.5671695Z",
-      "status": 3,
+      "dateUpdated": "2021-08-05T19:26:07.259755Z",
+      "dateLastUpdateAttempted": "2021-08-05T19:26:07.259755Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
