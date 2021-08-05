@@ -234,6 +234,51 @@
 	#Maximum spawn group size of Poison-Quill Vines in the biomes they can spawn in. [default:1]
 	#Range: 0 ~ 128
 	poisonQuillVineMaxGroupSize = 1
+	#Enable Armored Piglins replacing 10% of Piglins spawns in the biomes they can spawn in. 
+	#If you prefer to not have them do this, disable this feature. [true / false]
+	enableArmoredPiglinReplacesPiglin = true
+	#Enable Zombified Armored Piglins replacing 10% of Zombified Piglin spawns in the biomes they can spawn in. 
+	#If you prefer to not have them do this, disable this feature. [true / false]
+	enabledArmoredZombifiedPiglinReplacesZombifiedPiglin = true
+	#Add biome types that the Fungus Thrower can spawn in. 
+	#Put a "!" before the type to prevent spawning in that biome type. 
+	#Leave this blank if you don't want them to spawn at all.
+	fungusThrowerBiomeTypes = ["NETHER", "CRIMSON", "!WARPED", "!SOULSAND", "!DELTA", "!OVERWORLD", "!END"]
+	#Spawn weight of Fungus Throwers in the biomes they can spawn in. [default:5]
+	#Range: 0 ~ 1024
+	fungusThrowerSpawnWeight = 5
+	#Minimum spawn group size of Fungus Throwers in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	fungusThrowerMinGroupSize = 3
+	#Maximum spawn group size of Fungus Throwers in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	fungusThrowerMaxGroupSize = 4
+	#Add biome types that the Zombified Fungus Thrower can spawn in. 
+	#Put a "!" before the type to prevent spawning in that biome type. 
+	#Leave this blank if you don't want them to spawn at all.
+	zombifiedFungusThrowerBiomeTypes = ["NETHER", "CRIMSON", "!WARPED", "!SOULSAND", "!DELTA", "!OVERWORLD", "!END"]
+	#Spawn weight of Zombified Fungus Throwers in the biomes they can spawn in. [default:5]
+	#Range: 0 ~ 1024
+	zombifiedFungusThrowerSpawnWeight = 5
+	#Minimum spawn group size of Zombified Fungus Throwers in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	zombifiedFungusThrowerMinGroupSize = 3
+	#Maximum spawn group size of Zombified Fungus Throwers in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	zombifiedFungusThrowerMaxGroupSize = 4
+	#Add biome types that the Wither Skeleton can spawn in. 
+	#Put a "!" before the type to prevent spawning in that biome type. 
+	#Leave this blank if you don't want them to spawn at all.
+	witherSkeletonBiomeTypes = ["NETHER", "SOULSAND", "!CRIMSON", "!WARPED", "!DELTA", "!OVERWORLD", "!END"]
+	#Spawn weight of Wither Skeletons in the biomes they can spawn in. [default:5]
+	#Range: 0 ~ 1024
+	witherSkeletonSpawnWeight = 5
+	#Minimum spawn group size of Wither Skeletons in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	witherSkeletonMinGroupSize = 1
+	#Maximum spawn group size of Wither Skeletons in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	witherSkeletonMaxGroupSize = 4
 
 #Raid Configuration
 [raid_configuration]
@@ -279,6 +324,4 @@
 	enableStrongerHusks = true
 	#Enables Spiders and Cave Spiders shooting webs as a ranged attack like they do in Minecraft Dungeons. [true / false]
 	enableRangedSpiders = true
-	#Enables Illusioners to have the same cloning behavior as they do in Minecraft Dungeons. [true / false]
-	enableCloningIllusioners = true
 

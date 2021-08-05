@@ -8,81 +8,69 @@
 [util]
 	#Disable ServerStop Update Checker Message
 	disableUpdateCheck = false
+	#Shutdown the Server Even if Players are Online
+	stopWhenPlayersOnline = true
 
 #Monday Settings
 [monday]
 	#If this is enabled, at a time specified below the server will auto-shutdown.
 	enableMonday = true
 	#On Monday this is the hour the server will auto-shutdown. It uses 24-hour time.
-	#Range: 0 ~ 23
-	mondayHour = 12
+	mondayHour = []
 	#On Monday this is the minute the server will auto-shutdown.
-	#Range: 0 ~ 59
-	mondayMinute = 0
+	mondayMinute = []
 
 #Tuesday Settings
 [tuesday]
 	#If this is enabled, at a time specified below the server will auto-shutdown.
 	enableTuesday = true
 	#On Tuesday this is the hour the server will auto-shutdown. It uses 24-hour time.
-	#Range: 0 ~ 23
-	tuesdayHour = 12
+	tuesdayHour = []
 	#On Tuesday this is the minute the server will auto-shutdown.
-	#Range: 0 ~ 59
-	tuesdayMinute = 0
+	tuesdayMinute = []
 
 #Wednesday Settings
 [wednesday]
 	#If this is enabled, at a time specified below the server will auto-shutdown.
 	enableWednesday = true
 	#On Wednesday this is the hour the server will auto-shutdown. It uses 24-hour time.
-	#Range: 0 ~ 23
-	wednesdayHour = 12
+	wednesdayHour = []
 	#On Wednesday this is the minute the server will auto-shutdown.
-	#Range: 0 ~ 59
-	wednesdayMinute = 0
+	wednesdayMinute = []
 
 #Thursday Settings
 [thursday]
 	#If this is enabled, at a time specified below the server will auto-shutdown.
 	enableThursday = true
 	#On Thursday this is the hour the server will auto-shutdown. It uses 24-hour time.
-	#Range: 0 ~ 23
-	thursdayHour = 12
+	thursdayHour = []
 	#On Thursday this is the minute the server will auto-shutdown.
-	#Range: 0 ~ 59
-	thursdayMinute = 0
+	thursdayMinute = []
 
 #Friday Settings
 [friday]
 	#If this is enabled, at a time specified below the server will auto-shutdown.
 	enableFriday = true
 	#On Friday this is the hour the server will auto-shutdown. It uses 24-hour time.
-	#Range: 0 ~ 23
-	fridayHour = 12
+	fridayHour = []
 	#On Friday this is the minute the server will auto-shutdown.
-	#Range: 0 ~ 59
-	fridayMinute = 0
+	fridayMinute = []
 
 #Saturday Settings
 [saturday]
 	#If this is enabled, at a time specified below the server will auto-shutdown.
 	enableSaturday = true
 	#On Saturday this is the hour the server will auto-shutdown. It uses 24-hour time.
-	#Range: 0 ~ 23
-	saturdayHour = 12
+	saturdayHour = []
 	#On Saturday this is the minute the server will auto-shutdown.
-	#Range: 0 ~ 59
-	saturdayMinute = 0
+	saturdayMinute = []
 
 #Sunday Settings
 [sunday]
 	#If this is enabled, at a time specified below the server will auto-shutdown.
 	enableSunday = true
 	#On Sunday this is the hour the server will auto-shutdown. It uses 24-hour time.
-	#Range: 0 ~ 23
-	sundayHour = 12
+	sundayHour = []
 	#On Sunday this is the minute the server will auto-shutdown.
-	#Range: 0 ~ 59
-	sundayMinute = 0
+	sundayMinute = []
 
