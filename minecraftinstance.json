@@ -2568,16 +2568,16 @@
       "addonID": 367706,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3391015,
-        "displayName": "FancyMenu v2.2.0 MC 1.16.2-1.16.5",
-        "fileName": "fancymenu_2.2.0_MC_1.16.2-1.16.5.jar",
-        "fileDate": "2021-07-16T20:11:05.17Z",
-        "fileLength": 513641,
+        "id": 3411954,
+        "displayName": "FancyMenu v2.2.0-2 MC 1.16.2-1.16.5",
+        "fileName": "fancymenu_2.2.0-2_MC_1.16.2-1.16.5.jar",
+        "fileDate": "2021-08-03T17:20:16.437Z",
+        "fileLength": 513642,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3391/15/fancymenu_2.2.0_MC_1.16.2-1.16.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3411/954/fancymenu_2.2.0-2_MC_1.16.2-1.16.5.jar",
         "isAlternate": false,
-        "alternateFileId": 3391295,
+        "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
@@ -2590,13 +2590,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 474818073,
+            "fingerprint": 1809999105,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "de",
-            "fingerprint": 3803793588,
+            "fingerprint": 497866132,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -2625,7 +2625,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1720949848,
+        "packageFingerprint": 3446678105,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -2642,12 +2642,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "fancymenu_2.2.0_MC_1.16.2-1.16.5.jar"
+        "FileNameOnDisk": "fancymenu_2.2.0-2_MC_1.16.2-1.16.5.jar"
       },
       "dateInstalled": "2021-05-20T18:42:25.3199731Z",
-      "dateUpdated": "2021-07-17T12:33:49.620936Z",
-      "dateLastUpdateAttempted": "2021-07-17T12:33:49.620936Z",
-      "status": 3,
+      "dateUpdated": "2021-08-05T19:25:45.5733678Z",
+      "dateLastUpdateAttempted": "2021-08-05T19:25:45.5733678Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
