@@ -7577,6 +7577,114 @@
       "installedTargets": null
     },
     {
+      "addonID": 441647,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": {
+        "id": 3412173,
+        "displayName": "FramedBlocks-2.9.3.jar",
+        "fileName": "FramedBlocks-2.9.3.jar",
+        "fileDate": "2021-08-03T22:27:37.18Z",
+        "fileLength": 505334,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3412/173/FramedBlocks-2.9.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1994549019,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "team",
+            "fingerprint": 1322605695,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "xfacthd",
+            "fingerprint": 3056142202,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": ".cache",
+            "fingerprint": 4267182469,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2690931833,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3863849961,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "framedblocks.mixin.json",
+            "fingerprint": 3441545819,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 789975261,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3799552759,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "framedblocks.refmap.json",
+            "fingerprint": 307935087,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3085615053,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "FramedBlocks-2.9.3.jar"
+      },
+      "dateInstalled": "2021-08-07T01:33:13.7879628Z",
+      "dateUpdated": "2021-08-07T01:33:13.7899647Z",
+      "dateLastUpdateAttempted": "2021-08-07T01:33:13.7899647Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 242830,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
@@ -8006,6 +8114,93 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 428277,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": {
+        "id": 3158133,
+        "displayName": "kubejs-blood-magic-1604.1.0.4.jar",
+        "fileName": "kubejs-blood-magic-1604.1.0.4.jar",
+        "fileDate": "2021-01-04T12:17:24.287Z",
+        "fileLength": 11132,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3158/133/kubejs-blood-magic-1604.1.0.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 224791,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238086,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2748846569,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "dev",
+            "fingerprint": 636113403,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2942097348,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "kubejs_class_filter.txt",
+            "fingerprint": 2466851254,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 292427143,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "kubejs-blood-magic-1604.1.0.4.jar"
+      },
+      "dateInstalled": "2021-08-07T01:30:37.4963784Z",
+      "dateUpdated": "2021-08-07T01:30:37.4973795Z",
+      "dateLastUpdateAttempted": "2021-08-07T01:30:37.4973795Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 316582,
@@ -9549,6 +9744,145 @@
       "installedTargets": null
     },
     {
+      "addonID": 431725,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": {
+        "id": 3317331,
+        "displayName": "Advanced Peripherals 0.6r",
+        "fileName": "advancedperipherals-0.6r.jar",
+        "fileDate": "2021-05-20T23:58:05.683Z",
+        "fileLength": 393631,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3317/331/advancedperipherals-0.6r.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 268560,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 282001,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 225643,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 268566,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 223794,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 243076,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 231951,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 309927,
+            "type": 4,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 669630010,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "de",
+            "fingerprint": 3457202063,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": ".cache",
+            "fingerprint": 3618578399,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2210075559,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3105912304,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1438559181,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.png",
+            "fingerprint": 2562449174,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 695967131,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "advancedperipherals-0.6r.jar"
+      },
+      "dateInstalled": "2021-08-07T01:31:49.4867783Z",
+      "dateUpdated": "2021-08-07T01:31:49.4887857Z",
+      "dateLastUpdateAttempted": "2021-08-07T01:31:49.4887857Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 372534,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
@@ -9809,6 +10143,84 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 407174,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": {
+        "id": 3188120,
+        "displayName": "Shutup Experimental Settings! 1.0.3 MCV: 1.16.5",
+        "fileName": "shutupexperimentalsettings-1.0.3.jar",
+        "fileDate": "2021-01-31T20:52:15.273Z",
+        "fileLength": 4140,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3188/120/shutupexperimentalsettings-1.0.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 320847970,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "corgitaco",
+            "fingerprint": 1863411352,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 120273643,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "shutupexperimentalsettings.mixins.json",
+            "fingerprint": 2002995717,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "shutupexperimentalsettings.refmap.json",
+            "fingerprint": 576557739,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 577234596,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "shutupexperimentalsettings-1.0.3.jar"
+      },
+      "dateInstalled": "2021-08-07T01:31:00.9802904Z",
+      "dateUpdated": "2021-08-07T01:31:00.9822814Z",
+      "dateLastUpdateAttempted": "2021-08-07T01:31:00.9822814Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 436223,
@@ -17799,6 +18211,108 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 389697,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": {
+        "id": 3416699,
+        "displayName": "buildersaddition-1.16.5-20210807a",
+        "fileName": "buildersaddition-1.16.5-20210807a.jar",
+        "fileDate": "2021-08-06T22:45:33.317Z",
+        "fileLength": 1417228,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3416/699/buildersaddition-1.16.5-20210807a.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1146371187,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3916066466,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2711526557,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "buildersaddition.png",
+            "fingerprint": 2840956778,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1101476185,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "generated",
+            "fingerprint": 3109430537,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "genscripts",
+            "fingerprint": 1559798268,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 586881176,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2354460253,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 790219406,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "buildersaddition-1.16.5-20210807a.jar"
+      },
+      "dateInstalled": "2021-08-07T01:32:44.8586847Z",
+      "dateUpdated": "2021-08-07T01:32:44.8606869Z",
+      "dateLastUpdateAttempted": "2021-08-07T01:32:44.8606869Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 426558,
