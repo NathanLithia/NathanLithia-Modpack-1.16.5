@@ -14030,14 +14030,14 @@
       "addonID": 395078,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3403322,
-        "displayName": "Infernal Expansion Release 2.0",
-        "fileName": "infernal-expansion-2.0.0.jar",
-        "fileDate": "2021-07-27T19:08:21.057Z",
-        "fileLength": 14564439,
+        "id": 3414229,
+        "displayName": "Infernal Expansion Release 2.1.1",
+        "fileName": "infernal-expansion-2.1.1.jar",
+        "fileDate": "2021-08-05T16:33:08.903Z",
+        "fileLength": 14698724,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3403/322/infernal-expansion-2.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3414/229/infernal-expansion-2.1.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -14045,37 +14045,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1076505158,
+            "fingerprint": 3335178223,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "com",
-            "fingerprint": 3804501181,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1983840384,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 4194005162,
+            "foldername": "org",
+            "fingerprint": 3712888427,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "infernal-expansion.mixins.json",
-            "fingerprint": 153930036,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "Infernal_Expansion_Logo.png",
-            "fingerprint": 2151833806,
+            "fingerprint": 4274773683,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -14086,13 +14068,31 @@
             "invalidFingerprint": false
           },
           {
+            "foldername": "assets",
+            "fingerprint": 2521295295,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Infernal_Expansion_Logo.png",
+            "fingerprint": 2151833806,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 784761920,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "infernal-expansion.refmap.json",
-            "fingerprint": 1921985055,
+            "fingerprint": 1715485551,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1656912965,
+        "packageFingerprint": 1990944287,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -14106,12 +14106,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "infernal-expansion-2.0.0.jar"
+        "FileNameOnDisk": "infernal-expansion-2.1.1.jar"
       },
       "dateInstalled": "2021-06-29T16:04:17.979282Z",
-      "dateUpdated": "2021-08-03T15:30:01.868533Z",
-      "dateLastUpdateAttempted": "2021-08-03T15:30:01.868533Z",
-      "status": 3,
+      "dateUpdated": "2021-08-07T00:55:00.4841358Z",
+      "dateLastUpdateAttempted": "2021-08-07T00:55:00.4841358Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
