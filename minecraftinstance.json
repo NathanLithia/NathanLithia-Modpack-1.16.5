@@ -14476,14 +14476,14 @@
       "addonID": 363820,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3400572,
-        "displayName": "0.2.13",
-        "fileName": "TerraForged-1.16.5-0.2.13.jar",
-        "fileDate": "2021-07-25T14:58:03.15Z",
-        "fileLength": 1660232,
+        "id": 3414123,
+        "displayName": "0.2.14",
+        "fileName": "TerraForged-1.16.5-0.2.14.jar",
+        "fileDate": "2021-08-05T14:53:38.753Z",
+        "fileLength": 1654702,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3400/572/TerraForged-1.16.5-0.2.13.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3414/123/TerraForged-1.16.5-0.2.14.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -14491,7 +14491,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2426211368,
+            "fingerprint": 4212494002,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -14521,7 +14521,7 @@
           },
           {
             "foldername": "com",
-            "fingerprint": 2248743258,
+            "fingerprint": 3726459071,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -14562,7 +14562,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2558340777,
+        "packageFingerprint": 2931295574,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -14576,12 +14576,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "TerraForged-1.16.5-0.2.13.jar"
+        "FileNameOnDisk": "TerraForged-1.16.5-0.2.14.jar"
       },
       "dateInstalled": "2021-03-24T02:26:33.3004206Z",
-      "dateUpdated": "2021-08-03T15:32:12.8562643Z",
-      "dateLastUpdateAttempted": "2021-08-03T15:32:12.8562643Z",
-      "status": 3,
+      "dateUpdated": "2021-08-07T00:54:31.3781518Z",
+      "dateLastUpdateAttempted": "2021-08-07T00:54:31.3781518Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
