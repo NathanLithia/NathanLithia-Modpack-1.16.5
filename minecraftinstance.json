@@ -8439,14 +8439,14 @@
       "addonID": 486392,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3411101,
-        "displayName": "flywheel-1.16-0.2.1.jar",
-        "fileName": "flywheel-1.16-0.2.1.jar",
-        "fileDate": "2021-08-02T21:23:20.563Z",
-        "fileLength": 422281,
+        "id": 3413670,
+        "displayName": "flywheel-1.16-0.2.2.jar",
+        "fileName": "flywheel-1.16-0.2.2.jar",
+        "fileDate": "2021-08-05T05:45:46.807Z",
+        "fileLength": 422303,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3411/101/flywheel-1.16-0.2.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3413/670/flywheel-1.16-0.2.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -8454,13 +8454,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1379531956,
+            "fingerprint": 1067317994,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 2237565098,
+            "fingerprint": 234658136,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -8495,7 +8495,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 413699598,
+        "packageFingerprint": 4250174762,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -8509,12 +8509,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "flywheel-1.16-0.2.1.jar"
+        "FileNameOnDisk": "flywheel-1.16-0.2.2.jar"
       },
       "dateInstalled": "2021-07-13T01:43:45.9729407Z",
-      "dateUpdated": "2021-08-03T15:28:16.8868212Z",
-      "dateLastUpdateAttempted": "2021-08-03T15:28:16.8868212Z",
-      "status": 3,
+      "dateUpdated": "2021-08-07T00:55:09.7861554Z",
+      "dateLastUpdateAttempted": "2021-08-07T00:55:09.7861554Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
