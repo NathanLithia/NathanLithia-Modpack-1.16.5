@@ -10,6 +10,22 @@
     "redstone": true,
     "repeater": true
   },
+  "harvestability": {
+    "unharvestableonly": false,
+    "toolrequiredonly": true,
+    "harvestlevel.sneakingonly": false,
+    "currentlyharvestable.sneakingonly": false,
+    "shearability.sneakingonly": false,
+    "harvestlevelnum.sneakingonly": false,
+    "harvestlevel": false,
+    "minimal": false,
+    "effectivetool.sneakingonly": false,
+    "oresonly": false,
+    "currentlyharvestable": true,
+    "shearability": false,
+    "effectivetool": false,
+    "harvestlevelnum": false
+  },
   "wawla": {
     "blast_resistance": false,
     "growing_cooldown": true,

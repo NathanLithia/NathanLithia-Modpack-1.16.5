@@ -41,6 +41,18 @@
 		# This controls how often Spider Dungeons spawn. Higher value = more rare.
 		# Default: 44
 		"Spider Dungeon Average Separation Distance" = 44
+		# List of dimensions that will have Spider Dungeons.
+		# List must be comma-separated values enclosed in square brackets.
+		# Entries must have the mod namespace included.
+		# For example: "[minecraft:overworld, minecraft:the_nether, undergarden:undergarden]"
+		# Default: "[minecraft:overworld]"
+		"Spider Dungeon Whitelisted Dimensions" = "[minecraft:overworld]"
+		# List of biomes that will NOT have Spider Dungeons.
+		# List must be comma-separated values enclosed in square brackets.
+		# Entries must have the mod namespace included.
+		# For example: "[minecraft:plains, byg:alps]"
+		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river]"
+		"Spider Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river]"
 
 	###########################################################################################################
 	## Skeleton Dungeon settings.
@@ -61,6 +73,18 @@
 		# This controls how often Skeleton Dungeons spawn. Higher value = more rare.
 		# Default: 46
 		"Skeleton Dungeon Average Separation Distance" = 46
+		# List of dimensions that will have Skeleton Dungeons.
+		# List must be comma-separated values enclosed in square brackets.
+		# Entries must have the mod namespace included.
+		# For example: "[minecraft:overworld, minecraft:the_nether, undergarden:undergarden]"
+		# Default: "[minecraft:overworld]"
+		"Skeleton Dungeon Whitelisted Dimensions" = "[minecraft:overworld]"
+		# List of biomes that will NOT have Skeleton Dungeons.
+		# List must be comma-separated values enclosed in square brackets.
+		# Entries must have the mod namespace included.
+		# For example: "[minecraft:plains, byg:alps]"
+		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river]"
+		"Skeleton Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river]"
 
 	###########################################################################################################
 	## Zombie Dungeon settings.
@@ -85,6 +109,18 @@
 		# Making this too large may cause problems.
 		# Default: 20
 		"Zombie Dungeon Surface Entrance Staircase Max Length" = 20
+		# List of dimensions that will have Zombie Dungeons.
+		# List must be comma-separated values enclosed in square brackets.
+		# Entries must have the mod namespace included.
+		# For example: "[minecraft:overworld, minecraft:the_nether, undergarden:undergarden]"
+		# Default: "[minecraft:overworld]"
+		"Zombie Dungeon Whitelisted Dimensions" = "[minecraft:overworld]"
+		# List of biomes that will NOT have Zombie Dungeons.
+		# List must be comma-separated values enclosed in square brackets.
+		# Entries must have the mod namespace included.
+		# For example: "[minecraft:plains, byg:alps]"
+		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river]"
+		"Zombie Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river]"
 
 	###########################################################################################################
 	## Small Dungeon settings.
@@ -121,4 +157,16 @@
 		# In other words, spawn distribution = average distance +/- variation
 		# Default: 6
 		"Small Dungeon Separation Distance Variation" = 6
+		# List of dimensions that will have Small Dungeons.
+		# List must be comma-separated values enclosed in square brackets.
+		# Entries must have the mod namespace included.
+		# For example: "[minecraft:overworld, minecraft:the_nether, undergarden:undergarden]"
+		# Default: "[minecraft:overworld]"
+		"Small Dungeon Whitelisted Dimensions" = "[minecraft:overworld]"
+		# List of biomes that will NOT have Small Dungeons.
+		# List must be comma-separated values enclosed in square brackets.
+		# Entries must have the mod namespace included.
+		# For example: "[minecraft:plains, byg:alps]"
+		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river]"
+		"Small Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river]"
 

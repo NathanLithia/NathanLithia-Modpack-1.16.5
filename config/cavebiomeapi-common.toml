@@ -1,0 +1,6 @@
+
+[worldgen]
+
+	[worldgen.experimental]
+		"Generate Small Noise Caves" = false
+

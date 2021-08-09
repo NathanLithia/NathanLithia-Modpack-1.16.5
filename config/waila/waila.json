@@ -13,10 +13,10 @@
   },
   "overlay": {
     "overlayPosX": 0.5,
-    "overlayPosY": 0.99,
+    "overlayPosY": 0.96,
     "overlayScale": 1.0,
     "color": {
-      "alpha": 80,
+      "alpha": 45,
       "themes": [
         {
           "id": "waila:dark",
@@ -33,7 +33,7 @@
           "fontColor": 10526880
         }
       ],
-      "activeTheme": "waila:vanilla"
+      "activeTheme": "waila:dark"
     }
   },
   "formatting": {

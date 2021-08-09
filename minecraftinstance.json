@@ -10189,90 +10189,7 @@
     {
       "addonID": 325625,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3298105,
-        "displayName": "rer-2.1.4.jar",
-        "fileName": "rer-2.1.4.jar",
-        "fileDate": "2021-05-04T12:01:06.413Z",
-        "fileLength": 72818,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3298/105/rer-2.1.4.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 310111,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 18375977,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2812194781,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 2443607562,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "roughlyenoughresources.mixins.json",
-            "fingerprint": 2499357926,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "rer-refmap.json",
-            "fingerprint": 3629613715,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "uk",
-            "fingerprint": 559803964,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3776180635,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.1",
-          "1.16",
-          "1.16.5",
-          "1.16.4",
-          "1.16.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2006-12-11T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "rer-2.1.4.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-08-05T20:39:38.0108603Z",
       "dateUpdated": "2021-08-05T20:39:38.0138623Z",
       "dateLastUpdateAttempted": "2021-08-05T20:39:38.0138623Z",
@@ -21337,6 +21254,88 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 79287,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": {
+        "id": 3289488,
+        "displayName": "WailaHarvestability-mc1.16.x-forge-1.1.15.jar",
+        "fileName": "WailaHarvestability-mc1.16.x-forge-1.1.15.jar",
+        "fileDate": "2021-04-26T07:21:33.113Z",
+        "fileLength": 29421,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3289/488/WailaHarvestability-mc1.16.x-forge-1.1.15.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 253449,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2739815904,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "squeek",
+            "fingerprint": 1618731961,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1848672239,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3467225507,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2924443821,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "WailaHarvestability-mc1.16.x-forge-1.1.15.jar"
+      },
+      "dateInstalled": "2021-08-09T00:03:02.0288352Z",
+      "dateUpdated": "2021-08-09T00:03:02.0368421Z",
+      "dateLastUpdateAttempted": "2021-08-09T00:03:02.0368421Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 378646,
