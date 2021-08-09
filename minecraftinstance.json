@@ -3756,40 +3756,40 @@
       "addonID": 331936,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3390028,
-        "displayName": "citadel-1.7.2-1.16.5",
-        "fileName": "citadel-1.7.2-1.16.5.jar",
-        "fileDate": "2021-07-15T20:40:27.017Z",
-        "fileLength": 474014,
+        "id": 3414574,
+        "displayName": "citadel-1.7.3-1.16.5",
+        "fileName": "citadel-1.7.3-1.16.5.jar",
+        "fileDate": "2021-08-05T21:17:25.827Z",
+        "fileLength": 476751,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3390/28/citadel-1.7.2-1.16.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3414/574/citadel-1.7.3-1.16.5.jar",
         "isAlternate": false,
-        "alternateFileId": 3390029,
+        "alternateFileId": 3414576,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1411142544,
+            "fingerprint": 1148399799,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 1035646718,
+            "fingerprint": 3437051079,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 1942818956,
+            "fingerprint": 808405742,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "citadel.mixins.json",
-            "fingerprint": 3805323983,
+            "fingerprint": 1094208602,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3807,12 +3807,12 @@
           },
           {
             "foldername": "citadel.refmap.json",
-            "fingerprint": 853231933,
+            "fingerprint": 3921905408,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 279705279,
+        "packageFingerprint": 3619589134,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -3828,12 +3828,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "citadel-1.7.2-1.16.5.jar"
+        "FileNameOnDisk": "citadel-1.7.3-1.16.5.jar"
       },
       "dateInstalled": "2021-06-11T06:33:10.6663357Z",
-      "dateUpdated": "2021-07-17T12:35:07.2058568Z",
-      "dateLastUpdateAttempted": "2021-07-17T12:35:07.2058568Z",
-      "status": 3,
+      "dateUpdated": "2021-08-09T08:10:17.0577125Z",
+      "dateLastUpdateAttempted": "2021-08-09T08:10:17.0577125Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
