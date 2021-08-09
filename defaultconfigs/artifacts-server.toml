@@ -210,10 +210,13 @@
 		#Setting this to 0 will make this item unbreakable
 		#Range: 0 ~ 32767
 		durability = 0
-		#The rate at which the player's air supply drains each tick while swimming outside of water (players have an air supply of 300)
-		#Set to 0 to allow swimming indefinitely, or 1 for vanilla drain rate
+		#The maximum amount of time (in ticks) a player can fly using the helium flamingo
+		#Set to 0 to allow swimming indefinitely
 		#Range: > 0
-		air_supply_drain_rate = 2
+		max_flight_time = 150
+		#The amount of time (in ticks) it takes for the helium flamingo to recharge
+		#Range: > 0
+		recharge_time = 300
 
 	[items.kitty_slippers]
 		#Affects how many creepers the player can attack using the kitty slippers before breaking
@@ -379,9 +382,9 @@
 		#Setting this to 0 will make this item unbreakable
 		#Range: 0 ~ 32767
 		durability = 0
-		#The level of the hero of the village effect applied by the villager hat
-		#Range: 0 ~ 128
-		hero_of_the_village_level = 2
+		#Affects how much prices are reduced by the villager hat
+		#Range: > 0
+		reputation_bonus = 100
 
 	[items.whoopee_cushion]
 		#Affects how many farts can be farted using the whoopee cushion
