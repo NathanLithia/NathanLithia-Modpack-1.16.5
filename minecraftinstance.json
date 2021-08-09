@@ -20549,14 +20549,14 @@
       "addonID": 324985,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3055811,
-        "displayName": "metalbarrels-3.3a.jar",
-        "fileName": "metalbarrels-3.3a.jar",
-        "fileDate": "2020-09-12T23:13:24.567Z",
-        "fileLength": 142803,
+        "id": 3415449,
+        "displayName": "metalbarrels-1.16.2-3.3b.jar",
+        "fileName": "metalbarrels-1.16.2-3.3b.jar",
+        "fileDate": "2021-08-06T17:31:26.94Z",
+        "fileLength": 143648,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3055/811/metalbarrels-3.3a.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3415/449/metalbarrels-1.16.2-3.3b.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -20564,19 +20564,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 430968974,
+            "fingerprint": 3840164912,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 1832083057,
+            "fingerprint": 2349461093,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 359140316,
+            "fingerprint": 3516726137,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -20593,12 +20593,10 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 110599990,
+        "packageFingerprint": 1206764874,
         "gameVersion": [
-          "1.16.3",
           "1.16.5",
-          "1.16.4",
-          "1.16.2"
+          "Forge"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -20606,15 +20604,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2020-08-11T16:42:21.863Z",
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "metalbarrels-3.3a.jar"
+        "FileNameOnDisk": "metalbarrels-1.16.2-3.3b.jar"
       },
       "dateInstalled": "2021-04-09T01:02:58.0799988Z",
-      "dateUpdated": "2021-04-09T01:02:58.081011Z",
-      "dateLastUpdateAttempted": "2021-04-09T01:02:58.081011Z",
-      "status": 3,
+      "dateUpdated": "2021-08-09T08:05:07.0768378Z",
+      "dateLastUpdateAttempted": "2021-08-09T08:05:07.0768378Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
