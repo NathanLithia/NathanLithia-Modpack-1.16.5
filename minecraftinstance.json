@@ -6292,14 +6292,14 @@
       "addonID": 509285,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3416941,
-        "displayName": "createdeco-1.0.1-1.16.5.jar",
-        "fileName": "createdeco-1.0.1-1.16.5.jar",
-        "fileDate": "2021-08-07T06:18:36.067Z",
-        "fileLength": 2201301,
+        "id": 3419932,
+        "displayName": "createdeco-1.0.2-1.16.5.jar",
+        "fileName": "createdeco-1.0.2-1.16.5.jar",
+        "fileDate": "2021-08-09T07:29:42.39Z",
+        "fileLength": 2206013,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3416/941/createdeco-1.0.1-1.16.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3419/932/createdeco-1.0.2-1.16.5.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -6314,19 +6314,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1316802560,
+            "fingerprint": 957907226,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 3681220509,
+            "fingerprint": 3585446337,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": ".cache",
-            "fingerprint": 3076050614,
+            "fingerprint": 1883041670,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6344,7 +6344,7 @@
           },
           {
             "foldername": "data",
-            "fingerprint": 23636518,
+            "fingerprint": 3486101796,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6355,9 +6355,10 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1764513925,
+        "packageFingerprint": 1312645642,
         "gameVersion": [
-          "1.16.5"
+          "1.16.5",
+          "Forge"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -6368,12 +6369,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "createdeco-1.0.1-1.16.5.jar"
+        "FileNameOnDisk": "createdeco-1.0.2-1.16.5.jar"
       },
       "dateInstalled": "2021-08-08T05:35:49.9298488Z",
-      "dateUpdated": "2021-08-08T05:35:49.9328525Z",
-      "dateLastUpdateAttempted": "2021-08-08T05:35:49.9328525Z",
-      "status": 3,
+      "dateUpdated": "2021-08-09T17:54:49.6225095Z",
+      "dateLastUpdateAttempted": "2021-08-09T17:54:49.6225095Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
