@@ -45,9 +45,9 @@
   },
   "waila": {
     "show_registry": false,
-    "show_entity_hp": false,
+    "show_entity_hp": true,
     "show_states": false,
-    "show_entities": false
+    "show_entities": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
