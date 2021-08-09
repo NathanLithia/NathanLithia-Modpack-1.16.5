@@ -16389,14 +16389,14 @@
       "addonID": 289043,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3389386,
-        "displayName": "notreepunching-forge-1.16.5-4.2.2.jar",
-        "fileName": "notreepunching-forge-1.16.5-4.2.2.jar",
-        "fileDate": "2021-07-15T05:25:49.73Z",
-        "fileLength": 438811,
+        "id": 3418287,
+        "displayName": "notreepunching-forge-1.16.5-4.2.3.jar",
+        "fileName": "notreepunching-forge-1.16.5-4.2.3.jar",
+        "fileDate": "2021-08-07T16:05:04.237Z",
+        "fileLength": 439921,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3389/386/notreepunching-forge-1.16.5-4.2.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3418/287/notreepunching-forge-1.16.5-4.2.3.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -16404,7 +16404,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 310952628,
+            "fingerprint": 4029861160,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -16415,20 +16415,14 @@
             "invalidFingerprint": false
           },
           {
-            "foldername": "data",
-            "fingerprint": 3888527326,
+            "foldername": "pack.mcmeta",
+            "fingerprint": 621322406,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
             "fingerprint": 600470265,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 621322406,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -16445,13 +16439,19 @@
             "invalidFingerprint": false
           },
           {
+            "foldername": "data",
+            "fingerprint": 1451237185,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "notreepunching.refmap.json",
-            "fingerprint": 1001951274,
+            "fingerprint": 1209062480,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 305807839,
+        "packageFingerprint": 3654571106,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -16465,12 +16465,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "notreepunching-forge-1.16.5-4.2.2.jar"
+        "FileNameOnDisk": "notreepunching-forge-1.16.5-4.2.3.jar"
       },
       "dateInstalled": "2021-03-23T21:29:54.0653185Z",
-      "dateUpdated": "2021-07-17T12:32:13.0398749Z",
-      "dateLastUpdateAttempted": "2021-07-17T12:32:13.0398749Z",
-      "status": 3,
+      "dateUpdated": "2021-08-09T08:04:36.0958279Z",
+      "dateLastUpdateAttempted": "2021-08-09T08:04:36.0958279Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
