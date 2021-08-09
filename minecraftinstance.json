@@ -15352,14 +15352,14 @@
       "addonID": 328085,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3406857,
-        "displayName": "Create 1.16.5 v0.3.2c",
-        "fileName": "create-mc1.16.5_v0.3.2c.jar",
-        "fileDate": "2021-07-30T21:39:35.427Z",
-        "fileLength": 11311952,
+        "id": 3419412,
+        "displayName": " Create 1.16.5 v0.3.2d",
+        "fileName": "create-mc1.16.5_v0.3.2d.jar",
+        "fileDate": "2021-08-08T18:50:11.737Z",
+        "fileLength": 11337001,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3406/857/create-mc1.16.5_v0.3.2c.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3419/412/create-mc1.16.5_v0.3.2d.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -15380,13 +15380,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 852991243,
+            "fingerprint": 188467572,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 1717085111,
+            "fingerprint": 680092021,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -15410,7 +15410,7 @@
           },
           {
             "foldername": "data",
-            "fingerprint": 1732561703,
+            "fingerprint": 3604133244,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -15433,7 +15433,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1809305292,
+        "packageFingerprint": 262284899,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -15447,12 +15447,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "create-mc1.16.5_v0.3.2c.jar"
+        "FileNameOnDisk": "create-mc1.16.5_v0.3.2d.jar"
       },
       "dateInstalled": "2021-03-24T02:35:09.3008942Z",
-      "dateUpdated": "2021-08-03T15:25:13.0089384Z",
-      "dateLastUpdateAttempted": "2021-08-03T15:25:13.0089384Z",
-      "status": 3,
+      "dateUpdated": "2021-08-09T08:09:26.1476086Z",
+      "dateLastUpdateAttempted": "2021-08-09T08:09:26.1476086Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
