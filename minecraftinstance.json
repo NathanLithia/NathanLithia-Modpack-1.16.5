@@ -8164,24 +8164,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 223852,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": null,
-      "dateInstalled": "2021-03-23T21:18:09.1344749Z",
-      "dateUpdated": "2021-08-03T15:31:55.918695Z",
-      "dateLastUpdateAttempted": "2021-08-03T15:31:55.918695Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 428277,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
@@ -13459,14 +13441,14 @@
       "addonID": 510089,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3413766,
-        "displayName": "[1.16.4 / 1.16.5] YUNG's Better Dungeons v1.1",
-        "fileName": "BetterDungeons-1.16.4-1.1.jar",
-        "fileDate": "2021-08-05T08:32:48.7Z",
-        "fileLength": 504761,
+        "id": 3419642,
+        "displayName": "[1.16.4 / 1.16.5] YUNG's Better Dungeons v1.2",
+        "fileName": "BetterDungeons-1.16.4-1.2.jar",
+        "fileDate": "2021-08-08T22:29:18.75Z",
+        "fileLength": 509890,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3413/766/BetterDungeons-1.16.4-1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3419/642/BetterDungeons-1.16.4-1.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -13481,13 +13463,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3167883708,
+            "fingerprint": 2426660168,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 3741661551,
+            "fingerprint": 815250912,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -13505,7 +13487,7 @@
           },
           {
             "foldername": "data",
-            "fingerprint": 1855561211,
+            "fingerprint": 2869330445,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -13528,7 +13510,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3815111056,
+        "packageFingerprint": 17288178,
         "gameVersion": [
           "1.16",
           "1.16.5",
@@ -13544,12 +13526,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "BetterDungeons-1.16.4-1.1.jar"
+        "FileNameOnDisk": "BetterDungeons-1.16.4-1.2.jar"
       },
       "dateInstalled": "2021-08-03T15:46:13.1134624Z",
-      "dateUpdated": "2021-08-07T00:54:17.7017719Z",
-      "dateLastUpdateAttempted": "2021-08-07T00:54:17.7017719Z",
-      "status": 3,
+      "dateUpdated": "2021-08-09T07:59:56.5631936Z",
+      "dateLastUpdateAttempted": "2021-08-09T07:59:56.5631936Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
