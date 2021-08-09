@@ -1,0 +1,3 @@
+identifier = debug
+title = debug
+allowesc = true

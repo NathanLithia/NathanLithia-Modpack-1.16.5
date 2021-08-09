@@ -23,66 +23,22 @@ customization {
   buttonaction = openlink
   x = 1
   width = 98
-  actionid = 90b163a7-2257-4c36-9a96-c97fe1d594c91625958838314
+  actionid = b7a98384-3940-4101-95a7-45d0792964a71628486640452
   action = addbutton
   y = 4
   label = Website
-  value = https://NathanLithia.github.io
+  value = https://NathanLithia.github.io/pages/minecraft.html
   height = 20
 }
 
 customization {
   identifier = %id=400322%
-  orientation = mid-centered
-  x = 101
-  action = movebutton
-  y = 4
-}
-
-customization {
-  identifier = %id=400322%
-  width = 20
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=400322%
-  action = setbuttonlabel
-  value = M
-}
-
-customization {
-  identifier = %id=400322%
-  action = setbuttondescription
-  description = Multiplayer
+  action = hidebutton
 }
 
 customization {
   identifier = %id=400298%
-  orientation = mid-centered
-  x = 101
-  action = movebutton
-  y = 26
-}
-
-customization {
-  identifier = %id=400298%
-  width = 20
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=400298%
-  action = setbuttonlabel
-  value = S
-}
-
-customization {
-  identifier = %id=400298%
-  action = setbuttondescription
-  description = Singleplayer
+  action = hidebutton
 }
 
 customization {
@@ -96,9 +52,15 @@ customization {
 customization {
   identifier = %id=604382%
   orientation = mid-centered
-  x = -121
+  x = 101
   action = movebutton
   y = 4
+}
+
+customization {
+  identifier = %id=604382%
+  action = setbuttonlabel
+  value = Accessibility
 }
 
 customization {
@@ -110,11 +72,30 @@ customization {
 }
 
 customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
   identifier = %id=502382%
   orientation = mid-centered
-  x = 1
+  x = -77
   action = movebutton
-  y = 26
+  y = 48
+}
+
+customization {
+  identifier = %id=502382%
+  width = 154
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = Quit Game
 }
 
 customization {
@@ -122,19 +103,45 @@ customization {
   orientation = mid-centered
   x = -121
   action = movebutton
-  y = 26
+  y = 4
 }
 
 customization {
   orientation = mid-centered
   buttonaction = joinserver
   x = -121
-  width = 242
-  actionid = 8224006c-b0c4-4ea5-96f7-06ea669869511625958838321
+  width = 120
+  actionid = 0043e038-b431-4142-9d7c-f903d9c425be1628486640461
   action = addbutton
   y = -18
-  label = Connect
+  label = Dedicated Server
   value = thecloudserver.duckdns.org:25565
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = loadworld
+  x = 1
+  width = 120
+  actionid = 7c70eb35-5fa0-465d-8333-0979457983ae1628486640470
+  action = addbutton
+  y = -18
+  label = Singleplayer Server
+  value = Overworld
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = opencustomgui
+  x = 1
+  width = 98
+  actionid = 6c0a94af-2f88-4e9d-8638-b1440ff9d89c1628486640479
+  action = addbutton
+  y = 26
+  label = Debug
+  value = debug
   height = 20
 }
 

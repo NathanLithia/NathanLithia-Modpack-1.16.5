@@ -16,7 +16,7 @@ I:defaultguiscale = '-1';
 
 ##[customization]
 
-B:advancedmode = 'false';
+B:advancedmode = 'true';
 B:showcustomizationbuttons = 'false';
 
 
@@ -26,7 +26,7 @@ S:copyrightposition = 'bottom-right';
 B:hidebranding = 'false';
 S:copyrightcolor = '#ffffff';
 B:hidelogo = 'false';
-B:hiderealmsnotifications = 'true';
+B:hiderealmsnotifications = 'false';
 B:hideforgenotifications = 'false';
 
 
@@ -61,7 +61,7 @@ B:customwindowicon = 'true';
 
 ##[world_loading_screen]
 
-B:showloadingscreenanimation = 'false';
+B:showloadingscreenanimation = 'true';
 B:showloadingscreenpercent = 'true';
 
 
@@ -69,7 +69,7 @@ B:showloadingscreenpercent = 'true';
 
 B:editordeleteconfirmation = 'true';
 [If the warning when trying to move an vanilla button without an orientation should be displayed or not.]
-B:showvanillamovewarning = 'false';
+B:showvanillamovewarning = 'true';
 
 
 ##[ui]

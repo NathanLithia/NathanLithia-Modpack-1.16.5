@@ -1,0 +1,62 @@
+type = menu
+
+customization-meta {
+  identifier = debug
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  orientation = top-left
+  buttonaction = opengui
+  x = 3
+  width = 100
+  actionid = e7d25368-3bf2-401a-8412-d3128e75124b1628481831122
+  action = addbutton
+  y = 26
+  label = Multiplayer Menu
+  value = net.minecraft.client.gui.screen.MultiplayerScreen
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  buttonaction = opengui
+  x = 3
+  width = 100
+  actionid = f4823d32-1b0e-40f6-b7a6-00c8feec320f1628481831131
+  action = addbutton
+  y = 48
+  label = Singleplayer Menu
+  value = net.minecraft.client.gui.screen.WorldSelectionScreen
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  buttonaction = openlink
+  x = 3
+  width = 100
+  actionid = d023874c-75ff-4af2-99de-cc3a2907dfbd1628481831141
+  action = addbutton
+  y = 70
+  label = Update RP&SP
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  buttonaction = openlink
+  x = 3
+  width = 100
+  actionid = a1bb0085-3b5d-49a3-88d1-9cc0df5c475e1628481831151
+  action = addbutton
+  y = 92
+  label = Auto UPNP Forward
+  value = 
+  height = 20
+}
+
