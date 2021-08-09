@@ -18529,6 +18529,75 @@
       "installedTargets": null
     },
     {
+      "addonID": 334957,
+      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
+      "installedFile": {
+        "id": 3031367,
+        "displayName": "nolancheating-1.16.2/.3/.4/.5-v1.0.jar",
+        "fileName": "nolancheating-1.16.2-v1.0.jar",
+        "fileDate": "2020-08-13T17:25:15.217Z",
+        "fileLength": 2800,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3031/367/nolancheating-1.16.2-v1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2976299281,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "bl4ckscor3",
+            "fingerprint": 3653998620,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 239616976,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3996627055,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "nolancheating-1.16.2-v1.0.jar"
+      },
+      "dateInstalled": "2021-08-09T02:55:51.5782538Z",
+      "dateUpdated": "2021-08-09T02:55:51.5792551Z",
+      "dateLastUpdateAttempted": "2021-08-09T02:55:51.5792551Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 389697,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
