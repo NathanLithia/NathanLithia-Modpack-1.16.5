@@ -17019,14 +17019,14 @@
       "addonID": 501213,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3393815,
-        "displayName": "apaimon-r1.0-4.jar",
-        "fileName": "apaimon-r1.0-4.jar",
-        "fileDate": "2021-07-19T13:07:20.957Z",
-        "fileLength": 1324943,
+        "id": 3423051,
+        "displayName": "apaimon-r1.0-5.jar",
+        "fileName": "apaimon-r1.0-5.jar",
+        "fileDate": "2021-08-12T09:37:04.59Z",
+        "fileLength": 1325483,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3393/815/apaimon-r1.0-4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3423/51/apaimon-r1.0-5.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -17041,13 +17041,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3635387921,
+            "fingerprint": 292923682,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 1919958457,
+            "fingerprint": 179181344,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -17070,7 +17070,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1860580457,
+        "packageFingerprint": 230357182,
         "gameVersion": [
           "1.16.5"
         ],
@@ -17083,12 +17083,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "apaimon-r1.0-4.jar"
+        "FileNameOnDisk": "apaimon-r1.0-5.jar"
       },
       "dateInstalled": "2021-07-13T10:52:55.3406069Z",
-      "dateUpdated": "2021-07-22T07:27:46.295307Z",
-      "dateLastUpdateAttempted": "2021-07-22T07:27:46.295307Z",
-      "status": 3,
+      "dateUpdated": "2021-08-14T22:19:16.0180372Z",
+      "dateLastUpdateAttempted": "2021-08-14T22:19:16.0180372Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
