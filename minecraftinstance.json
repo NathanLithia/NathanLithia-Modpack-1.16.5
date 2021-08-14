@@ -739,14 +739,14 @@
       "addonID": 276837,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3249110,
-        "displayName": "FirstAid 1.9.6",
-        "fileName": "firstaid-1.9.6.jar",
-        "fileDate": "2021-03-23T19:17:13.397Z",
-        "fileLength": 432801,
+        "id": 3421111,
+        "displayName": " FirstAid 1.9.7",
+        "fileName": "firstaid-1.9.7.jar",
+        "fileDate": "2021-08-10T09:10:07.2Z",
+        "fileLength": 433759,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3249/110/firstaid-1.9.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3421/111/firstaid-1.9.7.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -767,19 +767,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 923735528,
+            "fingerprint": 3533579080,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "ichttt",
-            "fingerprint": 4042507272,
+            "fingerprint": 4056868032,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 1249885831,
+            "fingerprint": 1092043695,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -802,7 +802,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1045168648,
+        "packageFingerprint": 1639910600,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -816,12 +816,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "firstaid-1.9.6.jar"
+        "FileNameOnDisk": "firstaid-1.9.7.jar"
       },
       "dateInstalled": "2021-03-25T00:08:25.8060508Z",
-      "dateUpdated": "2021-03-25T00:08:25.8140504Z",
-      "dateLastUpdateAttempted": "2021-03-25T00:08:25.8140504Z",
-      "status": 3,
+      "dateUpdated": "2021-08-14T22:18:25.9274676Z",
+      "dateLastUpdateAttempted": "2021-08-14T22:18:25.9274676Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
