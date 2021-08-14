@@ -16193,14 +16193,14 @@
       "addonID": 506757,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3412156,
-        "displayName": "lootbeams-1.16.5-release-aug0321.jar",
-        "fileName": "lootbeams-1.16.5-release-aug0321.jar",
-        "fileDate": "2021-08-03T22:10:37Z",
-        "fileLength": 60448,
+        "id": 3422487,
+        "displayName": "lootbeams-1.16.5-release-aug1121.jar",
+        "fileName": "lootbeams-1.16.5-release-aug1121.jar",
+        "fileDate": "2021-08-11T18:23:18.993Z",
+        "fileLength": 61187,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3412/156/lootbeams-1.16.5-release-aug0321.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3422/487/lootbeams-1.16.5-release-aug1121.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -16208,13 +16208,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3138145927,
+            "fingerprint": 4234713647,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 120361359,
+            "fingerprint": 590320285,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -16237,7 +16237,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1081671295,
+        "packageFingerprint": 2014187353,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -16251,12 +16251,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "lootbeams-1.16.5-release-aug0321.jar"
+        "FileNameOnDisk": "lootbeams-1.16.5-release-aug1121.jar"
       },
       "dateInstalled": "2021-08-08T05:33:41.6114004Z",
-      "dateUpdated": "2021-08-08T05:33:41.6134026Z",
-      "dateLastUpdateAttempted": "2021-08-08T05:33:41.6134026Z",
-      "status": 3,
+      "dateUpdated": "2021-08-14T22:17:45.7231906Z",
+      "dateLastUpdateAttempted": "2021-08-14T22:17:45.7231906Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
