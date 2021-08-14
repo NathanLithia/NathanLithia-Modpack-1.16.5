@@ -4271,14 +4271,14 @@
       "addonID": 368293,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3419684,
-        "displayName": "Repurposed Structures v3.1.0 (1.16.5 MC)",
-        "fileName": "repurposed_structures_forge-3.1.0+1.16.5.jar",
-        "fileDate": "2021-08-08T23:34:45.783Z",
-        "fileLength": 5233401,
+        "id": 3424171,
+        "displayName": "Repurposed Structures v3.1.3 (1.16.5 MC)",
+        "fileName": "repurposed_structures_forge-3.1.3+1.16.5.jar",
+        "fileDate": "2021-08-13T10:58:50.443Z",
+        "fileLength": 5238297,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3419/684/repurposed_structures_forge-3.1.0+1.16.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3424/171/repurposed_structures_forge-3.1.3+1.16.5.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -4286,13 +4286,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3759750777,
+            "fingerprint": 92949781,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 3902682454,
+            "fingerprint": 2374451076,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4304,7 +4304,7 @@
           },
           {
             "foldername": "data",
-            "fingerprint": 3668205115,
+            "fingerprint": 1638775014,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4322,18 +4322,18 @@
           },
           {
             "foldername": "repurposed_structures.mixins.json",
-            "fingerprint": 848827852,
+            "fingerprint": 548822891,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "repurposed_structures.refmap.json",
-            "fingerprint": 1165758961,
+            "fingerprint": 1018135010,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2913290778,
+        "packageFingerprint": 1254186199,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -4347,12 +4347,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "repurposed_structures_forge-3.1.0+1.16.5.jar"
+        "FileNameOnDisk": "repurposed_structures_forge-3.1.3+1.16.5.jar"
       },
       "dateInstalled": "2021-06-29T15:58:18.4653085Z",
-      "dateUpdated": "2021-08-09T08:00:16.2651108Z",
-      "dateLastUpdateAttempted": "2021-08-09T08:00:16.2651108Z",
-      "status": 3,
+      "dateUpdated": "2021-08-14T22:16:39.5681646Z",
+      "dateLastUpdateAttempted": "2021-08-14T22:16:39.5681646Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
