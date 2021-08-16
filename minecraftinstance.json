@@ -5762,120 +5762,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 493113,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3358624,
-        "displayName": "refinedcurios-1.16x-1.153.jar",
-        "fileName": "refinedcurios-1.16x-1.153.jar",
-        "fileDate": "2021-06-20T15:24:08.52Z",
-        "fileLength": 21484,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3358/624/refinedcurios-1.16x-1.153.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 309927,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 272302,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 243076,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1824744224,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 1246041264,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 3729369742,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 2238575402,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3380797652,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "refinedcurios.mixins.json",
-            "fingerprint": 385376391,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "refinedcurios.refmap.json",
-            "fingerprint": 1493072104,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 652280671,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.1",
-          "1.16",
-          "1.16.5",
-          "Forge",
-          "1.16.4",
-          "1.16.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "refinedcurios-1.16x-1.153.jar"
-      },
-      "dateInstalled": "2021-08-11T10:53:02.6956717Z",
-      "dateUpdated": "2021-08-11T10:53:02.6966824Z",
-      "dateLastUpdateAttempted": "2021-08-11T10:53:02.6966824Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 423490,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
@@ -8596,10 +8482,10 @@
         "isServerPack": false,
         "FileNameOnDisk": "refinedstorage-1.9.15.jar"
       },
-      "dateInstalled": "2021-08-11T10:52:46.2807545Z",
-      "dateUpdated": "2021-08-11T10:52:46.2847584Z",
-      "dateLastUpdateAttempted": "2021-08-11T10:52:46.2847584Z",
-      "status": 5,
+      "dateInstalled": "2021-08-16T06:39:43.136822Z",
+      "dateUpdated": "2021-08-16T06:39:43.1408261Z",
+      "dateLastUpdateAttempted": "2021-08-16T06:39:43.1408261Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8608,7 +8494,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 235279,
@@ -10797,90 +10683,6 @@
       "dateInstalled": "2021-07-15T02:39:52.828998Z",
       "dateUpdated": "2021-07-15T02:39:52.834003Z",
       "dateLastUpdateAttempted": "2021-07-15T02:39:52.834003Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 74924,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3389377,
-        "displayName": "Mantle 1.6.115 for 1.16.5",
-        "fileName": "Mantle-1.16.5-1.6.115.jar",
-        "fileDate": "2021-07-15T05:15:42.127Z",
-        "fileLength": 714054,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3389/377/Mantle-1.16.5-1.6.115.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 367076561,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "slimeknights",
-            "fingerprint": 1077992428,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1510015062,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3720854501,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "Mantle.png",
-            "fingerprint": 3296224890,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1734166776,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 885138105,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Mantle-1.16.5-1.6.115.jar"
-      },
-      "dateInstalled": "2021-04-01T01:00:02.7395559Z",
-      "dateUpdated": "2021-07-17T12:32:40.8011072Z",
-      "dateLastUpdateAttempted": "2021-07-17T12:32:40.8011072Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -13605,103 +13407,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 245453,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3396509,
-        "displayName": "envirotech-1.16.5-3.0.9.3.jar",
-        "fileName": "envirotech-1.16.5-3.0.9.3.jar",
-        "fileDate": "2021-07-21T22:27:46.607Z",
-        "fileLength": 231946,
-        "releaseType": 3,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3396/509/envirotech-1.16.5-3.0.9.3.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 345795,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 245480,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3790501889,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2941934026,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3528237823,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 2219163634,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "envirotech.png",
-            "fingerprint": 459476002,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1553164897,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3939826390,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "envirotech-1.16.5-3.0.9.3.jar"
-      },
-      "dateInstalled": "2021-03-23T21:20:13.9346215Z",
-      "dateUpdated": "2021-07-22T07:26:44.5390459Z",
-      "dateLastUpdateAttempted": "2021-07-22T07:26:44.5390459Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 342929,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
@@ -14295,90 +14000,6 @@
       "dateInstalled": "2021-06-17T07:59:22.2834373Z",
       "dateUpdated": "2021-08-03T15:32:31.890793Z",
       "dateLastUpdateAttempted": "2021-08-03T15:32:31.890793Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 245480,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3396151,
-        "displayName": "valkyrielib-1.16.5-3.0.9.2.jar",
-        "fileName": "valkyrielib-1.16.5-3.0.9.2.jar",
-        "fileDate": "2021-07-21T16:16:38.127Z",
-        "fileLength": 1299743,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3396/151/valkyrielib-1.16.5-3.0.9.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 510122814,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 4035143876,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3721159694,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 2139009068,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 258807692,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "valkyrielib.png",
-            "fingerprint": 449649825,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1666450261,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "valkyrielib-1.16.5-3.0.9.2.jar"
-      },
-      "dateInstalled": "2021-03-23T21:20:11.417974Z",
-      "dateUpdated": "2021-07-22T07:25:39.06379Z",
-      "dateLastUpdateAttempted": "2021-07-22T07:25:39.06379Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -15937,108 +15558,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 223794,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3354897,
-        "displayName": "appliedenergistics2-8.4.0.jar",
-        "fileName": "appliedenergistics2-8.4.0.jar",
-        "fileDate": "2021-06-17T08:27:19.81Z",
-        "fileLength": 4818007,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3354/897/appliedenergistics2-8.4.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2703024181,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "appeng",
-            "fingerprint": 1736662107,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "appliedenergistics2.mixins.json",
-            "fingerprint": 694843594,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "appliedenergistics2.mixins.refmap.json",
-            "fingerprint": 2219297063,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 4723785,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1777049725,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 666721860,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2376809842,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "team",
-            "fingerprint": 4161835364,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3038217317,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "appliedenergistics2-8.4.0.jar"
-      },
-      "dateInstalled": "2021-06-01T00:48:20.3596395Z",
-      "dateUpdated": "2021-06-17T08:32:06.2396117Z",
-      "dateLastUpdateAttempted": "2021-06-17T08:32:06.2396117Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 506194,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
@@ -16682,97 +16201,6 @@
       "dateInstalled": "2021-04-08T03:39:22.5524114Z",
       "dateUpdated": "2021-07-04T22:16:27.0090467Z",
       "dateLastUpdateAttempted": "2021-07-04T22:16:27.0090467Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 345795,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3380278,
-        "displayName": "envirocore-1.16.5-3.0.9.1.jar",
-        "fileName": "envirocore-1.16.5-3.0.9.1.jar",
-        "fileDate": "2021-07-07T16:50:33.327Z",
-        "fileLength": 1203553,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3380/278/envirocore-1.16.5-3.0.9.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 245480,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3643974003,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 1602507943,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2999720146,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 2940181742,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "envirocore.png",
-            "fingerprint": 2608966983,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 214268631,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 140971011,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "envirocore-1.16.5-3.0.9.1.jar"
-      },
-      "dateInstalled": "2021-03-23T21:20:12.7767468Z",
-      "dateUpdated": "2021-07-10T07:32:09.8068276Z",
-      "dateLastUpdateAttempted": "2021-07-10T07:32:09.8068276Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -18239,10 +17667,10 @@
         "isServerPack": false,
         "FileNameOnDisk": "refinedstorageaddons-0.7.3.jar"
       },
-      "dateInstalled": "2021-08-11T10:53:14.4527276Z",
-      "dateUpdated": "2021-08-11T10:53:14.4537198Z",
-      "dateLastUpdateAttempted": "2021-08-11T10:53:14.4537198Z",
-      "status": 5,
+      "dateInstalled": "2021-08-16T06:40:41.2310796Z",
+      "dateUpdated": "2021-08-16T06:40:41.2330818Z",
+      "dateLastUpdateAttempted": "2021-08-16T06:40:41.2330818Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -18251,7 +17679,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 392060,
@@ -21123,193 +20551,6 @@
       "dateInstalled": "2021-03-23T21:21:25.870157Z",
       "dateUpdated": "2021-03-23T21:21:25.8711578Z",
       "dateLastUpdateAttempted": "2021-03-23T21:21:25.8711578Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 282947,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3404904,
-        "displayName": "baubely-heart-canisters-1.16.5-1.1.10.jar",
-        "fileName": "baubely-heart-canisters-1.16.5-1.1.10.jar",
-        "fileDate": "2021-07-29T05:03:35.88Z",
-        "fileLength": 63721,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3404/904/baubely-heart-canisters-1.16.5-1.1.10.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 309927,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 74924,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 74072,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3583889493,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2813517219,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 48067324,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1985635135,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3380797652,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2718622942,
-        "gameVersion": [
-          "1.16.5"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "baubely-heart-canisters-1.16.5-1.1.10.jar"
-      },
-      "dateInstalled": "2021-04-01T01:00:03.0491305Z",
-      "dateUpdated": "2021-08-03T15:23:38.6938117Z",
-      "dateLastUpdateAttempted": "2021-08-03T15:23:38.6938117Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 74072,
-      "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3412365,
-        "displayName": "Tinker's Construct 3.1.1.252 for 1.16.5",
-        "fileName": "TConstruct-1.16.5-3.1.1.252.jar",
-        "fileDate": "2021-08-04T01:29:26.437Z",
-        "fileLength": 8903474,
-        "releaseType": 3,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3412/365/TConstruct-1.16.5-3.1.1.252.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 74924,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1817175080,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "slimeknights",
-            "fingerprint": 1076202856,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1714028067,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3635995092,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 3056415901,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 74116223,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3271888402,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "TConstruct-1.16.5-3.1.1.252.jar"
-      },
-      "dateInstalled": "2021-04-02T12:33:10.1568907Z",
-      "dateUpdated": "2021-08-05T19:26:07.259755Z",
-      "dateLastUpdateAttempted": "2021-08-05T19:26:07.259755Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
