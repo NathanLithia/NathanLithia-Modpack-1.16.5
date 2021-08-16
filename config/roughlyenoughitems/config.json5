@@ -2,7 +2,7 @@
 	"basics": {
 		"favorites": [],
 		// Declares whether cheating mode is on.
-		"cheating": true,
+		"cheating": false,
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
@@ -124,7 +124,7 @@
 			// Declares the position of the config button.
 			"configButtonLocation": "LOWER",
 			// Declares whether the craftable filter button is enabled.
-			"enableCraftableOnlyButton": true
+			"enableCraftableOnlyButton": false
 		},
 		// Declares the appearance of recipe's border.
 		"recipeBorder": "DEFAULT",
@@ -136,7 +136,7 @@
 	},
 	"functionality": {
 		// Declares whether REI should remove the recipe book.
-		"disableRecipeBook": false,
+		"disableRecipeBook": true,
 		// Declares whether subsets is enabled.
 		"isSubsetsEnabled": false,
 		"allowInventoryHighlighting": true
