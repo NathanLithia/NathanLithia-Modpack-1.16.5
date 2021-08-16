@@ -13754,62 +13754,7 @@
     {
       "addonID": 347529,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3422727,
-        "displayName": "guiclock_1.16.5-2.6.jar",
-        "fileName": "guiclock_1.16.5-2.6.jar",
-        "fileDate": "2021-08-11T22:22:21.85Z",
-        "fileLength": 10991,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3422/727/guiclock_1.16.5-2.6.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 342584,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1613781299,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 172948674,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2314193626,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 4026820978,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "guiclock_1.16.5-2.6.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-08-03T15:39:13.001505Z",
       "dateUpdated": "2021-08-14T22:18:15.4154104Z",
       "dateLastUpdateAttempted": "2021-08-14T22:18:15.4154104Z",
