@@ -25,7 +25,7 @@
 	#Enable the Environment Detector or not.
 	enableEnvironmentDetector = true
 	#Enable the Chunky Turtle or not.
-	enableChunkyTurtle = true
+	enableChunkyTurtle = false
 	#Enable the debug mode. You should only enable it, if a developer say it or something does not work.
 	enableDebugMode = false
 	#Enable the Energy Detector or not.
@@ -45,7 +45,7 @@
 	#Enable the nbt storage block or not
 	enableNBTStorage = true
 	#Enable RF storage for peripherals, that could use it
-	enablePoweredPeripherals = false
+	enablePoweredPeripherals = true
 
 #No comment
 [Defaults]
