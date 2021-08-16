@@ -24,7 +24,7 @@
 	#Change the frequency of rain/snow/storms based on the season
 	change_weather_frequency = true
 	#Generate snow and ice during the Winter season
-	generate_snow_ice = true
+	generate_snow_ice = false
 
 [aesthetic_settings]
 	#Change the foliage colour based on the current season
