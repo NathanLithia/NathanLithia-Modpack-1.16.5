@@ -8,7 +8,7 @@
 	#Allowed Values: NORMAL, HIGHLIGHT_CRITICAL_PATH, HIDE
 	vanillaHealthBarMode = "NORMAL"
 	#The design to use to visualize the health
-	#Allowed Values: OFF, NUMBERS, HEARTS, PLAYER_MODEL, PLAYER_MODEL_4_COLORS
+	#Allowed Values: OFF, NUMBERS, HEARTS, PLAYER_MODEL, PLAYER_MODEL_4_COLORS, PLAYER_MODEL_OLD_COLORS, PLAYER_MODEL_OLD_4_COLORS
 	overlayMode = "PLAYER_MODEL"
 	#The relative point of the overlay
 	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_RIGHT, BOTTOM_LEFT

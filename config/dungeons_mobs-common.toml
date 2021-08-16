@@ -9,6 +9,14 @@
 	#If this list is empty, zombies will be summoned instead.
 	#If a mob chosen from this list cannot be spawned, a zombie will be summoned instead.
 	necromancerMobSummons = ["minecraft:zombie", "minecraft:skeleton", "dungeons_mobs:armored_zombie", "dungeons_mobs:armored_skeleton", "dungeons_mobs:wraith"]
+	#Enable the default ability of Icy Creeper Explosions to grief the environment. 
+	#If you prefer their explosions to not damage the environment, disable this feature. [true / false]
+	enablyIcyCreeperGriefing = true
+	#Add mobs (preferably undead and aquatic) that the Drowned Necromancer can summon. 
+	#To do so, enter the namespace ID of the mob, like "minecraft:drowned".
+	#If this list is empty, drowned will be summoned instead.
+	#If a mob chosen from this list cannot be spawned, a drowned will be summoned instead.
+	drownedNecromancerMobSummons = ["minecraft:drowned", "dungeons_mobs:armored_drowned"]
 
 #Spawn Configuration
 [spawn_configuration]
@@ -247,10 +255,10 @@
 	#Spawn weight of Fungus Throwers in the biomes they can spawn in. [default:5]
 	#Range: 0 ~ 1024
 	fungusThrowerSpawnWeight = 5
-	#Minimum spawn group size of Fungus Throwers in the biomes they can spawn in. [default:1]
+	#Minimum spawn group size of Fungus Throwers in the biomes they can spawn in. [default:3]
 	#Range: 0 ~ 128
 	fungusThrowerMinGroupSize = 3
-	#Maximum spawn group size of Fungus Throwers in the biomes they can spawn in. [default:1]
+	#Maximum spawn group size of Fungus Throwers in the biomes they can spawn in. [default:4]
 	#Range: 0 ~ 128
 	fungusThrowerMaxGroupSize = 4
 	#Add biome types that the Zombified Fungus Thrower can spawn in. 
@@ -260,10 +268,10 @@
 	#Spawn weight of Zombified Fungus Throwers in the biomes they can spawn in. [default:5]
 	#Range: 0 ~ 1024
 	zombifiedFungusThrowerSpawnWeight = 5
-	#Minimum spawn group size of Zombified Fungus Throwers in the biomes they can spawn in. [default:1]
+	#Minimum spawn group size of Zombified Fungus Throwers in the biomes they can spawn in. [default:3]
 	#Range: 0 ~ 128
 	zombifiedFungusThrowerMinGroupSize = 3
-	#Maximum spawn group size of Zombified Fungus Throwers in the biomes they can spawn in. [default:1]
+	#Maximum spawn group size of Zombified Fungus Throwers in the biomes they can spawn in. [default:4]
 	#Range: 0 ~ 128
 	zombifiedFungusThrowerMaxGroupSize = 4
 	#Add biome types that the Wither Skeleton can spawn in. 
@@ -276,9 +284,80 @@
 	#Minimum spawn group size of Wither Skeletons in the biomes they can spawn in. [default:1]
 	#Range: 0 ~ 128
 	witherSkeletonMinGroupSize = 1
-	#Maximum spawn group size of Wither Skeletons in the biomes they can spawn in. [default:1]
+	#Maximum spawn group size of Wither Skeletons in the biomes they can spawn in. [default:4]
 	#Range: 0 ~ 128
 	witherSkeletonMaxGroupSize = 4
+	#Enable Armored Drowned replacing 10% of Drowned spawns in the biomes they can spawn in. 
+	#If you prefer to not have them do this, disable this feature. [true / false]
+	enabledArmoredDrownedReplacesDrowned = true
+	#Enable Armored Sunken Skeletons replacing 10% of Sunken Skeleton spawns in the biomes they can spawn in. 
+	#If you prefer to not have them do this, disable this feature. [true / false]
+	enableArmoredSunkenSkeletonReplacesSunkenSkeleton = true
+	#Add biome types that the Sunken Skeleton can spawn in. 
+	#Put a "!" before the type to prevent spawning in that biome type. 
+	#Leave this blank if you don't want them to spawn at all.
+	sunkenSkeletonBiomeTypes = ["WATER", "!MUSHROOM", "!NETHER", "!END"]
+	#Spawn weight of Sunken Skeletons in the biomes they can spawn in. [default:5]
+	#Range: 0 ~ 1024
+	sunkenSkeletonSpawnWeight = 5
+	#Minimum spawn group size of Sunken Skeletons in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	sunkenSkeletonMinGroupSize = 1
+	#Maximum spawn group size of Sunken Skeletons in the biomes they can spawn in. [default:4]
+	#Range: 0 ~ 128
+	sunkenSkeletonMaxGroupSize = 1
+	#Add biome types that the Drowned Necromancer can spawn in. 
+	#Put a "!" before the type to prevent spawning in that biome type. 
+	#Leave this blank if you don't want them to spawn at all.
+	drownedNecromancerBiomeTypes = ["OCEAN", "!MUSHROOM", "!NETHER", "!END"]
+	#Spawn weight of Drowned Necromancers in the biomes they can spawn in. [default:5]
+	#Range: 0 ~ 1024
+	drownedNecromancerSpawnWeight = 5
+	#Minimum spawn group size of Drowned Necromancers in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	drownedNecromancerMinGroupSize = 1
+	#Maximum spawn group size of Drowned Necromancers in the biomes they can spawn in. [default:4]
+	#Range: 0 ~ 128
+	drownedNecromancerMaxGroupSize = 1
+	#Add biome types that the Wavehisperer can spawn in. 
+	#Put a "!" before the type to prevent spawning in that biome type. 
+	#Leave this blank if you don't want them to spawn at all.
+	wavewhispererBiomeTypes = ["OCEAN", "!MUSHROOM", "!NETHER", "!END"]
+	#Spawn weight of Wavehisperers in the biomes they can spawn in. [default:5]
+	#Range: 0 ~ 1024
+	wavewhispererSpawnWeight = 5
+	#Minimum spawn group size of Wavehisperers in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	wavewhispererMinGroupSize = 1
+	#Maximum spawn group size of Wavehisperers in the biomes they can spawn in. [default:4]
+	#Range: 0 ~ 128
+	wavewhispererMaxGroupSize = 1
+	#Add biome types that the Quick-Growing Anemone can spawn in. 
+	#Put a "!" before the type to prevent spawning in that biome type. 
+	#Leave this blank if you don't want them to spawn at all.
+	quickGrowingAnemoneBiomeTypes = ["OCEAN", "!MUSHROOM", "!NETHER", "!END"]
+	#Spawn weight of Quick-Growing Anemone in the biomes they can spawn in. [default:5]
+	#Range: 0 ~ 1024
+	quickGrowingAnemoneSpawnWeight = 5
+	#Minimum spawn group size of Quick-Growing Anemone in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	quickGrowingAnemoneMinGroupSize = 1
+	#Maximum spawn group size of Quick-Growing Anemone in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	quickGrowingAnemoneMaxGroupSize = 1
+	#Add biome types that the Poison Anemone can spawn in. 
+	#Put a "!" before the type to prevent spawning in that biome type. 
+	#Leave this blank if you don't want them to spawn at all.
+	poisonAnemoneBiomeTypes = ["OCEAN", "!MUSHROOM", "!NETHER", "!END"]
+	#Spawn weight of Poison Anemone in the biomes they can spawn in. [default:5]
+	#Range: 0 ~ 1024
+	poisonAnemoneSpawnWeight = 5
+	#Minimum spawn group size of Poison Anemone in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	poisonAnemoneMinGroupSize = 1
+	#Maximum spawn group size of Poison Anemone in the biomes they can spawn in. [default:1]
+	#Range: 0 ~ 128
+	poisonAnemoneMaxGroupSize = 1
 
 #Raid Configuration
 [raid_configuration]

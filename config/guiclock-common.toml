@@ -34,4 +34,7 @@
 	#The blue RGB value for the clock text.
 	#Range: 0 ~ 255
 	RGB_B = 255
+	#The horizontal offset (x coord) for the Clock.
+	#Range: -3000 ~ 3000
+	clockWidthOffset = 0
 
