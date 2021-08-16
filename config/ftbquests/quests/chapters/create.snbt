@@ -1,0 +1,20 @@
+{
+	id: "1891A87057F70595"
+	group: "7976D99BCBFA7CEB"
+	order_index: 0
+	filename: "create"
+	title: "Basic Machinery"
+	icon: "create:flywheel"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: -0.5d
+		y: -0.5d
+		id: "36648FCBAC768B09"
+		tasks: [{
+			id: "07341732AA086001"
+			type: "item"
+			item: "create:water_wheel"
+		}]
+	}]
+}
