@@ -1,4 +1,4 @@
-#Sat Jul 17 16:33:02 ACST 2021
+#Mon Aug 16 16:39:22 ACST 2021
 handDepthMul=0.125
 TexMinFilB=0
 oldLighting=default
