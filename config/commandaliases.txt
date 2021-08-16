@@ -15,3 +15,5 @@ pl | list
 enderchest | cofh enderchest
 repair | cofh repair
 burn | cofh ignite
+celsius | temperature units celsius
+fahrenheit | temperature units fahrenheit
