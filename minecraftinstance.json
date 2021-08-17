@@ -723,7 +723,7 @@
       "dateInstalled": "2021-08-08T05:35:24.2903681Z",
       "dateUpdated": "2021-08-16T08:58:25.2881623Z",
       "dateLastUpdateAttempted": "2021-08-16T08:58:25.2881623Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2831,7 +2831,7 @@
       "dateInstalled": "2021-05-20T18:42:25.3199731Z",
       "dateUpdated": "2021-08-16T08:58:41.9246Z",
       "dateLastUpdateAttempted": "2021-08-16T08:58:41.9246Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4078,7 +4078,7 @@
       "dateInstalled": "2021-06-29T15:58:18.4653085Z",
       "dateUpdated": "2021-08-14T22:16:39.5681646Z",
       "dateLastUpdateAttempted": "2021-08-14T22:16:39.5681646Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8013,7 +8013,7 @@
       "dateInstalled": "2021-06-12T07:56:27.0952352Z",
       "dateUpdated": "2021-08-16T08:59:11.7042007Z",
       "dateLastUpdateAttempted": "2021-08-16T08:59:11.7042007Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8194,7 +8194,7 @@
       "dateInstalled": "2021-08-16T06:39:43.136822Z",
       "dateUpdated": "2021-08-16T06:39:43.1408261Z",
       "dateLastUpdateAttempted": "2021-08-16T06:39:43.1408261Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9119,7 +9119,7 @@
       "dateInstalled": "2021-04-02T12:40:40.9370281Z",
       "dateUpdated": "2021-08-16T08:58:56.9645981Z",
       "dateLastUpdateAttempted": "2021-08-16T08:58:56.9645981Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12965,14 +12965,14 @@
       "addonID": 342929,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3245234,
-        "displayName": "Compressium-1.16.5-1.2.2.jar",
-        "fileName": "Compressium-1.16.5-1.2.2.jar",
-        "fileDate": "2021-03-19T23:31:56.76Z",
-        "fileLength": 448081,
+        "id": 3428525,
+        "displayName": "Compressium-1.16.5-1.2.3.jar",
+        "fileName": "Compressium-1.16.5-1.2.3.jar",
+        "fileDate": "2021-08-16T20:45:56.297Z",
+        "fileLength": 460391,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3245/234/Compressium-1.16.5-1.2.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3428/525/Compressium-1.16.5-1.2.3.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -12980,19 +12980,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1831113967,
+            "fingerprint": 1323297049,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "me",
-            "fingerprint": 329921653,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2058328530,
+            "fingerprint": 4198217555,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -13003,13 +12997,25 @@
             "invalidFingerprint": false
           },
           {
+            "foldername": "Compressium_Logo.png",
+            "fingerprint": 1576525925,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "data",
             "fingerprint": 3573718429,
             "type": 0,
             "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2058328530,
+            "type": 0,
+            "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2939937372,
+        "packageFingerprint": 2737031138,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -13023,12 +13029,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Compressium-1.16.5-1.2.2.jar"
+        "FileNameOnDisk": "Compressium-1.16.5-1.2.3.jar"
       },
       "dateInstalled": "2021-04-02T12:52:46.3024596Z",
-      "dateUpdated": "2021-04-02T12:52:46.3044621Z",
-      "dateLastUpdateAttempted": "2021-04-02T12:52:46.3044621Z",
-      "status": 5,
+      "dateUpdated": "2021-08-17T15:10:53.5904852Z",
+      "dateLastUpdateAttempted": "2021-08-17T15:10:53.5904852Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -17225,7 +17231,7 @@
       "dateInstalled": "2021-08-16T06:40:41.2310796Z",
       "dateUpdated": "2021-08-16T06:40:41.2330818Z",
       "dateLastUpdateAttempted": "2021-08-16T06:40:41.2330818Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -17591,7 +17597,7 @@
       "dateInstalled": "2021-08-16T07:33:48.6362399Z",
       "dateUpdated": "2021-08-16T07:33:48.6362399Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
