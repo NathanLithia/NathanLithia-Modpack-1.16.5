@@ -7937,14 +7937,14 @@
       "addonID": 416294,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3426334,
-        "displayName": "rhino-1605.1.2-build.46.jar",
-        "fileName": "rhino-1605.1.2-build.46.jar",
-        "fileDate": "2021-08-15T17:01:53.423Z",
-        "fileLength": 959506,
+        "id": 3427389,
+        "displayName": "rhino-1605.1.2-build.48.jar",
+        "fileName": "rhino-1605.1.2-build.48.jar",
+        "fileDate": "2021-08-16T16:04:44.973Z",
+        "fileLength": 965407,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3426/334/rhino-1605.1.2-build.46.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3427/389/rhino-1605.1.2-build.48.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -7958,7 +7958,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 4217885484,
+            "fingerprint": 1847763719,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -7976,19 +7976,20 @@
           },
           {
             "foldername": "dev",
-            "fingerprint": 1759887111,
+            "fingerprint": 4132210954,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 3329841655,
+            "fingerprint": 807297529,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2300034072,
+        "packageFingerprint": 66815271,
         "gameVersion": [
+          "1.17.1",
           "1.16.3",
           "1.16.1",
           "1.14.4",
@@ -7996,6 +7997,7 @@
           "1.16.5",
           "Forge",
           "1.15.2",
+          "1.17-Snapshot",
           "1.16.4",
           "1.16.2"
         ],
@@ -8005,15 +8007,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionDateReleased": "2019-07-19T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "rhino-1605.1.2-build.46.jar"
+        "FileNameOnDisk": "rhino-1605.1.2-build.48.jar"
       },
       "dateInstalled": "2021-06-12T07:56:27.0952352Z",
-      "dateUpdated": "2021-08-16T08:59:11.7042007Z",
-      "dateLastUpdateAttempted": "2021-08-16T08:59:11.7042007Z",
-      "status": 3,
+      "dateUpdated": "2021-08-17T15:11:45.7661068Z",
+      "dateLastUpdateAttempted": "2021-08-17T15:11:45.7661068Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
