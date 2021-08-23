@@ -88,39 +88,15 @@
 				icon: "minecraft:grass_block"
 				dimension: "minecraft:overworld"
 			}]
-			rewards: [
-				{
-					id: "024E9680C6351582"
-					type: "item"
-					team_reward: false
-					auto: "enabled"
-					item: "akashictome:tome"
-					only_one: true
-				}
-				{
-					id: "68DB2B1190B375AB"
-					type: "command"
-					icon: "minecraft:command_block"
-					team_reward: false
-					auto: "enabled"
-					command: "/say @p has joined for the first time!"
-					player_command: false
-				}
-				{
-					id: "15AC0D81B79EF1E9"
-					type: "item"
-					team_reward: false
-					auto: "enabled"
-					item: {
-						id: "notreepunching:macuahuitl"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-					only_one: true
-				}
-			]
+			rewards: [{
+				id: "68DB2B1190B375AB"
+				type: "command"
+				icon: "minecraft:command_block"
+				team_reward: false
+				auto: "enabled"
+				command: "/say @p has joined for the first time!"
+				player_command: false
+			}]
 		}
 		{
 			title: "Fishing Mastery"

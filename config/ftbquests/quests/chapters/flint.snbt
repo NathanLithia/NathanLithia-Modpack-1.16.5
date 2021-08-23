@@ -3,7 +3,7 @@
 	group: "7E9DB49B33181B47"
 	order_index: 0
 	filename: "flint"
-	title: "Flint Tools"
+	title: "Basic Tools"
 	icon: {
 		id: "notreepunching:flint_axe"
 		Count: 1b
@@ -199,6 +199,43 @@
 					}
 				}
 			]
+		}
+		{
+			x: -8.5d
+			y: -3.0d
+			optional: true
+			id: "75EF450B7CE3210F"
+			tasks: [{
+				id: "288477D345198DF5"
+				type: "item"
+				item: "notreepunching:stone_loose_rock"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -1.5d
+			dependencies: [
+				"75EF450B7CE3210F"
+				"253D830F65B4F94F"
+			]
+			id: "528393DFDD2EB7D6"
+			tasks: [{
+				id: "2CB6FF85918DF232"
+				type: "item"
+				item: "minecraft:cobblestone"
+				count: 8L
+			}]
+		}
+		{
+			x: -8.5d
+			y: 0.0d
+			dependencies: ["528393DFDD2EB7D6"]
+			id: "55D88AFB67BCA3D4"
+			tasks: [{
+				id: "798068CDA11CE104"
+				type: "item"
+				item: "minecraft:furnace"
+			}]
 		}
 	]
 }

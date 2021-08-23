@@ -1,7 +1,7 @@
 {
 	id: "2C9F9D7B458E3CCA"
-	group: "4EAC66EFAA1BE78B"
-	order_index: 3
+	group: ""
+	order_index: 4
 	filename: "insane"
 	title: "Insane"
 	icon: {
@@ -12,5 +12,6 @@
 		}
 	}
 	default_quest_shape: ""
+	default_hide_dependency_lines: false
 	quests: [ ]
 }

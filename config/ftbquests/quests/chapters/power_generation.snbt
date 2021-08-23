@@ -121,8 +121,8 @@
 		}
 		{
 			title: "Medium Voltage"
-			x: 5.0d
-			y: -1.0d
+			x: 3.5d
+			y: -3.5d
 			dependencies: ["080F23339E9BB841"]
 			id: "3DB5B2FB7F1FC736"
 			tasks: [
@@ -145,8 +145,8 @@
 		}
 		{
 			title: "High Voltage"
-			x: 5.0d
-			y: 0.5d
+			x: 3.5d
+			y: -2.0d
 			dependencies: ["0D0692BD733D0014"]
 			id: "501C1801DB5D30E1"
 			tasks: [
@@ -169,8 +169,8 @@
 		}
 		{
 			title: "MV Transformer"
-			x: 3.5d
-			y: -1.0d
+			x: 2.0d
+			y: -3.5d
 			id: "080F23339E9BB841"
 			tasks: [{
 				id: "03719E38720544C9"
@@ -179,8 +179,8 @@
 			}]
 		}
 		{
-			x: 3.5d
-			y: 0.0d
+			x: 2.0d
+			y: -2.0d
 			id: "0D0692BD733D0014"
 			tasks: [{
 				id: "6F3F0B549CAD91C2"
@@ -189,8 +189,8 @@
 			}]
 		}
 		{
-			x: 6.5d
-			y: -1.0d
+			x: 5.0d
+			y: -3.5d
 			id: "5E8EBE78B8735D45"
 			tasks: [{
 				id: "17CE453C33F48037"
@@ -199,8 +199,8 @@
 			}]
 		}
 		{
-			x: 6.5d
-			y: 0.5d
+			x: 5.0d
+			y: -2.0d
 			id: "10E7297EBBBE063D"
 			tasks: [{
 				id: "6922F28768220BB0"
