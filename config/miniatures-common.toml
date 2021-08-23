@@ -25,4 +25,13 @@
 	pickup_goal = false
 	#whether or not only the owner entity of the miniature will attempt to pick up a player, or whether it will pick up any player
 	owner_rider = false
+	#the percentage chance per tick that a miniature will get distracted from breaking a block (0 for no distraction)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	distraction_chance = 0.05
+	#the minimum delay in ticks before a miniature begins running to a block (200)
+	#Range: > 0
+	base_run_delay = 200
+	#the maximum value (0 to value-1) added to the run delay (200)
+	#Range: > 0
+	random_run_delay = 200
 

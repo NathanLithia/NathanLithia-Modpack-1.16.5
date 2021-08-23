@@ -65,4 +65,6 @@
 		dmcloot_compat_rarity = true
 		#Define what the smaller tag should render on. Example: "Exotic", "Ancient". The string supplied has to be the tooltip line below the name. This is really only used for modpacks.
 		custom_rarities = []
+		#If rarities should ignore color and render as white (This is really only used for modpacks)
+		white_rarities = false
 
