@@ -4,6 +4,7 @@ admin | ftbchunks admin bypass_protection
 gma | gamemode adventure
 gmc | gamemode creative
 gms | gamemode survival
+gm | gamemode
 exp | experience
 deaths | deathhistory @s
 setspawn | setworldspawn
