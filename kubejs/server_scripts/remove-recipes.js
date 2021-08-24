@@ -8,7 +8,7 @@ events.listen('recipes', function (event) {
   
     //Planned to be obtainable via quests.
     event.remove({id: 'naturescompass:naturescompass'})
-  
+    event.remove({id: 'structurescompass:structures_compass'})
     //Valhesia overwriting planks recipe (notreepunching).
     event.remove({id: 'valhelsia_structures:oak_post'})
     event.remove({id: 'valhelsia_structures:spruce_post'})
