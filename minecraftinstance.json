@@ -17663,26 +17663,26 @@
       "addonID": 392060,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3431189,
-        "displayName": "[Forge 1.16.5] v6.0.269-alpha",
-        "fileName": "RoughlyEnoughItems-6.0.269-alpha-forge.jar",
-        "fileDate": "2021-08-19T09:01:12.357Z",
-        "fileLength": 1383605,
+        "id": 3443206,
+        "displayName": "[Forge 1.16.5] v6.0.282-alpha",
+        "fileName": "RoughlyEnoughItems-6.0.282-alpha-forge.jar",
+        "fileDate": "2021-08-29T21:06:47.657Z",
+        "fileLength": 1435006,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3431/189/RoughlyEnoughItems-6.0.269-alpha-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3443/206/RoughlyEnoughItems-6.0.282-alpha-forge.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 419699,
+            "addonId": 348521,
             "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 348521,
+            "addonId": 419699,
             "type": 3,
             "fileId": 0
           }
@@ -17691,13 +17691,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3101669755,
+            "fingerprint": 325957145,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 315416046,
+            "fingerprint": 986469958,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -17721,36 +17721,36 @@
           },
           {
             "foldername": "me",
-            "fingerprint": 197900617,
+            "fingerprint": 2236433731,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mezz",
-            "fingerprint": 1975338516,
+            "fingerprint": 3006614395,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_RoughlyEnoughItems_runtime_6c1fbf95d6fd4e178b902c010eb441f9",
-            "fingerprint": 2492222140,
+            "foldername": "architectury_inject_RoughlyEnoughItems_api_7f15ef22d9a84c55b1990234c5152c2f",
+            "fingerprint": 3089332278,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_RoughlyEnoughItems_defaultplugin_2064917c1ce84e2caaf2c8236ea96ee2",
-            "fingerprint": 2238295221,
+            "foldername": "architectury_inject_RoughlyEnoughItems_defaultplugin_4e5d35de36c54ef48173d54a58d00c38",
+            "fingerprint": 714147418,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_RoughlyEnoughItems_api_138c72ecded04ee3a6177a2e71d767f2",
-            "fingerprint": 699683887,
+            "foldername": "architectury_inject_RoughlyEnoughItems_runtime_e8948d0229214f27b27d0dce18973add",
+            "fingerprint": 464060141,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2145504967,
+        "packageFingerprint": 3661729321,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -17765,12 +17765,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "RoughlyEnoughItems-6.0.269-alpha-forge.jar"
+        "FileNameOnDisk": "RoughlyEnoughItems-6.0.282-alpha-forge.jar"
       },
       "dateInstalled": "2021-08-05T20:39:29.9390273Z",
-      "dateUpdated": "2021-08-20T02:24:38.3570565Z",
-      "dateLastUpdateAttempted": "2021-08-20T02:24:38.3570565Z",
-      "status": 3,
+      "dateUpdated": "2021-08-30T09:14:03.9537375Z",
+      "dateLastUpdateAttempted": "2021-08-30T09:14:03.9537375Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
