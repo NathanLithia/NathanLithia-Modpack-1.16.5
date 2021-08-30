@@ -8806,14 +8806,14 @@
       "addonID": 417430,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3413536,
-        "displayName": "CavesAndCliffsBackport-1.16.5-6.2.jar",
-        "fileName": "CavesAndCliffsBackport-1.16.5-6.2.jar",
-        "fileDate": "2021-08-05T01:59:36.143Z",
-        "fileLength": 12797631,
+        "id": 3441420,
+        "displayName": "CavesAndCliffsBackport-1.16.5-6.3.jar",
+        "fileName": "CavesAndCliffsBackport-1.16.5-6.3.jar",
+        "fileDate": "2021-08-28T02:00:23.933Z",
+        "fileLength": 12798561,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3413/536/CavesAndCliffsBackport-1.16.5-6.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3441/420/CavesAndCliffsBackport-1.16.5-6.3.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -8828,13 +8828,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2318095222,
+            "fingerprint": 1679268288,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 2992524933,
+            "fingerprint": 461025467,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -8864,7 +8864,7 @@
           },
           {
             "foldername": "data",
-            "fingerprint": 889132478,
+            "fingerprint": 4067176266,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -8887,7 +8887,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3787077677,
+        "packageFingerprint": 1142857181,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -8901,12 +8901,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "CavesAndCliffsBackport-1.16.5-6.2.jar"
+        "FileNameOnDisk": "CavesAndCliffsBackport-1.16.5-6.3.jar"
       },
       "dateInstalled": "2021-08-07T01:53:10.253023Z",
-      "dateUpdated": "2021-08-07T01:53:10.3150879Z",
-      "dateLastUpdateAttempted": "2021-08-07T01:53:10.3150879Z",
-      "status": 3,
+      "dateUpdated": "2021-08-30T09:14:42.7853684Z",
+      "dateLastUpdateAttempted": "2021-08-30T09:14:42.7853684Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
