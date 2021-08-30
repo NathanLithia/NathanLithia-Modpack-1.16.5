@@ -12440,14 +12440,14 @@
       "addonID": 361276,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3424675,
-        "displayName": "lootr-1.16.5-0.0.7.21.jar",
-        "fileName": "lootr-1.16.5-0.0.7.21.jar",
-        "fileDate": "2021-08-13T22:28:55.423Z",
-        "fileLength": 196091,
+        "id": 3443390,
+        "displayName": "lootr-1.16.5-0.0.8.23.jar",
+        "fileName": "lootr-1.16.5-0.0.8.23.jar",
+        "fileDate": "2021-08-30T01:04:57.617Z",
+        "fileLength": 196166,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3424/675/lootr-1.16.5-0.0.7.21.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3443/390/lootr-1.16.5-0.0.8.23.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -12455,13 +12455,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2534845017,
+            "fingerprint": 736246485,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "noobanidus",
-            "fingerprint": 1284010283,
+            "fingerprint": 2935664419,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12496,7 +12496,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3975800785,
+        "packageFingerprint": 1544651913,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -12511,12 +12511,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "lootr-1.16.5-0.0.7.21.jar"
+        "FileNameOnDisk": "lootr-1.16.5-0.0.8.23.jar"
       },
       "dateInstalled": "2021-07-07T00:01:29.9788457Z",
-      "dateUpdated": "2021-08-14T22:17:37.4662926Z",
-      "dateLastUpdateAttempted": "2021-08-14T22:17:37.4662926Z",
-      "status": 3,
+      "dateUpdated": "2021-08-30T09:13:49.8686196Z",
+      "dateLastUpdateAttempted": "2021-08-30T09:13:49.8686196Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
