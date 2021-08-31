@@ -5225,76 +5225,7 @@
     {
       "addonID": 406201,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
-      "installedFile": {
-        "id": 3440093,
-        "displayName": "Blame v3.6.1 (1.16.5 MC)",
-        "fileName": "blame-1.16.5-3.6.1-forge.jar",
-        "fileDate": "2021-08-26T19:59:58.173Z",
-        "fileLength": 96063,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3440/93/blame-1.16.5-3.6.1-forge.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2328843251,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2588006525,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "blame.mixins.json",
-            "fingerprint": 746795757,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "blame_icon.png",
-            "fingerprint": 668597936,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2608932187,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "blame.refmap.json",
-            "fingerprint": 499153673,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3208953517,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.5",
-          "Forge",
-          "1.16.4",
-          "1.16.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "blame-1.16.5-3.6.1-forge.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-06-16T18:57:08.6339638Z",
       "dateUpdated": "2021-08-29T06:01:30.5145873Z",
       "dateLastUpdateAttempted": "2021-08-29T06:01:30.5145873Z",
