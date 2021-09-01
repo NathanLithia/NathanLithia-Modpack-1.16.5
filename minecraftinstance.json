@@ -7410,14 +7410,14 @@
       "addonID": 445521,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3432297,
-        "displayName": "miniatures-1.16.5-0.0.2.13.jar",
-        "fileName": "miniatures-1.16.5-0.0.2.13.jar",
-        "fileDate": "2021-08-20T11:08:20.227Z",
-        "fileLength": 230877,
+        "id": 3445559,
+        "displayName": "miniatures-1.16.5-0.0.2.14.jar",
+        "fileName": "miniatures-1.16.5-0.0.2.14.jar",
+        "fileDate": "2021-09-01T03:14:01.643Z",
+        "fileLength": 230886,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3432/297/miniatures-1.16.5-0.0.2.13.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3445/559/miniatures-1.16.5-0.0.2.14.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -7425,13 +7425,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 395070112,
+            "fingerprint": 3159289312,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "noobanidus",
-            "fingerprint": 257034966,
+            "fingerprint": 17911860,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -7460,7 +7460,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1388302427,
+        "packageFingerprint": 1744829833,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -7475,12 +7475,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "miniatures-1.16.5-0.0.2.13.jar"
+        "FileNameOnDisk": "miniatures-1.16.5-0.0.2.14.jar"
       },
       "dateInstalled": "2021-07-13T10:59:51.9471528Z",
-      "dateUpdated": "2021-08-21T03:21:24.1197526Z",
-      "dateLastUpdateAttempted": "2021-08-21T03:21:24.1197526Z",
-      "status": 3,
+      "dateUpdated": "2021-09-01T09:19:54.3028026Z",
+      "dateLastUpdateAttempted": "2021-09-01T09:19:54.3028026Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
