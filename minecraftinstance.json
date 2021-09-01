@@ -17813,26 +17813,20 @@
       "addonID": 240950,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3424921,
-        "displayName": "RFToolsDimensions - 1.16-7.0.12-beta",
-        "fileName": "rftoolsdim-1.16-7.0.12-beta.jar",
-        "fileDate": "2021-08-14T05:26:28.823Z",
-        "fileLength": 1621321,
+        "id": 3445554,
+        "displayName": "RFToolsDimensions - 1.16-7.0.13-beta",
+        "fileName": "rftoolsdim-1.16-7.0.13-beta.jar",
+        "fileDate": "2021-09-01T03:07:01.957Z",
+        "fileLength": 1624841,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3424/921/rftoolsdim-1.16-7.0.12-beta.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3445/554/rftoolsdim-1.16-7.0.13-beta.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
             "addonId": 233105,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 326041,
             "type": 3,
             "fileId": 0
           },
@@ -17847,19 +17841,25 @@
             "addonId": 245211,
             "type": 2,
             "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 326041,
+            "type": 3,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 829440482,
+            "fingerprint": 2015259859,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcjty",
-            "fingerprint": 4086805501,
+            "fingerprint": 1613048697,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -17882,7 +17882,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 616596143,
+        "packageFingerprint": 2515444878,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -17896,12 +17896,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "rftoolsdim-1.16-7.0.12-beta.jar"
+        "FileNameOnDisk": "rftoolsdim-1.16-7.0.13-beta.jar"
       },
       "dateInstalled": "2021-06-07T11:34:53.6897021Z",
-      "dateUpdated": "2021-08-14T22:16:16.4440115Z",
-      "dateLastUpdateAttempted": "2021-08-14T22:16:16.4440115Z",
-      "status": 3,
+      "dateUpdated": "2021-09-01T09:19:34.1056316Z",
+      "dateLastUpdateAttempted": "2021-09-01T09:19:34.1056316Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
