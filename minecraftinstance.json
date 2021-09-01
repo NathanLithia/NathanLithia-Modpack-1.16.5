@@ -14668,26 +14668,20 @@
       "addonID": 231484,
       "gameInstanceID": "186b5a24-f68c-48a9-ae8f-b9c6820b7815",
       "installedFile": {
-        "id": 3368022,
-        "displayName": "CookingForBlockheads_1.16.5-9.3.3.jar",
-        "fileName": "CookingForBlockheads_1.16.5-9.3.3.jar",
-        "fileDate": "2021-06-28T18:56:47.45Z",
-        "fileLength": 682828,
+        "id": 3445172,
+        "displayName": "CookingForBlockheads_1.16.5-9.3.4.jar",
+        "fileName": "CookingForBlockheads_1.16.5-9.3.4.jar",
+        "fileDate": "2021-08-31T19:25:34.413Z",
+        "fileLength": 683179,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3368/22/CookingForBlockheads_1.16.5-9.3.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3445/172/CookingForBlockheads_1.16.5-9.3.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 242247,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 221857,
+            "addonId": 222348,
             "type": 2,
             "fileId": 0
           },
@@ -14699,7 +14693,13 @@
           },
           {
             "id": 0,
-            "addonId": 222348,
+            "addonId": 242247,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 221857,
             "type": 2,
             "fileId": 0
           }
@@ -14708,13 +14708,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2675768510,
+            "fingerprint": 703957060,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 621133474,
+            "fingerprint": 760257851,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -14726,7 +14726,7 @@
           },
           {
             "foldername": "data",
-            "fingerprint": 3975566307,
+            "fingerprint": 1907251185,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -14737,7 +14737,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 639532863,
+        "packageFingerprint": 2798864228,
         "gameVersion": [
           "1.16.5"
         ],
@@ -14750,12 +14750,12 @@
         "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "CookingForBlockheads_1.16.5-9.3.3.jar"
+        "FileNameOnDisk": "CookingForBlockheads_1.16.5-9.3.4.jar"
       },
       "dateInstalled": "2021-03-23T21:18:19.7966402Z",
-      "dateUpdated": "2021-06-29T01:09:19.1423196Z",
-      "dateLastUpdateAttempted": "2021-06-29T01:09:19.1423196Z",
-      "status": 3,
+      "dateUpdated": "2021-09-01T09:20:13.1873912Z",
+      "dateLastUpdateAttempted": "2021-09-01T09:20:13.1873912Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
