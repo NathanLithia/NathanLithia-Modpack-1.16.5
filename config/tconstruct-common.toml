@@ -64,23 +64,23 @@
 			generate = false
 			#How many chunks on average between islands
 			#Range: 10 ~ 500
-			separation = 32
+			separation = 500
 
 		#Settings for sky slime islands in the overworld sky
 		[worldgen.slime_islands.sky]
 			#If true, this island generates
-			generate = false
+			generate = true
 			#How many chunks on average between islands
 			#Range: 10 ~ 500
-			separation = 32
+			separation = 256
 
 		#Settings for clay islands in the overworld sky
 		[worldgen.slime_islands.clay]
 			#If true, this island generates
-			generate = false
+			generate = true
 			#How many chunks on average between islands
 			#Range: 10 ~ 500
-			separation = 100
+			separation = 256
 
 		#Settings for blood islands in the nether lava ocean
 		[worldgen.slime_islands.blood]
@@ -88,7 +88,7 @@
 			generate = true
 			#How many chunks on average between islands
 			#Range: 10 ~ 500
-			separation = 32
+			separation = 128
 
 		#Settings for end slime islands in the outer end islands
 		[worldgen.slime_islands.end]
@@ -96,7 +96,7 @@
 			generate = true
 			#How many chunks on average between islands
 			#Range: 10 ~ 500
-			separation = 32
+			separation = 128
 
 #Features to use in debugging gameplay and mechanics, generally should not be enabled in packs
 [debug]
