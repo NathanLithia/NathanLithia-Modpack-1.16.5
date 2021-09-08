@@ -2038,29 +2038,17 @@
       "addonID": 289412,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3435241,
-        "displayName": "ftb-quests-forge-1605.3.4-build.52.jar",
-        "fileName": "ftb-quests-forge-1605.3.4-build.52.jar",
-        "fileDate": "2021-08-23T08:52:30.033Z",
-        "fileLength": 936279,
+        "id": 3453303,
+        "displayName": "ftb-quests-forge-1605.3.4-build.58.jar",
+        "fileName": "ftb-quests-forge-1605.3.4-build.58.jar",
+        "fileDate": "2021-09-07T17:53:32.067Z",
+        "fileLength": 939224,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3435/241/ftb-quests-forge-1605.3.4-build.52.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3453/303/ftb-quests-forge-1605.3.4-build.58.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
-          {
-            "id": 0,
-            "addonId": 238086,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 404465,
-            "type": 3,
-            "fileId": 0
-          },
           {
             "id": 0,
             "addonId": 419699,
@@ -2081,6 +2069,18 @@
           },
           {
             "id": 0,
+            "addonId": 238086,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 404465,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
             "addonId": 309674,
             "type": 3,
             "fileId": 0
@@ -2089,20 +2089,20 @@
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "data",
-            "fingerprint": 1908987372,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
             "foldername": "assets",
-            "fingerprint": 1862763813,
+            "fingerprint": 1345485831,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "kubejs.classfilter.txt",
             "fingerprint": 3371782786,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1908987372,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -2114,24 +2114,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 3836647472,
+            "fingerprint": 1486804787,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 729947010,
+            "fingerprint": 3627835018,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_FTBQuests1165_common_f76a014c4b514b4bb7cb4d79e2f2fac4",
-            "fingerprint": 1108109022,
+            "foldername": "architectury_inject_FTBQuests1165_common_d743d7314f3d47189e1f6d1693d2447a",
+            "fingerprint": 2769101402,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 462215598,
+        "packageFingerprint": 612332226,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -2145,12 +2145,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-quests-forge-1605.3.4-build.52.jar"
+        "FileNameOnDisk": "ftb-quests-forge-1605.3.4-build.58.jar"
       },
       "dateInstalled": "2021-06-19T09:27:13.3012464Z",
-      "dateUpdated": "2021-08-26T04:29:15.4402287Z",
-      "dateLastUpdateAttempted": "2021-08-26T04:29:15.4402287Z",
-      "status": 3,
+      "dateUpdated": "2021-09-08T12:14:10.7443838Z",
+      "dateLastUpdateAttempted": "2021-09-08T12:14:10.7443838Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
