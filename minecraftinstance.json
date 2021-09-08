@@ -12881,34 +12881,46 @@
       "addonID": 271050,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3399830,
-        "displayName": "DoggyTalents-1.16.5-2.0.1.10.jar",
-        "fileName": "DoggyTalents-1.16.5-2.0.1.10.jar",
-        "fileDate": "2021-07-24T21:46:08.997Z",
-        "fileLength": 1135414,
+        "id": 3446841,
+        "displayName": "DoggyTalents-1.16.5-2.1.0.0.jar",
+        "fileName": "DoggyTalents-1.16.5-2.1.0.0.jar",
+        "fileDate": "2021-09-02T06:51:40.973Z",
+        "fileLength": 1142921,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3399/830/DoggyTalents-1.16.5-2.0.1.10.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3446/841/DoggyTalents-1.16.5-2.1.0.0.jar",
         "isAlternate": false,
-        "alternateFileId": 3399831,
+        "alternateFileId": 3446842,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2268810386,
+            "fingerprint": 3087817093,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "doggytalents",
-            "fingerprint": 1520984287,
+            "fingerprint": 3844418964,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": ".cache",
+            "fingerprint": 2736407388,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 1762612597,
+            "fingerprint": 4255220941,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 540134211,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12923,21 +12935,9 @@
             "fingerprint": 1949750094,
             "type": 0,
             "invalidFingerprint": false
-          },
-          {
-            "foldername": ".cache",
-            "fingerprint": 2736407388,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 540134211,
-            "type": 0,
-            "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1776741033,
+        "packageFingerprint": 1249042540,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -12953,12 +12953,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "DoggyTalents-1.16.5-2.0.1.10.jar"
+        "FileNameOnDisk": "DoggyTalents-1.16.5-2.1.0.0.jar"
       },
       "dateInstalled": "2021-07-15T02:24:31.1882628Z",
-      "dateUpdated": "2021-07-25T13:16:38.5307508Z",
-      "dateLastUpdateAttempted": "2021-07-25T13:16:38.5307508Z",
-      "status": 3,
+      "dateUpdated": "2021-09-08T12:14:51.0057831Z",
+      "dateLastUpdateAttempted": "2021-09-08T12:14:51.0057831Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
