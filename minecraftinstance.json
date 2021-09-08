@@ -9641,33 +9641,21 @@
       "addonID": 431725,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3435311,
-        "displayName": "Advanced Peripherals 0.7.1r",
-        "fileName": "advancedperipherals-1.16.5-0.7.1r.jar",
-        "fileDate": "2021-08-23T10:42:06.47Z",
-        "fileLength": 597779,
+        "id": 3451857,
+        "displayName": "Advanced Peripherals 1.16.5 0.7.2r",
+        "fileName": "advancedperipherals-1.16.5-0.7.2r.jar",
+        "fileDate": "2021-09-06T05:21:25.133Z",
+        "fileLength": 638804,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3435/311/advancedperipherals-1.16.5-0.7.1r.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3451/857/advancedperipherals-1.16.5-0.7.2r.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 268560,
+            "addonId": 306770,
             "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 245506,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 309927,
-            "type": 4,
             "fileId": 0
           },
           {
@@ -9675,67 +9663,25 @@
             "addonId": 282001,
             "type": 3,
             "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 243076,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 236307,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 225643,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 223852,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 268566,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 231951,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 223794,
-            "type": 2,
-            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2908986433,
+            "fingerprint": 2191278770,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "de",
-            "fingerprint": 1179998213,
+            "fingerprint": 2866957555,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": ".cache",
-            "fingerprint": 1027452124,
+            "fingerprint": 25144669,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -9747,7 +9693,7 @@
           },
           {
             "foldername": "data",
-            "fingerprint": 335088438,
+            "fingerprint": 1329933406,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -9764,7 +9710,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4087634131,
+        "packageFingerprint": 1515981420,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -9778,12 +9724,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "advancedperipherals-1.16.5-0.7.1r.jar"
+        "FileNameOnDisk": "advancedperipherals-1.16.5-0.7.2r.jar"
       },
       "dateInstalled": "2021-08-07T01:31:49.4867783Z",
-      "dateUpdated": "2021-08-26T04:29:31.4768013Z",
-      "dateLastUpdateAttempted": "2021-08-26T04:29:31.4768013Z",
-      "status": 3,
+      "dateUpdated": "2021-09-08T12:10:14.1529954Z",
+      "dateLastUpdateAttempted": "2021-09-08T12:10:14.1529954Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
