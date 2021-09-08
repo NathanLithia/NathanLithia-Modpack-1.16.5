@@ -5867,23 +5867,17 @@
       "addonID": 507435,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3427185,
-        "displayName": "createautomated-1.16.5-1.4.0a.jar",
-        "fileName": "createautomated-1.16.5-1.4.0a.jar",
-        "fileDate": "2021-08-16T12:46:57.733Z",
-        "fileLength": 486220,
+        "id": 3449358,
+        "displayName": "createautomated-1.16.5-1.4.0b.jar",
+        "fileName": "createautomated-1.16.5-1.4.0b.jar",
+        "fileDate": "2021-09-04T19:10:17.973Z",
+        "fileLength": 487372,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3427/185/createautomated-1.16.5-1.4.0a.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3449/358/createautomated-1.16.5-1.4.0b.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
-          {
-            "id": 0,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
           {
             "id": 0,
             "addonId": 238086,
@@ -5898,8 +5892,8 @@
           },
           {
             "id": 0,
-            "addonId": 328085,
-            "type": 3,
+            "addonId": 238222,
+            "type": 2,
             "fileId": 0
           },
           {
@@ -5907,19 +5901,25 @@
             "addonId": 237065,
             "type": 2,
             "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 328085,
+            "type": 3,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3460001517,
+            "fingerprint": 2115762490,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 446637151,
+            "fingerprint": 1492881897,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -5960,7 +5960,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3358340879,
+        "packageFingerprint": 1372150458,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -5974,12 +5974,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "createautomated-1.16.5-1.4.0a.jar"
+        "FileNameOnDisk": "createautomated-1.16.5-1.4.0b.jar"
       },
       "dateInstalled": "2021-08-08T05:35:24.2903681Z",
-      "dateUpdated": "2021-08-17T15:11:04.849302Z",
-      "dateLastUpdateAttempted": "2021-08-17T15:11:04.849302Z",
-      "status": 3,
+      "dateUpdated": "2021-09-08T12:13:18.2669908Z",
+      "dateLastUpdateAttempted": "2021-09-08T12:13:18.2669908Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
