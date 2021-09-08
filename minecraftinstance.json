@@ -20049,14 +20049,14 @@
       "addonID": 428877,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3303188,
-        "displayName": "betterendforge-1.16.4-1.6.0.jar",
-        "fileName": "betterendforge-1.16.4-1.6.0.jar",
-        "fileDate": "2021-05-08T23:18:27.51Z",
-        "fileLength": 70790929,
-        "releaseType": 2,
+        "id": 3450288,
+        "displayName": "betterendforge-1.16.5-1.6.1.jar",
+        "fileName": "betterendforge-1.16.5-1.6.1.jar",
+        "fileDate": "2021-09-05T17:48:18.237Z",
+        "fileLength": 81160737,
+        "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3303/188/betterendforge-1.16.4-1.6.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3450/288/betterendforge-1.16.5-1.6.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -20064,25 +20064,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2539111876,
+            "fingerprint": 1059617518,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mod",
-            "fingerprint": 2890085416,
+            "fingerprint": 2614112472,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": ".cache",
-            "fingerprint": 2514659147,
+            "fingerprint": 203419548,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 2403988742,
+            "fingerprint": 3706469617,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -20094,7 +20094,7 @@
           },
           {
             "foldername": "data",
-            "fingerprint": 3327333537,
+            "fingerprint": 3703654550,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -20117,11 +20117,10 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2532498529,
+        "packageFingerprint": 2304660279,
         "gameVersion": [
           "1.16.5",
-          "Forge",
-          "1.16.4"
+          "Forge"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -20132,12 +20131,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "betterendforge-1.16.4-1.6.0.jar"
+        "FileNameOnDisk": "betterendforge-1.16.5-1.6.1.jar"
       },
       "dateInstalled": "2021-05-23T01:17:51.6778545Z",
-      "dateUpdated": "2021-06-07T09:17:34.6631176Z",
-      "dateLastUpdateAttempted": "2021-06-07T09:17:34.6631176Z",
-      "status": 3,
+      "dateUpdated": "2021-09-08T12:10:45.4378089Z",
+      "dateLastUpdateAttempted": "2021-09-08T12:10:45.4378089Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
