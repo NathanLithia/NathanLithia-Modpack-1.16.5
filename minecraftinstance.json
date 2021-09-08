@@ -3956,14 +3956,14 @@
       "addonID": 438074,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3317420,
-        "displayName": "BiomeIdFixer 1.16.5-1.0.1.s4 (Forge)",
-        "fileName": "biomeidfixer-1.16.5-1.0.1.s4.jar",
-        "fileDate": "2021-05-21T01:59:43.62Z",
-        "fileLength": 19038,
+        "id": 3446595,
+        "displayName": " BiomeIdFixer 1.16.5-1.0.1.s5 (Forge)",
+        "fileName": "biomeidfixer-1.16.5-1.0.1.s5.jar",
+        "fileDate": "2021-09-01T23:36:58.53Z",
+        "fileLength": 18942,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3317/420/biomeidfixer-1.16.5-1.0.1.s4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3446/595/biomeidfixer-1.16.5-1.0.1.s5.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -3971,13 +3971,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3216916853,
+            "fingerprint": 1728104185,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 3883385401,
+            "fingerprint": 2694043422,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4000,7 +4000,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1908577164,
+        "packageFingerprint": 3053206025,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -4014,12 +4014,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "biomeidfixer-1.16.5-1.0.1.s4.jar"
+        "FileNameOnDisk": "biomeidfixer-1.16.5-1.0.1.s5.jar"
       },
       "dateInstalled": "2021-06-07T09:13:07.1319469Z",
-      "dateUpdated": "2021-06-07T09:13:07.1599817Z",
-      "dateLastUpdateAttempted": "2021-06-07T09:13:07.1599817Z",
-      "status": 3,
+      "dateUpdated": "2021-09-08T12:10:53.3845488Z",
+      "dateLastUpdateAttempted": "2021-09-08T12:10:53.3845488Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
