@@ -7459,14 +7459,14 @@
       "addonID": 441647,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3412173,
-        "displayName": "FramedBlocks-2.9.3.jar",
-        "fileName": "FramedBlocks-2.9.3.jar",
-        "fileDate": "2021-08-03T22:27:37.18Z",
-        "fileLength": 505334,
+        "id": 3453471,
+        "displayName": "FramedBlocks-2.10.0.jar",
+        "fileName": "FramedBlocks-2.10.0.jar",
+        "fileDate": "2021-09-07T21:41:00.093Z",
+        "fileLength": 535672,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3412/173/FramedBlocks-2.9.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3453/471/FramedBlocks-2.10.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -7474,7 +7474,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1994549019,
+            "fingerprint": 4073729383,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -7486,25 +7486,25 @@
           },
           {
             "foldername": "xfacthd",
-            "fingerprint": 3056142202,
+            "fingerprint": 3176010730,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": ".cache",
-            "fingerprint": 4267182469,
+            "fingerprint": 2730059780,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 2690931833,
+            "fingerprint": 1188843323,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 3863849961,
+            "fingerprint": 296462197,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -7533,7 +7533,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3085615053,
+        "packageFingerprint": 1193117242,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -7547,12 +7547,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FramedBlocks-2.9.3.jar"
+        "FileNameOnDisk": "FramedBlocks-2.10.0.jar"
       },
       "dateInstalled": "2021-08-07T01:33:13.7879628Z",
-      "dateUpdated": "2021-08-07T01:33:13.7899647Z",
-      "dateLastUpdateAttempted": "2021-08-07T01:33:13.7899647Z",
-      "status": 3,
+      "dateUpdated": "2021-09-08T12:13:49.9395206Z",
+      "dateLastUpdateAttempted": "2021-09-08T12:13:49.9395206Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
