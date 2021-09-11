@@ -7402,20 +7402,20 @@
       "addonID": 314906,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3438528,
-        "displayName": "ftb-chunks-forge-1605.3.1-build.46.jar",
-        "fileName": "ftb-chunks-forge-1605.3.1-build.46.jar",
-        "fileDate": "2021-08-25T07:38:45.027Z",
-        "fileLength": 711573,
+        "id": 3454176,
+        "displayName": "ftb-chunks-forge-1605.3.1-build.48.jar",
+        "fileName": "ftb-chunks-forge-1605.3.1-build.48.jar",
+        "fileDate": "2021-09-08T18:05:38.42Z",
+        "fileLength": 711427,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3438/528/ftb-chunks-forge-1605.3.1-build.46.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3454/176/ftb-chunks-forge-1605.3.1-build.48.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 404465,
+            "addonId": 404468,
             "type": 3,
             "fileId": 0
           },
@@ -7427,7 +7427,7 @@
           },
           {
             "id": 0,
-            "addonId": 404468,
+            "addonId": 404465,
             "type": 3,
             "fileId": 0
           },
@@ -7440,18 +7440,6 @@
         ],
         "isAvailable": true,
         "modules": [
-          {
-            "foldername": "data",
-            "fingerprint": 1796985034,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "ftbchunks-common.mixins.json",
-            "fingerprint": 691596479,
-            "type": 0,
-            "invalidFingerprint": false
-          },
           {
             "foldername": "kubejs.plugins.txt",
             "fingerprint": 1949217215,
@@ -7471,8 +7459,20 @@
             "invalidFingerprint": false
           },
           {
+            "foldername": "ftbchunks-common.mixins.json",
+            "fingerprint": 691596479,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1796985034,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "ftb-chunks-common-refmap.json",
-            "fingerprint": 1767887801,
+            "fingerprint": 718415769,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -7484,24 +7484,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 1022041810,
+            "fingerprint": 2038529266,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 2984892635,
+            "fingerprint": 679679242,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_FTBChunks1165_common_6322977140f74cdf9de2b0e1c9ffc888",
-            "fingerprint": 1331532962,
+            "foldername": "architectury_inject_FTBChunks1165_common_93221553366f49ce86fa872104aeb324",
+            "fingerprint": 2588555083,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1447872310,
+        "packageFingerprint": 4094294206,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -7515,12 +7515,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-chunks-forge-1605.3.1-build.46.jar"
+        "FileNameOnDisk": "ftb-chunks-forge-1605.3.1-build.48.jar"
       },
       "dateInstalled": "2021-05-20T15:18:59.2561545Z",
-      "dateUpdated": "2021-08-26T04:29:17.3229979Z",
-      "dateLastUpdateAttempted": "2021-08-26T04:29:17.3229979Z",
-      "status": 3,
+      "dateUpdated": "2021-09-11T16:18:59.6100249Z",
+      "dateLastUpdateAttempted": "2021-09-11T16:18:59.6100249Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
