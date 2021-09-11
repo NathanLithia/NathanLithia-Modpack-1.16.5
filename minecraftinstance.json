@@ -3466,29 +3466,17 @@
       "addonID": 422301,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3437364,
-        "displayName": "sophisticatedbackpacks-1.16.5-3.2.7.326.jar",
-        "fileName": "sophisticatedbackpacks-1.16.5-3.2.7.326.jar",
-        "fileDate": "2021-08-24T07:59:15.933Z",
-        "fileLength": 1210041,
+        "id": 3455669,
+        "displayName": "sophisticatedbackpacks-1.16.5-3.2.12.337.jar",
+        "fileName": "sophisticatedbackpacks-1.16.5-3.2.12.337.jar",
+        "fileDate": "2021-09-10T16:56:34.73Z",
+        "fileLength": 1233886,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3437/364/sophisticatedbackpacks-1.16.5-3.2.7.326.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3455/669/sophisticatedbackpacks-1.16.5-3.2.12.337.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
-          {
-            "id": 0,
-            "addonId": 233071,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 243121,
-            "type": 2,
-            "fileId": 0
-          },
           {
             "id": 0,
             "addonId": 301356,
@@ -3503,7 +3491,19 @@
           },
           {
             "id": 0,
+            "addonId": 233071,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
             "addonId": 225643,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 243121,
             "type": 2,
             "fileId": 0
           },
@@ -3518,13 +3518,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3310466421,
+            "fingerprint": 1821336421,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 3551034861,
+            "fingerprint": 893207206,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1415314844,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 2552684475,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3536,24 +3548,12 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2031041724,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 2552684475,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 2939748059,
+            "fingerprint": 4014858000,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4142516642,
+        "packageFingerprint": 2880603544,
         "gameVersion": [
           "1.16.5"
         ],
@@ -3566,12 +3566,12 @@
         "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "sophisticatedbackpacks-1.16.5-3.2.7.326.jar"
+        "FileNameOnDisk": "sophisticatedbackpacks-1.16.5-3.2.12.337.jar"
       },
       "dateInstalled": "2021-07-26T14:55:48.3626891Z",
-      "dateUpdated": "2021-08-26T04:29:11.0141063Z",
-      "dateLastUpdateAttempted": "2021-08-26T04:29:11.0141063Z",
-      "status": 3,
+      "dateUpdated": "2021-09-11T16:18:40.7235997Z",
+      "dateLastUpdateAttempted": "2021-09-11T16:18:40.7235997Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
