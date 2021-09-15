@@ -3456,14 +3456,14 @@
       "addonID": 404465,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3453695,
-        "displayName": "ftb-library-forge-1605.3.3-build.68.jar",
-        "fileName": "ftb-library-forge-1605.3.3-build.68.jar",
-        "fileDate": "2021-09-08T02:10:40.943Z",
-        "fileLength": 566457,
+        "id": 3456644,
+        "displayName": "ftb-library-forge-1605.3.3-build.71.jar",
+        "fileName": "ftb-library-forge-1605.3.3-build.71.jar",
+        "fileDate": "2021-09-11T17:09:07.67Z",
+        "fileLength": 566625,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3453/695/ftb-library-forge-1605.3.3-build.68.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3456/644/ftb-library-forge-1605.3.3-build.71.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -3514,24 +3514,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 1707556512,
+            "fingerprint": 3137771856,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 3564608863,
+            "fingerprint": 2252479902,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_FTBLibrary1165_common_2780ba1411ba438ca4215b6bc8d6f587",
-            "fingerprint": 694823908,
+            "foldername": "architectury_inject_FTBLibrary1165_common_61b0708af0b64cf581b245fc20674613",
+            "fingerprint": 160914710,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 769078166,
+        "packageFingerprint": 799011951,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -3545,12 +3545,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-library-forge-1605.3.3-build.68.jar"
+        "FileNameOnDisk": "ftb-library-forge-1605.3.3-build.71.jar"
       },
       "dateInstalled": "2021-05-20T14:46:22.839556Z",
-      "dateUpdated": "2021-09-08T12:14:30.1075704Z",
-      "dateLastUpdateAttempted": "2021-09-08T12:14:30.1075704Z",
-      "status": 3,
+      "dateUpdated": "2021-09-15T20:03:58.3800935Z",
+      "dateLastUpdateAttempted": "2021-09-15T20:03:58.3800935Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
