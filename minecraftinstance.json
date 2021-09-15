@@ -10976,14 +10976,14 @@
       "addonID": 238086,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3445496,
-        "displayName": "kubejs-forge-1605.3.15-build.106.jar",
-        "fileName": "kubejs-forge-1605.3.15-build.106.jar",
-        "fileDate": "2021-09-01T01:44:17.193Z",
-        "fileLength": 768146,
+        "id": 3460023,
+        "displayName": "kubejs-forge-1605.3.17-build.114.jar",
+        "fileName": "kubejs-forge-1605.3.17-build.114.jar",
+        "fileDate": "2021-09-15T02:33:27.833Z",
+        "fileLength": 764193,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3445/496/kubejs-forge-1605.3.15-build.106.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3460/23/kubejs-forge-1605.3.17-build.114.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -11015,12 +11015,6 @@
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "data",
-            "fingerprint": 3279136865,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
             "foldername": "kubejs-common.mixins.json",
             "fingerprint": 4091874009,
             "type": 0,
@@ -11039,8 +11033,14 @@
             "invalidFingerprint": false
           },
           {
+            "foldername": "data",
+            "fingerprint": 3279136865,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "kubejs-common-refmap.json",
-            "fingerprint": 4016298995,
+            "fingerprint": 2727021962,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -11051,32 +11051,32 @@
             "invalidFingerprint": false
           },
           {
-            "foldername": "kubejs.mixins.json",
-            "fingerprint": 3372627309,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
             "foldername": "pack.mcmeta",
             "fingerprint": 1290654324,
             "type": 0,
             "invalidFingerprint": false
           },
           {
+            "foldername": "kubejs.mixins.json",
+            "fingerprint": 3372627309,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "META-INF",
-            "fingerprint": 2693765666,
+            "fingerprint": 2813341936,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 3476724898,
+            "fingerprint": 2329119678,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_KubeJS1165_common_cb011100135d450fbc4344b7ceebd68f",
-            "fingerprint": 3496649991,
+            "foldername": "architectury_inject_KubeJS1165_common_de7a8b4170d04f8b9541a289dae5e918",
+            "fingerprint": 3040824875,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -11087,7 +11087,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2182852964,
+        "packageFingerprint": 3250263196,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -11102,12 +11102,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "kubejs-forge-1605.3.15-build.106.jar"
+        "FileNameOnDisk": "kubejs-forge-1605.3.17-build.114.jar"
       },
       "dateInstalled": "2021-04-02T12:40:40.9370281Z",
-      "dateUpdated": "2021-09-01T09:20:06.6339047Z",
-      "dateLastUpdateAttempted": "2021-09-01T09:20:06.6339047Z",
-      "status": 3,
+      "dateUpdated": "2021-09-15T20:03:18.6229453Z",
+      "dateLastUpdateAttempted": "2021-09-15T20:03:18.6229453Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
