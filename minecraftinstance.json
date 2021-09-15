@@ -10231,14 +10231,14 @@
       "addonID": 306770,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3374063,
-        "displayName": "Patchouli-1.16.4-53.1.jar",
-        "fileName": "Patchouli-1.16.4-53.1.jar",
-        "fileDate": "2021-07-02T17:00:17.75Z",
-        "fileLength": 592958,
+        "id": 3459118,
+        "displayName": "Patchouli-1.16.4-53.2.jar",
+        "fileName": "Patchouli-1.16.4-53.2.jar",
+        "fileDate": "2021-09-14T05:44:05.877Z",
+        "fileLength": 593114,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3374/63/Patchouli-1.16.4-53.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3459/118/Patchouli-1.16.4-53.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -10246,13 +10246,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3378047877,
+            "fingerprint": 324335310,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "vazkii",
-            "fingerprint": 978479436,
+            "fingerprint": 742263531,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -10264,7 +10264,7 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 1640126063,
+            "fingerprint": 636248690,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -10287,7 +10287,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3049299263,
+        "packageFingerprint": 1640373126,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -10302,12 +10302,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Patchouli-1.16.4-53.1.jar"
+        "FileNameOnDisk": "Patchouli-1.16.4-53.2.jar"
       },
       "dateInstalled": "2021-04-09T19:20:35.7068698Z",
-      "dateUpdated": "2021-07-04T22:19:03.3673075Z",
-      "dateLastUpdateAttempted": "2021-07-04T22:19:03.3673075Z",
-      "status": 3,
+      "dateUpdated": "2021-09-15T20:03:10.1143129Z",
+      "dateLastUpdateAttempted": "2021-09-15T20:03:10.1143129Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
