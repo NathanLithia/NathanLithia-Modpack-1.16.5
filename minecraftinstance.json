@@ -17464,26 +17464,26 @@
       "addonID": 314905,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3409578,
-        "displayName": "ftb-ranks-1605.1.4-build.9-forge.jar",
-        "fileName": "ftb-ranks-1605.1.4-build.9-forge.jar",
-        "fileDate": "2021-08-02T13:54:28.923Z",
-        "fileLength": 67504,
+        "id": 3458491,
+        "displayName": "ftb-ranks-1605.1.4-build.12-forge.jar",
+        "fileName": "ftb-ranks-1605.1.4-build.12-forge.jar",
+        "fileDate": "2021-09-13T14:53:12.467Z",
+        "fileLength": 67505,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3409/578/ftb-ranks-1605.1.4-build.9-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3458/491/ftb-ranks-1605.1.4-build.12-forge.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 404465,
+            "addonId": 419699,
             "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 419699,
+            "addonId": 404465,
             "type": 3,
             "fileId": 0
           }
@@ -17510,7 +17510,13 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 2346566536,
+            "fingerprint": 4170120938,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_FTBRanks1165_common_1a8602e351ba4f0d94ecbab8490feac0",
+            "fingerprint": 1449078950,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -17519,15 +17525,9 @@
             "fingerprint": 3914633908,
             "type": 0,
             "invalidFingerprint": false
-          },
-          {
-            "foldername": "architectury_inject_FTBRanks1165_common_153f2ccd15e0417a84e7d12d87e3c853",
-            "fingerprint": 2567431360,
-            "type": 0,
-            "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3937468688,
+        "packageFingerprint": 2054546340,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -17541,12 +17541,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-ranks-1605.1.4-build.9-forge.jar"
+        "FileNameOnDisk": "ftb-ranks-1605.1.4-build.12-forge.jar"
       },
       "dateInstalled": "2021-06-09T16:26:40.1348526Z",
-      "dateUpdated": "2021-08-03T15:29:23.0554565Z",
-      "dateLastUpdateAttempted": "2021-08-03T15:29:23.0554565Z",
-      "status": 3,
+      "dateUpdated": "2021-09-15T20:03:34.2553062Z",
+      "dateLastUpdateAttempted": "2021-09-15T20:03:34.2553062Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
