@@ -16682,38 +16682,20 @@
       "addonID": 289412,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3453303,
-        "displayName": "ftb-quests-forge-1605.3.4-build.58.jar",
-        "fileName": "ftb-quests-forge-1605.3.4-build.58.jar",
-        "fileDate": "2021-09-07T17:53:32.067Z",
-        "fileLength": 939224,
+        "id": 3458486,
+        "displayName": "ftb-quests-forge-1605.3.4-build.60.jar",
+        "fileName": "ftb-quests-forge-1605.3.4-build.60.jar",
+        "fileDate": "2021-09-13T14:45:06.567Z",
+        "fileLength": 939275,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3453/303/ftb-quests-forge-1605.3.4-build.58.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3458/486/ftb-quests-forge-1605.3.4-build.60.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 419699,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 404468,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
             "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 238086,
             "type": 2,
             "fileId": 0
           },
@@ -16725,8 +16707,26 @@
           },
           {
             "id": 0,
+            "addonId": 404468,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
             "addonId": 309674,
             "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 419699,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238086,
+            "type": 2,
             "fileId": 0
           }
         ],
@@ -16758,24 +16758,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 1486804787,
+            "fingerprint": 1567560879,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 3627835018,
+            "fingerprint": 3825487984,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_FTBQuests1165_common_d743d7314f3d47189e1f6d1693d2447a",
-            "fingerprint": 2769101402,
+            "foldername": "architectury_inject_FTBQuests1165_common_03a95e8725544ba5b307f100d81bc73c",
+            "fingerprint": 3216870206,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 612332226,
+        "packageFingerprint": 3016535770,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -16789,12 +16789,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-quests-forge-1605.3.4-build.58.jar"
+        "FileNameOnDisk": "ftb-quests-forge-1605.3.4-build.60.jar"
       },
       "dateInstalled": "2021-06-19T09:27:13.3012464Z",
-      "dateUpdated": "2021-09-08T12:14:10.7443838Z",
-      "dateLastUpdateAttempted": "2021-09-08T12:14:10.7443838Z",
-      "status": 3,
+      "dateUpdated": "2021-09-15T20:03:44.0483502Z",
+      "dateLastUpdateAttempted": "2021-09-15T20:03:44.0483502Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
