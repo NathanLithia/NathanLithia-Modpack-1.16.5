@@ -3820,14 +3820,14 @@
       "addonID": 404468,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3453698,
-        "displayName": "ftb-teams-forge-1605.2.2-build.24.jar",
-        "fileName": "ftb-teams-forge-1605.2.2-build.24.jar",
-        "fileDate": "2021-09-08T02:15:15.917Z",
-        "fileLength": 163402,
+        "id": 3460043,
+        "displayName": "ftb-teams-forge-1605.2.2-build.32.jar",
+        "fileName": "ftb-teams-forge-1605.2.2-build.32.jar",
+        "fileDate": "2021-09-15T03:08:57.78Z",
+        "fileLength": 171516,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3453/698/ftb-teams-forge-1605.2.2-build.24.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3460/43/ftb-teams-forge-1605.2.2-build.32.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -3842,7 +3842,7 @@
         "modules": [
           {
             "foldername": "assets",
-            "fingerprint": 1833459384,
+            "fingerprint": 3374566488,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3860,24 +3860,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 1960815488,
+            "fingerprint": 3241620702,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 2587595565,
+            "fingerprint": 1585822448,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_FTBTeams1165_common_9f51284393614f948a48af0707d1c593",
-            "fingerprint": 1269460377,
+            "foldername": "architectury_inject_FTBTeams1165_common_f15106fd8b8b47e9a64feab37898da9e",
+            "fingerprint": 2499899307,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3719209000,
+        "packageFingerprint": 1730578673,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -3891,12 +3891,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-teams-forge-1605.2.2-build.24.jar"
+        "FileNameOnDisk": "ftb-teams-forge-1605.2.2-build.32.jar"
       },
       "dateInstalled": "2021-06-07T09:24:08.0439125Z",
-      "dateUpdated": "2021-09-08T12:14:19.9612403Z",
-      "dateLastUpdateAttempted": "2021-09-08T12:14:19.9612403Z",
-      "status": 3,
+      "dateUpdated": "2021-09-15T20:03:26.4945435Z",
+      "dateLastUpdateAttempted": "2021-09-15T20:03:26.4945435Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
