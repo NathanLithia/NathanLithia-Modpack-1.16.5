@@ -15432,40 +15432,34 @@
       "addonID": 419699,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3442690,
-        "displayName": "[Forge 1.16.4/5] v1.22.32",
-        "fileName": "architectury-1.22.32-forge.jar",
-        "fileDate": "2021-08-29T12:01:30.957Z",
-        "fileLength": 499795,
+        "id": 3462013,
+        "displayName": "[Forge 1.16.4/5] v1.23.33",
+        "fileName": "architectury-1.23.33-forge.jar",
+        "fileDate": "2021-09-17T14:44:40.27Z",
+        "fileLength": 513560,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3442/690/architectury-1.22.32-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3462/13/architectury-1.23.33-forge.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "architectury.accessWidener",
-            "fingerprint": 2323192959,
+            "foldername": "architectury-common.mixins.json",
+            "fingerprint": 1305967297,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury-common.mixins.json",
-            "fingerprint": 4139065438,
+            "foldername": "architectury.accessWidener",
+            "fingerprint": 257494810,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "architectury-common-refmap.json",
-            "fingerprint": 2591852291,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "architectury.mixins.json",
-            "fingerprint": 1554387086,
+            "fingerprint": 1953518274,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -15482,20 +15476,26 @@
             "invalidFingerprint": false
           },
           {
+            "foldername": "architectury.mixins.json",
+            "fingerprint": 1554387086,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "META-INF",
-            "fingerprint": 3410358136,
+            "fingerprint": 1184458518,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "me",
-            "fingerprint": 1348234885,
+            "fingerprint": 187094204,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_architectury_common_c2851b00c34b457cb52dc6adf3d8dfe2_30a2b276a870486348ee068d728003f45b401ba0eefd46d943358c29b4fa835carchitectury12232devjar",
-            "fingerprint": 3101755694,
+            "foldername": "architectury_inject_architectury_common_53d158909e4141f29a002e4e846289d1_65633a536525e78795f5d2e868e91d166738c055fb3ad8e01516b6119e872ad6architectury12333devjar",
+            "fingerprint": 2315980521,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -15506,7 +15506,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 154437993,
+        "packageFingerprint": 1955599694,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -15521,12 +15521,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "architectury-1.22.32-forge.jar"
+        "FileNameOnDisk": "architectury-1.23.33-forge.jar"
       },
       "dateInstalled": "2021-03-23T21:20:46.5231214Z",
-      "dateUpdated": "2021-08-30T09:15:00.0293251Z",
-      "dateLastUpdateAttempted": "2021-08-30T09:15:00.0293251Z",
-      "status": 3,
+      "dateUpdated": "2021-09-22T06:57:47.5487688Z",
+      "dateLastUpdateAttempted": "2021-09-22T06:57:47.5487688Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
