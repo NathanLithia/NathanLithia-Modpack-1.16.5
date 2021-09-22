@@ -1200,6 +1200,121 @@
       "installedTargets": null
     },
     {
+      "addonID": 387638,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": null,
+      "dateInstalled": "2021-09-22T13:41:28.0210652Z",
+      "dateUpdated": "2021-09-22T13:41:28.023066Z",
+      "dateLastUpdateAttempted": "2021-09-22T13:41:28.023066Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 490403,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3336580,
+        "displayName": "morered_computercraft_integration-1.16.5-1.0.0.0.jar",
+        "fileName": "morered_computercraft_integration-1.16.5-1.0.0.0.jar",
+        "fileDate": "2021-06-03T17:44:33.737Z",
+        "fileLength": 125523,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3336/580/morered_computercraft_integration-1.16.5-1.0.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 387638,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 282001,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1373558882,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "commoble",
+            "fingerprint": 2801855545,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2630681678,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2546903385,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "morered_computercraft_integration_logo.png",
+            "fingerprint": 448946855,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1438559181,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3068453343,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "morered_computercraft_integration-1.16.5-1.0.0.0.jar"
+      },
+      "dateInstalled": "2021-09-22T13:41:29.7608206Z",
+      "dateUpdated": "2021-09-22T13:41:29.7618347Z",
+      "dateLastUpdateAttempted": "2021-09-22T13:41:29.7618347Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 418915,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
@@ -10162,91 +10277,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 395953,
-      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
-      "installedFile": {
-        "id": 3316977,
-        "displayName": "[FORGE] Gilded Armor 1.16.5 - v1.1.2",
-        "fileName": "gildedarmor-forge-1.16.5-1.1.2.jar",
-        "fileDate": "2021-05-20T18:46:22.48Z",
-        "fileLength": 35895,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3316/977/gildedarmor-forge-1.16.5-1.1.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1672946966,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "maroonshaded",
-            "fingerprint": 1189908247,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3965558237,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1000598584,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "gildedarmor.png",
-            "fingerprint": 2344723942,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 445320890,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 573588732,
-        "gameVersion": [
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "gildedarmor-forge-1.16.5-1.1.2.jar"
-      },
-      "dateInstalled": "2021-03-24T02:58:11.3709812Z",
-      "dateUpdated": "2021-05-20T23:40:14.5038411Z",
-      "dateLastUpdateAttempted": "2021-05-20T23:40:14.5038411Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 250763,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
@@ -11300,88 +11330,6 @@
       "dateInstalled": "2021-03-24T02:39:59.9149586Z",
       "dateUpdated": "2021-08-30T09:14:25.0062505Z",
       "dateLastUpdateAttempted": "2021-08-30T09:14:25.0062505Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 380401,
-      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
-      "installedFile": {
-        "id": 3191632,
-        "displayName": "WorldEdit-CUI-FE3-1.16.5-3.0.9.jar",
-        "fileName": "WorldEdit-CUI-FE3-1.16.5-3.0.9.jar",
-        "fileDate": "2021-02-03T21:20:16.227Z",
-        "fileLength": 869842,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3191/632/WorldEdit-CUI-FE3-1.16.5-3.0.9.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3393831504,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 473996352,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3426607628,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mod.png",
-            "fingerprint": 2459788602,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3493154995,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 46645196,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.1",
-          "1.16.5",
-          "Forge",
-          "1.16.4",
-          "1.16.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "WorldEdit-CUI-FE3-1.16.5-3.0.9.jar"
-      },
-      "dateInstalled": "2021-06-07T11:29:36.7675238Z",
-      "dateUpdated": "2021-06-07T11:29:36.7695266Z",
-      "dateLastUpdateAttempted": "2021-06-07T11:29:36.7695266Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -16806,42 +16754,61 @@
       "installedTargets": null
     },
     {
-      "addonID": 358304,
+      "addonID": 478939,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3466137,
-        "displayName": "logprot-1.16-1.4.jar",
-        "fileName": "logprot-1.16-1.4.jar",
-        "fileDate": "2021-09-19T18:52:57.91Z",
-        "fileLength": 13106,
+        "id": 3407718,
+        "displayName": "ProjectRed-1.16.5-4.10.0-transmission.jar",
+        "fileName": "ProjectRed-1.16.5-4.10.0-transmission.jar",
+        "fileDate": "2021-07-31T18:41:04Z",
+        "fileLength": 558961,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3466/137/logprot-1.16-1.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3407/718/ProjectRed-1.16.5-4.10.0-transmission.jar",
         "isAlternate": false,
         "alternateFileId": 0,
-        "dependencies": [],
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 228702,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3534896497,
+            "fingerprint": 2971134461,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "com",
-            "fingerprint": 3002930837,
+            "foldername": "mrtjp",
+            "fingerprint": 874586359,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "pack.mcmeta",
-            "fingerprint": 3543142243,
+            "fingerprint": 653434307,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2022062761,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4119840712,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 82815321,
+        "packageFingerprint": 242649529,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -16852,14 +16819,14 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "logprot-1.16-1.4.jar"
+        "FileNameOnDisk": "ProjectRed-1.16.5-4.10.0-transmission.jar"
       },
-      "dateInstalled": "2021-09-22T13:19:05.5147891Z",
-      "dateUpdated": "2021-09-22T13:19:05.5157871Z",
-      "dateLastUpdateAttempted": "2021-09-22T13:19:05.5157871Z",
+      "dateInstalled": "2021-09-22T13:19:46.7607644Z",
+      "dateUpdated": "2021-09-22T13:19:46.7617625Z",
+      "dateLastUpdateAttempted": "2021-09-22T13:19:46.7617625Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -20094,6 +20061,114 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 432182,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3430150,
+        "displayName": "Storage4ComputerCraft-1.16.5-1.3.1.jar",
+        "fileName": "Storage4ComputerCraft-1.16.5-1.3.1.jar",
+        "fileDate": "2021-08-18T08:17:36.32Z",
+        "fileLength": 237356,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3430/150/Storage4ComputerCraft-1.16.5-1.3.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 223794,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 282001,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 243076,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2021563433,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "nz",
+            "fingerprint": 1989898049,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": ".cache",
+            "fingerprint": 3254586107,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4039585817,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2781502818,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 1353479784,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3469360459,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1146650347,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Storage4ComputerCraft-1.16.5-1.3.1.jar"
+      },
+      "dateInstalled": "2021-09-22T13:41:27.3791841Z",
+      "dateUpdated": "2021-09-22T13:41:27.3811851Z",
+      "dateLastUpdateAttempted": "2021-09-22T13:41:27.3811851Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 297028,
