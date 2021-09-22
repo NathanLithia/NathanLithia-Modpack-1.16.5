@@ -18757,14 +18757,14 @@
       "addonID": 466792,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3460518,
-        "displayName": "create-stuff-additions1.16.5_v1.0.8.jar",
-        "fileName": "create-stuff-additions1.16.5_v1.0.8.jar",
-        "fileDate": "2021-09-15T17:54:46.017Z",
-        "fileLength": 540609,
+        "id": 3467876,
+        "displayName": "create-stuff-additions1.16.5_v1.1.0.jar",
+        "fileName": "create-stuff-additions1.16.5_v1.1.0.jar",
+        "fileDate": "2021-09-21T19:49:25.613Z",
+        "fileLength": 593395,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3460/518/create-stuff-additions1.16.5_v1.0.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3467/876/create-stuff-additions1.16.5_v1.1.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -18779,25 +18779,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3495245074,
+            "fingerprint": 1971969150,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 1463493608,
+            "fingerprint": 380432009,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3115477186,
+            "fingerprint": 1351183136,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 1718912002,
+            "fingerprint": 2633425873,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -18808,7 +18808,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2082511934,
+        "packageFingerprint": 66706028,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -18822,12 +18822,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "create-stuff-additions1.16.5_v1.0.8.jar"
+        "FileNameOnDisk": "create-stuff-additions1.16.5_v1.1.0.jar"
       },
       "dateInstalled": "2021-05-23T23:23:02.1189768Z",
-      "dateUpdated": "2021-09-15T20:04:46.3506563Z",
-      "dateLastUpdateAttempted": "2021-09-15T20:04:46.3506563Z",
-      "status": 3,
+      "dateUpdated": "2021-09-22T06:57:11.7134864Z",
+      "dateLastUpdateAttempted": "2021-09-22T06:57:11.7134864Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
