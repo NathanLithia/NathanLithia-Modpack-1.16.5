@@ -18234,14 +18234,14 @@
       "addonID": 426558,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3440131,
-        "displayName": "alexsmobs-1.12.0",
-        "fileName": "alexsmobs-1.12.0.jar",
-        "fileDate": "2021-08-26T20:50:00.347Z",
-        "fileLength": 18109537,
+        "id": 3467280,
+        "displayName": "alexsmobs-1.12.1",
+        "fileName": "alexsmobs-1.12.1.jar",
+        "fileDate": "2021-09-21T00:32:41.873Z",
+        "fileLength": 18135643,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3440/131/alexsmobs-1.12.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3467/280/alexsmobs-1.12.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -18256,25 +18256,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1724210835,
+            "fingerprint": 3721473459,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 3332143554,
+            "fingerprint": 3160208743,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 2133241335,
+            "fingerprint": 982179895,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 1165477556,
+            "fingerprint": 480513532,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -18285,7 +18285,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2939681888,
+        "packageFingerprint": 2288821940,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -18301,12 +18301,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "alexsmobs-1.12.0.jar"
+        "FileNameOnDisk": "alexsmobs-1.12.1.jar"
       },
       "dateInstalled": "2021-04-08T03:39:22.5524114Z",
-      "dateUpdated": "2021-08-29T06:01:23.7319797Z",
-      "dateLastUpdateAttempted": "2021-08-29T06:01:23.7319797Z",
-      "status": 3,
+      "dateUpdated": "2021-09-22T06:58:01.0158028Z",
+      "dateLastUpdateAttempted": "2021-09-22T06:58:01.0158028Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
