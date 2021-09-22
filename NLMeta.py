@@ -14,13 +14,15 @@ for mod in mods:
     if mod.endswith((".jar")):
         print(f"Wrote: {mod}")
 
-        with open("mods/"+mod, 'rb') as f:
-            filebytes = f.read(BLOCK_SIZE)
-            while len(filebytes) > 0:
-                md5.update(filebytes)
-                filebytes = f.read(BLOCK_SIZE)
+        modhash = hashlib.md5(open(f'mods/'+mod,'rb').read()).hexdigest()
+
+        #with open("mods/"+mod, 'rb') as f:
+        #    filebytes = f.read(BLOCK_SIZE)
+        #    while len(filebytes) > 0:
+        #        md5.update(filebytes)
+        #        filebytes = f.read(BLOCK_SIZE)
 
         f = open(f"mods/{mod}.NLMeta", "a")
-        f.write(f"{mod}\n{md5.hexdigest()}")
+        f.write(f"{mod}\n{modhash}")
         f.close()
 
