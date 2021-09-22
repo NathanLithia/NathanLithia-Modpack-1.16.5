@@ -11181,32 +11181,38 @@
       "addonID": 421770,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3446481,
-        "displayName": "kubejs-immersive-engineering-1605.1.1-build.1.jar",
-        "fileName": "kubejs-immersive-engineering-1605.1.1-build.1.jar",
-        "fileDate": "2021-09-01T21:36:07.117Z",
-        "fileLength": 22095,
+        "id": 3462644,
+        "displayName": "kubejs-immersive-engineering-1605.1.1-build.2.jar",
+        "fileName": "kubejs-immersive-engineering-1605.1.1-build.2.jar",
+        "fileDate": "2021-09-18T09:32:46.903Z",
+        "fileLength": 22097,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3446/481/kubejs-immersive-engineering-1605.1.1-build.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3462/644/kubejs-immersive-engineering-1605.1.1-build.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 238086,
+            "addonId": 231951,
             "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 268560,
+            "addonId": 238086,
             "type": 3,
             "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
+          {
+            "foldername": "kubejs.classfilter.txt",
+            "fingerprint": 238173476,
+            "type": 0,
+            "invalidFingerprint": false
+          },
           {
             "foldername": "kubejs.plugins.txt",
             "fingerprint": 4031426610,
@@ -11220,14 +11226,8 @@
             "invalidFingerprint": false
           },
           {
-            "foldername": "kubejs.classfilter.txt",
-            "fingerprint": 238173476,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
             "foldername": "META-INF",
-            "fingerprint": 3449623691,
+            "fingerprint": 3626308492,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -11238,7 +11238,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3556748086,
+        "packageFingerprint": 2837827252,
         "gameVersion": [
           "1.16.5"
         ],
@@ -11251,12 +11251,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "kubejs-immersive-engineering-1605.1.1-build.1.jar"
+        "FileNameOnDisk": "kubejs-immersive-engineering-1605.1.1-build.2.jar"
       },
       "dateInstalled": "2021-09-09T14:02:53.4631753Z",
-      "dateUpdated": "2021-09-09T14:02:53.4641752Z",
-      "dateLastUpdateAttempted": "2021-09-09T14:02:53.4641752Z",
-      "status": 3,
+      "dateUpdated": "2021-09-22T06:56:16.1413716Z",
+      "dateLastUpdateAttempted": "2021-09-22T06:56:16.1413716Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
