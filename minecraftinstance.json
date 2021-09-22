@@ -6500,34 +6500,28 @@
       "addonID": 410295,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3279152,
-        "displayName": "Konkrete v1.1.6 MC 1.16.2-1.16.5",
-        "fileName": "konkrete_1.1.6_MC_1.16.2-1.16.5.jar",
-        "fileDate": "2021-04-16T17:46:29.65Z",
-        "fileLength": 197698,
+        "id": 3467944,
+        "displayName": "Konkrete v1.3.0 MC 1.16.2-1.16.5",
+        "fileName": "konkrete_1.3.0_MC_1.16.2-1.16.5.jar",
+        "fileDate": "2021-09-21T21:10:17.63Z",
+        "fileLength": 195943,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3279/152/konkrete_1.1.6_MC_1.16.2-1.16.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3467/944/konkrete_1.3.0_MC_1.16.2-1.16.5.jar",
         "isAlternate": false,
-        "alternateFileId": 3279160,
+        "alternateFileId": 0,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 840189157,
+            "fingerprint": 1466900595,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "de",
-            "fingerprint": 313876184,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1438559181,
+            "fingerprint": 1667328053,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -6536,9 +6530,15 @@
             "fingerprint": 394542683,
             "type": 0,
             "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1438559181,
+            "type": 0,
+            "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3867302995,
+        "packageFingerprint": 2616341676,
         "gameVersion": [
           "1.16.3",
           "1.16.5",
@@ -6555,12 +6555,12 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "konkrete_1.1.6_MC_1.16.2-1.16.5.jar"
+        "FileNameOnDisk": "konkrete_1.3.0_MC_1.16.2-1.16.5.jar"
       },
       "dateInstalled": "2021-05-20T18:42:24.0749845Z",
-      "dateUpdated": "2021-05-20T18:42:24.0769691Z",
-      "dateLastUpdateAttempted": "2021-05-20T18:42:24.0769691Z",
-      "status": 3,
+      "dateUpdated": "2021-09-22T06:56:35.1670694Z",
+      "dateLastUpdateAttempted": "2021-09-22T06:56:35.1670694Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
