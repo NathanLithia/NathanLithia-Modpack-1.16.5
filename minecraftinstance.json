@@ -1434,6 +1434,91 @@
       "installedTargets": null
     },
     {
+      "addonID": 229045,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3407714,
+        "displayName": "ProjectRed-1.16.5-4.10.0-integration.jar",
+        "fileName": "ProjectRed-1.16.5-4.10.0-integration.jar",
+        "fileDate": "2021-07-31T18:40:56.837Z",
+        "fileLength": 3448407,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3407/714/ProjectRed-1.16.5-4.10.0-integration.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 228702,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1328332719,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mrtjp",
+            "fingerprint": 415857504,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 653434307,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 736537341,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2036478310,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2470471582,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ProjectRed-1.16.5-4.10.0-integration.jar"
+      },
+      "dateInstalled": "2021-09-22T13:19:42.6802147Z",
+      "dateUpdated": "2021-09-22T13:19:42.6842148Z",
+      "dateLastUpdateAttempted": "2021-09-22T13:19:42.6842148Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 251396,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
@@ -4045,6 +4130,90 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 400085,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3423244,
+        "displayName": "Upgraded Netherite 1.10.0",
+        "fileName": "Upgraded Netherite 1.10.0.jar",
+        "fileDate": "2021-08-12T14:04:18.917Z",
+        "fileLength": 996698,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3423/244/Upgraded Netherite 1.10.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2936129438,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1602425120,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1467782312,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2125089699,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2914463624,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "UpgradedNetherite.png",
+            "fingerprint": 2595714805,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 4281452451,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Upgraded Netherite 1.10.0.jar"
+      },
+      "dateInstalled": "2021-09-22T13:17:56.3793421Z",
+      "dateUpdated": "2021-09-22T13:17:56.381344Z",
+      "dateLastUpdateAttempted": "2021-09-22T13:17:56.381344Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 365460,
@@ -7356,6 +7525,114 @@
       "installedTargets": null
     },
     {
+      "addonID": 258426,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3459903,
+        "displayName": "CB Multipart 1.16.5-3.0.2.120-universal",
+        "fileName": "CBMultipart-1.16.5-3.0.2.120-universal.jar",
+        "fileDate": "2021-09-15T00:35:57.193Z",
+        "fileLength": 887600,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3459/903/CBMultipart-1.16.5-3.0.2.120-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 471286,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 242818,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4240464435,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": ".cache",
+            "fingerprint": 3339542048,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1452015139,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "codechicken",
+            "fingerprint": 3838809839,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1831289845,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.cbmultipart.json",
+            "fingerprint": 3326634771,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.cbmultipart.refmap.json",
+            "fingerprint": 424782203,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1855346333,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2720710764,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "CBMultipart-1.16.5-3.0.2.120-universal.jar"
+      },
+      "dateInstalled": "2021-09-22T13:18:39.1270475Z",
+      "dateUpdated": "2021-09-22T13:18:39.1290492Z",
+      "dateLastUpdateAttempted": "2021-09-22T13:18:39.1290492Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 444965,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
@@ -7653,6 +7930,107 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 242818,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3456069,
+        "displayName": "CodeChicken Lib 1.16.5-4.0.3.434-universal",
+        "fileName": "CodeChickenLib-1.16.5-4.0.3.434-universal.jar",
+        "fileDate": "2021-09-11T03:03:14.44Z",
+        "fileLength": 622321,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3456/69/CodeChickenLib-1.16.5-4.0.3.434-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4224770076,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": ".cache",
+            "fingerprint": 1353120109,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 2989649023,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3096024256,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "codechicken",
+            "fingerprint": 3354410204,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3899647396,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.codechickenlib.json",
+            "fingerprint": 1076180799,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.codechickenlib.refmap.json",
+            "fingerprint": 3334444269,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 427284745,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1058829035,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "CodeChickenLib-1.16.5-4.0.3.434-universal.jar"
+      },
+      "dateInstalled": "2021-09-22T13:18:37.5340538Z",
+      "dateUpdated": "2021-09-22T13:18:37.5360664Z",
+      "dateLastUpdateAttempted": "2021-09-22T13:18:37.5360664Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 295319,
@@ -9021,6 +9399,93 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 461822,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3337788,
+        "displayName": "V1.2.2",
+        "fileName": "stoneholm-1.2.2.jar",
+        "fileDate": "2021-06-04T15:49:45.837Z",
+        "fileLength": 218290,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3337/788/stoneholm-1.2.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 348521,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3770707201,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1870208870,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3417747699,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4103739724,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3109048213,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3307384579,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "stoneholm-1.2.2.jar"
+      },
+      "dateInstalled": "2021-09-22T13:17:30.3634469Z",
+      "dateUpdated": "2021-09-22T13:17:30.3654471Z",
+      "dateLastUpdateAttempted": "2021-09-22T13:17:30.3654471Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 237307,
@@ -10746,24 +11211,6 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
-    },
-    {
-      "addonID": 504384,
-      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
-      "installedFile": null,
-      "dateInstalled": "2021-09-22T07:37:46.0202856Z",
-      "dateUpdated": "2021-09-22T07:37:46.021286Z",
-      "dateLastUpdateAttempted": "2021-09-22T07:37:46.021286Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
     },
     {
       "addonID": 264231,
@@ -15761,6 +16208,103 @@
       "installedTargets": null
     },
     {
+      "addonID": 228702,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3407713,
+        "displayName": "ProjectRed-1.16.5-4.10.0-core.jar",
+        "fileName": "ProjectRed-1.16.5-4.10.0-core.jar",
+        "fileDate": "2021-07-31T18:40:54.183Z",
+        "fileLength": 1110217,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3407/713/ProjectRed-1.16.5-4.10.0-core.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 471286,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 242818,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 258426,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3440167819,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mrtjp",
+            "fingerprint": 2756675039,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 653434307,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3615826624,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 584927483,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1387962433,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ProjectRed-1.16.5-4.10.0-core.jar"
+      },
+      "dateInstalled": "2021-09-22T13:18:39.6730464Z",
+      "dateUpdated": "2021-09-22T13:18:39.6750476Z",
+      "dateLastUpdateAttempted": "2021-09-22T13:18:39.6750476Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 293496,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
@@ -16260,6 +16804,72 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 358304,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3466137,
+        "displayName": "logprot-1.16-1.4.jar",
+        "fileName": "logprot-1.16-1.4.jar",
+        "fileDate": "2021-09-19T18:52:57.91Z",
+        "fileLength": 13106,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3466/137/logprot-1.16-1.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3534896497,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3002930837,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3543142243,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 82815321,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "logprot-1.16-1.4.jar"
+      },
+      "dateInstalled": "2021-09-22T13:19:05.5147891Z",
+      "dateUpdated": "2021-09-22T13:19:05.5157871Z",
+      "dateLastUpdateAttempted": "2021-09-22T13:19:05.5157871Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 454372,
@@ -19819,6 +20429,107 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 471286,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3276638,
+        "displayName": "Scorge-3.1.3",
+        "fileName": "Scorge-3.1.3.jar",
+        "fileDate": "2021-04-15T06:11:42.023Z",
+        "fileLength": 6509012,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3276/638/Scorge-3.1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 716152537,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 2807419222,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "scala-java8-compat.properties",
+            "fingerprint": 1629055723,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "scala",
+            "fingerprint": 600764334,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 1185419476,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "NOTICE",
+            "fingerprint": 313412245,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "library.properties",
+            "fingerprint": 1989653473,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "rootdoc.txt",
+            "fingerprint": 3238757857,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3055856884,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.1",
+          "1.16",
+          "1.16.5",
+          "Forge",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Scorge-3.1.3.jar"
+      },
+      "dateInstalled": "2021-09-22T13:18:36.8630271Z",
+      "dateUpdated": "2021-09-22T13:18:36.8690379Z",
+      "dateLastUpdateAttempted": "2021-09-22T13:18:36.8690379Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 314906,
