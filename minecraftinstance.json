@@ -48,7 +48,7 @@
   "cachedScans": [],
   "isValid": true,
   "lastPreviousMatchUpdate": "2021-09-23T13:02:06.2226431Z",
-  "lastRefreshAttempt": "2021-09-23T22:32:07.5996306+09:30",
+  "lastRefreshAttempt": "2021-09-23T22:32:07.7276332+09:30",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -6358,24 +6358,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 399090,
-      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
-      "installedFile": null,
-      "dateInstalled": "2021-03-23T21:46:54.0941364Z",
-      "dateUpdated": "2021-03-23T21:46:54.0951379Z",
-      "dateLastUpdateAttempted": "2021-03-23T21:46:54.0951379Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 355542,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
@@ -8605,122 +8587,7 @@
     {
       "addonID": 268560,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
-      "installedFile": {
-        "id": 3206392,
-        "displayName": "Mekanism-1.16.5-10.0.21.448.jar",
-        "fileName": "Mekanism-1.16.5-10.0.21.448.jar",
-        "fileDate": "2021-02-16T19:07:58.13Z",
-        "fileLength": 8962038,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3206/392/Mekanism-1.16.5-10.0.21.448.jar",
-        "isAlternate": false,
-        "alternateFileId": 3206394,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 267602,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 248020,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 324164,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 220318,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 253449,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 245211,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 226410,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 678764324,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mekanism",
-            "fingerprint": 163431123,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 72123268,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 595176173,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1535469697,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3151715192,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3390446425,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Mekanism-1.16.5-10.0.21.448.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-09-09T14:02:52.3441743Z",
       "dateUpdated": "2021-09-09T14:02:52.3511744Z",
       "dateLastUpdateAttempted": "2021-09-09T14:02:52.3511744Z",
@@ -15054,6 +14921,127 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 240950,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3446805,
+        "displayName": "RFToolsDimensions - 1.16-7.0.14-beta",
+        "fileName": "rftoolsdim-1.16-7.0.14-beta.jar",
+        "fileDate": "2021-09-02T05:14:45.693Z",
+        "fileLength": 1624790,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3446/805/rftoolsdim-1.16-7.0.14-beta.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 72914788,
+            "addonId": 245211,
+            "type": 2,
+            "fileId": 3446805
+          },
+          {
+            "id": 72914790,
+            "addonId": 233105,
+            "type": 3,
+            "fileId": 3446805
+          },
+          {
+            "id": 72914787,
+            "addonId": 326041,
+            "type": 3,
+            "fileId": 3446805
+          },
+          {
+            "id": 72914789,
+            "addonId": 270789,
+            "type": 2,
+            "fileId": 3446805
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 400441543,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcjty",
+            "fingerprint": 3997167192,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1840328020,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2184391691,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3671459080,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 535637706,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000005",
+            "gameVersion": "1.16.5",
+            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+            "gameVersionName": "1.16.5"
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Forge"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2484044,
+        "projectId": 240950,
+        "packageFingerprintId": 738063125,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 3273704,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "rftoolsdim-1.16-7.0.14-beta.jar"
+      },
+      "dateInstalled": "2021-09-23T13:02:01.7006431Z",
+      "dateUpdated": "2021-09-23T13:02:01.7006431Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 363820,
