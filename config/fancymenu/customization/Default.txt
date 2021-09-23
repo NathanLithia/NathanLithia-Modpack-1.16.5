@@ -14,21 +14,8 @@ customization {
 }
 
 customization {
-  identifier = %id=502346%
-  action = hidebutton
-}
-
-customization {
-  orientation = mid-centered
-  buttonaction = openlink
-  x = 1
-  width = 98
-  actionid = b7a98384-3940-4101-95a7-45d0792964a71628486640452
-  action = addbutton
-  y = 4
-  label = Website
-  value = https://NathanLithia.github.io/pages/minecraft.html
-  height = 20
+  keepaspectratio = false
+  action = backgroundoptions
 }
 
 customization {
@@ -37,16 +24,8 @@ customization {
 }
 
 customization {
-  identifier = %id=400298%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=400346%
-  orientation = mid-centered
-  x = -99
-  action = movebutton
-  y = 4
+  identifier = %id=400322%
+  action = vanilla_button_visibility_requirements
 }
 
 customization {
@@ -59,8 +38,7 @@ customization {
 
 customization {
   identifier = %id=604382%
-  action = setbuttonlabel
-  value = Accessibility
+  action = vanilla_button_visibility_requirements
 }
 
 customization {
@@ -75,6 +53,11 @@ customization {
   identifier = %id=400382%
   action = setbuttonlabel
   value = Options
+}
+
+customization {
+  identifier = %id=400382%
+  action = vanilla_button_visibility_requirements
 }
 
 customization {
@@ -94,8 +77,7 @@ customization {
 
 customization {
   identifier = %id=502382%
-  action = setbuttonlabel
-  value = Quit Game
+  action = vanilla_button_visibility_requirements
 }
 
 customization {
@@ -107,10 +89,65 @@ customization {
 }
 
 customization {
+  identifier = %id=376382%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400298%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400346%
   orientation = mid-centered
+  x = -99
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=400346%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 1
+  width = 98
+  actionid = b7a98384-3940-4101-95a7-45d0792964a71628486640452
+  action = addbutton
+  y = 4
+  label = Website
+  value = https://NathanLithia.github.io/pages/minecraft.html
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
   buttonaction = joinserver
   x = -121
-  width = 120
+  width = 242
   actionid = 0043e038-b431-4142-9d7c-f903d9c425be1628486640461
   action = addbutton
   y = -18
@@ -121,19 +158,8 @@ customization {
 
 customization {
   orientation = mid-centered
-  buttonaction = loadworld
-  x = 1
-  width = 120
-  actionid = 7c70eb35-5fa0-465d-8333-0979457983ae1628486640470
-  action = addbutton
-  y = -18
-  label = Singleplayer Server
-  value = Overworld
-  height = 20
-}
-
-customization {
-  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
   buttonaction = opencustomgui
   x = 1
   width = 98
@@ -143,5 +169,10 @@ customization {
   label = Debug
   value = debug
   height = 20
+}
+
+customization {
+  identifier = %id=0%
+  action = vanilla_button_visibility_requirements
 }
 
