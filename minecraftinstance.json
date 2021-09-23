@@ -47,8 +47,8 @@
   "name": "NathanLithia's Realm 1.16.5",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-09-08T11:43:21.9939881Z",
-  "lastRefreshAttempt": "2021-09-08T21:13:22.0179893+09:30",
+  "lastPreviousMatchUpdate": "2021-09-23T13:02:06.2226431Z",
+  "lastRefreshAttempt": "2021-09-23T22:32:07.5996306+09:30",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -549,24 +549,6 @@
       "dateInstalled": "2021-04-02T12:52:46.3024596Z",
       "dateUpdated": "2021-08-17T15:10:53.5904852Z",
       "dateLastUpdateAttempted": "2021-08-17T15:10:53.5904852Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 398784,
-      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
-      "installedFile": null,
-      "dateInstalled": "2021-04-09T02:07:41.5329153Z",
-      "dateUpdated": "2021-07-22T07:26:55.3734956Z",
-      "dateLastUpdateAttempted": "2021-07-22T07:26:55.3734956Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -4054,7 +4036,7 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ColdSweat-r1.3.5.jar"
+        "FileNameOnDisk": "ColdSweat-r1.3.5.jar.disabled"
       },
       "dateInstalled": "2021-08-29T06:56:39.0829324Z",
       "dateUpdated": "2021-08-29T06:56:39.0849342Z",
@@ -4063,7 +4045,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6378,60 +6360,7 @@
     {
       "addonID": 399090,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
-      "installedFile": {
-        "id": 3243305,
-        "displayName": "Scuba Gear 1.16.5-v1.0.3",
-        "fileName": "scuba-gear-1.16.5-1.0.3.jar",
-        "fileDate": "2021-03-18T00:46:42.5Z",
-        "fileLength": 49110,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3243/305/scuba-gear-1.16.5-1.0.3.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2669131693,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3534655606,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 4253522632,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3719212113,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2510305140,
-        "gameVersion": [
-          "1.16.5"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "scuba-gear-1.16.5-1.0.3.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-03-23T21:46:54.0941364Z",
       "dateUpdated": "2021-03-23T21:46:54.0951379Z",
       "dateLastUpdateAttempted": "2021-03-23T21:46:54.0951379Z",
