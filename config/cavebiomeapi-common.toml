@@ -3,4 +3,5 @@
 
 	[worldgen.experimental]
 		"Generate Small Noise Caves" = false
+		"Generate Underwater Caves" = false
 

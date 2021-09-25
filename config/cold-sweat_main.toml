@@ -1,0 +1,54 @@
+
+["Item settings"]
+	#Fire Resistance blocks all hot temperatures
+	"Fire Resistance Immunity" = true
+	#Ice Resistance blocks all cold temperatures
+	"Ice Resistance Immunity" = true
+	#Thermometer item is required to see ambient temperature
+	"Require Thermometer" = true
+
+["Position of the 'Steve Head' temperature gauge above the hotbar"]
+	#The x position of the gauge relative to its normal position
+	#Range: > 0
+	"Steve Head X Offset" = 0
+	#The y position of the gauge relative to its normal position
+	#Range: > 0
+	"Steve Head Y Offset" = 0
+
+["Position of the actual number temperature gauge above the hotbar"]
+	#The x position of the temperature gauge relative to default
+	#Range: > 0
+	"Temp Gauge X Offset" = 0
+	#The y position of the temperature gauge relative to default
+	#Range: > 0
+	"Temp Gauge Y Offset" = 0
+
+["UI Options"]
+	"Custom hotbar layout" = true
+	#Controls whether the temperature icon shakes when in critical condition
+	"Icon Bobbing" = true
+
+["Misc things that are affected by temperature"]
+	#Sets whether animals are affected by temperature
+	"Animals Have Temperature" = true
+	#Sets whether damage scales with difficulty
+	"Damage Scaling" = true
+
+["Details about how the player is affected by temperature"]
+	#Minimum habitable temperature (default: 0.25, on a scale of 0 - 2)
+	#Range: 0.0 ~ Infinity
+	"Minimum Habitable Temperature" = 0.25
+	#Maximum habitable temperature (default: 1.75, on a scale of 0 - 2)
+	#Range: 0.0 ~ Infinity
+	"Maximum Habitable Temperature" = 1.75
+	#Rate at which the player's body temperature changes (default: 1.0 (100%))
+	#Range: 0.0 ~ Infinity
+	"Rate Multiplier" = 1.0
+
+["Temperature display preferences"]
+	#Sets all temperatures to be displayed in Celsius
+	Celsius = false
+	#(Visually) offsets the temperature for personalization (default: 0, so a Plains biome is 75 °F or 21 °C)
+	#Range: > 0
+	"Temperature Offset" = 0
+
