@@ -33,7 +33,7 @@
 	[general.nests]
 		#How many nests, on average, should appear when generated (0 = disabled; 1 = few; 100+ = many)
 		#Range: > 0
-		nestGenRate = 24
+		nestGenRate = 1
 		#A list of biomes that nests are not able to generate in
 		blacklistedNestGenBiomes = []
 		#A list of dimensions that nests are not able to generate in
