@@ -30,7 +30,7 @@
 
 ["Misc things that are affected by temperature"]
 	#Sets whether animals are affected by temperature
-	"Animals Have Temperature" = true
+	"Animals Have Temperature" = false
 	#Sets whether damage scales with difficulty
 	"Damage Scaling" = true
 
