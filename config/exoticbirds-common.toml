@@ -24,7 +24,7 @@
 
 	[general.spawning]
 		#A list of biomes that no birds are able to spawn in
-		blacklistedSpawningBiomes = []
+		blacklistedSpawningBiomes = ["terraforged:frozen_lake", "minecraft:lukewarm_ocean", "biomesoplenty:coniferous_lakes", "minecraft:river", "terraforged:lake", "terraforged:warm_beach", "minecraft:beach", "minecraft:lukewarm_ocean", "minecraft:deep_likewarm_ocean", "minecraft:deep_ocean", "minecraft:deep_cold_ocean", "minecraft:cold_ocean"]
 		#A list of dimensions that no birds are able to spawn in
 		blacklistedSpawningDimensions = []
 		#Allow non-tamed birds to naturally despawn
