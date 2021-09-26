@@ -411,10 +411,10 @@
 		"Spawn Gorgons" = true
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Gorgon Chance" = 75
+		"Spawn Gorgon Chance" = 150
 		#Maximum gorgon health
 		#Range: 1.0 ~ 10000.0
-		"Gorgon Max Health" = 100.0
+		"Gorgon Max Health" = 300.0
 
 [Items]
 	#Default attack strength of a dragonsteel sword.
