@@ -53,7 +53,7 @@ dotNameScale:1.0
 compassOverWaypoints:false
 showBiome:false
 showEntityHeight:true
-showFlowers:true
+showFlowers:false
 keepWaypointNames:true
 waypointsDistanceExp:0
 waypointsDistanceMin:0.0
