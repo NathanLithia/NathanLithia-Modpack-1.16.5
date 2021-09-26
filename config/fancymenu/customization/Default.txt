@@ -151,7 +151,7 @@ customization {
   actionid = 0043e038-b431-4142-9d7c-f903d9c425be1628486640461
   action = addbutton
   y = -18
-  label = Dedicated Server
+  label = Dedicated Server %serverstatus:<thecloudserver.duckdns.org:25565>%
   value = thecloudserver.duckdns.org:25565
   height = 20
 }
@@ -161,12 +161,28 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = opencustomgui
-  x = 1
-  width = 98
+  x = 51
+  width = 48
   actionid = 6c0a94af-2f88-4e9d-8638-b1440ff9d89c1628486640479
   action = addbutton
   y = 26
-  label = Debug
+  label = %realtimehour%:%realtimeminute%
+  value = debug
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = opencustomgui
+  label = §dUpdate
+  loopbackgroundanimations = true
+  hoverlabel = §bUpdate
+  x = 1
+  width = 48
+  actionid = 6c0a94af-2f88-4e9d-8638-b1440ff9d89c1628486640479
+  action = addbutton
+  y = 26
   value = debug
   height = 20
 }
