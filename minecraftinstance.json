@@ -8897,6 +8897,110 @@
       "installedTargets": null
     },
     {
+      "addonID": 441706,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3489595,
+        "displayName": "cavebiomeapi-1.16.5-1.4.0.jar",
+        "fileName": "cavebiomeapi-1.16.5-1.4.0.jar",
+        "fileDate": "2021-10-13T03:21:57.287Z",
+        "fileLength": 147192,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3489/595/cavebiomeapi-1.16.5-1.4.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 612172107,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3036541293,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cavebiomeapi.mixins.json",
+            "fingerprint": 1658689820,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 974619954,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 665431607,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cavebiomeapi.refmap.json",
+            "fingerprint": 511300136,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 680990537,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000005",
+            "gameVersion": "1.16.5",
+            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+            "gameVersionName": "1.16.5",
+            "gameVersionTypeId": 70886
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Forge",
+            "gameVersionTypeId": 68441
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2538282,
+        "projectId": 441706,
+        "packageFingerprintId": 761463236,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 3378315,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "cavebiomeapi-1.16.5-1.4.0.jar"
+      },
+      "dateInstalled": "2021-10-18T17:18:30.7461826Z",
+      "dateUpdated": "2021-10-18T17:18:30.7481355Z",
+      "dateLastUpdateAttempted": "2021-10-18T17:18:30.7481355Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 306549,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
@@ -22465,6 +22569,161 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 392060,
+      "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
+      "installedFile": {
+        "id": 3492112,
+        "displayName": "[Forge 1.16.5] v6.0.295-alpha",
+        "fileName": "RoughlyEnoughItems-6.0.295-alpha.jar",
+        "fileDate": "2021-10-15T19:30:14.19Z",
+        "fileLength": 1473408,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3492/112/RoughlyEnoughItems-6.0.295-alpha.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 75892545,
+            "addonId": 521393,
+            "type": 3,
+            "fileId": 3492112
+          },
+          {
+            "id": 75892547,
+            "addonId": 348521,
+            "type": 3,
+            "fileId": 3492112
+          },
+          {
+            "id": 75892546,
+            "addonId": 419699,
+            "type": 3,
+            "fileId": 3492112
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3884849555,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2785797309,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 2700270864,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1583793709,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 1972081312,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 1190942837,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 1886290626,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_RoughlyEnoughItems_api_557690609e094a9aaeb7de68b467a037_a9e8a79e0a8b3fb4c3aed82991b3bdc881c7684a23e5c1e94cb60f3c630b4908RoughlyEnoughItemsapi60295alphadevjar",
+            "fingerprint": 1329995647,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_RoughlyEnoughItems_runtime_573ea5141f6d4767b8fdd647d1e61ea2_2415fb0819985432cbec1105898383b87eadcfb87d4a4bf3249be4d097b8ef81RoughlyEnoughItemsruntime60295alphadevjar",
+            "fingerprint": 719200237,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_RoughlyEnoughItems_defaultplugin_8a01167565d34716a662dcf510a7a3e0_ea7fcbfcdb253143484da7d80c755b7acffef3db0b37599644bea4ec5443a1a0RoughlyEnoughItemsdefaultplugin60295alphadevjar",
+            "fingerprint": 1887761685,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2205786105,
+        "gameVersion": [
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000005",
+            "gameVersion": "1.16.5",
+            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+            "gameVersionName": "1.16.5",
+            "gameVersionTypeId": 70886
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Forge",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000004",
+            "gameVersion": "1.16.4",
+            "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+            "gameVersionName": "1.16.4",
+            "gameVersionTypeId": 70886
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2541520,
+        "projectId": 392060,
+        "packageFingerprintId": 763055752,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 3384658,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "RoughlyEnoughItems-6.0.295-alpha.jar"
+      },
+      "dateInstalled": "2021-10-18T17:19:08.2854153Z",
+      "dateUpdated": "2021-10-18T17:19:08.2883454Z",
+      "dateLastUpdateAttempted": "2021-10-18T17:19:08.2883454Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     }
   ],
   "isMigrated": false,
