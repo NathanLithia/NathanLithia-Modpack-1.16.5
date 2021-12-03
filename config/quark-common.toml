@@ -416,7 +416,7 @@
 
 	[tweaks.utility_recipes]
 		#Can you craft four chests at once using logs?
-		"Logs To Chests" = true
+		"Logs To Chests" = false
 		#Can other stone-like materials be used for crafting stone tools?
 		"Better Stone Tool Crafting" = true
 		#Can cookies, paper, and bread be crafted in a 2x2 crafting table?
@@ -1888,7 +1888,7 @@
 	"Improved Tooltips" = true
 	"Improved Mount Hud" = true
 	"Usage Ticker" = true
-	"Chest Searching" = true
+	"Chest Searching" = false
 	"Auto Walk Keybind" = true
 
 	[client.usage_ticker]
@@ -2061,9 +2061,9 @@
 		#Resets all villager discounts when zombified to prevent reducing prices to ridiculous levels
 		"Nerf Villager Discount" = true
 		#Makes Iron Golems not drop Iron Ingots
-		"Disable Iron Farms" = true
+		"Disable Iron Farms" = false
 		#Makes Boats not glide on ice
-		"Disable Ice Roads" = true
+		"Disable Ice Roads" = false
 		#Makes Sheep not drop Wool when killed
 		"Disable Wool Drops" = true
 
