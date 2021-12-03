@@ -32,7 +32,7 @@
 	#Sets whether animals are affected by temperature
 	"Animals Have Temperature" = false
 	#Sets whether damage scales with difficulty
-	"Damage Scaling" = true
+	"Damage Scaling" = false
 
 ["Details about how the player is affected by temperature"]
 	#Minimum habitable temperature (default: 0.25, on a scale of 0 - 2)
