@@ -5,7 +5,7 @@
 [Dimensions]
 
 	[Dimensions.DimensionTemperatureOffset]
-		"Dimension Temperature Offsets" = [["minecraft:the_nether", "0.6"], ["minecraft:the_end", "-0.2"]]
+		"Dimension Temperature Offsets" = [["minecraft:the_nether", "0.3"], ["minecraft:the_end", "-0.3"]]
 
 	[Dimensions.DimensionTemperatures]
 		#Override their respective offset values
@@ -17,7 +17,7 @@
 [Biomes]
 
 	[Biomes.BiomeTemperatureOffsets]
-		"Biome Temperature Offsets" = [["minecraft:soul_sand_valley", "-0.5"]]
+		"Biome Temperature Offsets" = [["minecraft:soul_sand_valley", "-0.3"]]
 
 	[Biomes.BiomeTemperatures]
 		#Temperatures for individual biomes
