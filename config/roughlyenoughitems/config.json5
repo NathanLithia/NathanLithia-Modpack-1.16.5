@@ -55,6 +55,7 @@
 	},
 	"advanced": {
 		"filtering": {
+			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{rule:{},id:\"roughlyenoughitems:manual\"}"
 			],
@@ -72,8 +73,12 @@
 			"entryPanelOrdering": "REGISTRY_ASCENDING",
 			// Declares the maximum amount of recipes displayed in a page if possible.
 			"maxRecipesPerPage": 15,
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPageHeight": 300,
 			// Declares whether entry rendering time should be debugged.
-			"debugRenderTimeRequired": false
+			"debugRenderTimeRequired": false,
+			// Merges displays with equal contents under 1 display.
+			"mergeDisplayUnderOne": true
 		},
 		"accessibility": {
 			"entrySize": 1.0,
@@ -132,6 +137,10 @@
 		"scrollingEntryListWidget": false,
 		"horizontalEntriesBoundaries": 1.0,
 		"verticalEntriesBoundaries": 0.9,
+		"horizontalEntriesBoundariesColumns": 50,
+		"verticalEntriesBoundariesRows": 1000,
+		"favoritesHorizontalEntriesBoundaries": 1.0,
+		"favoritesHorizontalEntriesBoundariesColumns": 50,
 		"syntaxHighlightingMode": "COLORFUL"
 	},
 	"functionality": {

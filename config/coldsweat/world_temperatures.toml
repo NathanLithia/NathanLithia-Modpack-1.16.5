@@ -1,0 +1,25 @@
+
+#Notation: [["dimension1", "temperature1"], ["dimension2", "temperature2"]... etc]
+#Common dimension IDs: minecraft:overworld, minecraft:the_nether, minecraft:the_end
+#Note: all temperatures are in Minecraft units
+[Dimensions]
+
+	[Dimensions.DimensionTemperatureOffset]
+		"Dimension Temperature Offsets" = [["minecraft:the_nether", "0.6"], ["minecraft:the_end", "-0.2"]]
+
+	[Dimensions.DimensionTemperatures]
+		#Override their respective offset values
+		#Also override ALL biome temperatures
+		"Dimension Temperatures" = []
+
+#Notation: [["biome1", "temperature1"], ["biome2", "temperature2"]... etc]
+#Note: all temperatures are in Minecraft units
+[Biomes]
+
+	[Biomes.BiomeTemperatureOffsets]
+		"Biome Temperature Offsets" = [["minecraft:soul_sand_valley", "-0.5"]]
+
+	[Biomes.BiomeTemperatures]
+		#Temperatures for individual biomes
+		"Biome Temperatures" = []
+

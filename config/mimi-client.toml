@@ -9,9 +9,10 @@
 	playlistFolderPath = ""
 
 ["MIDI Input"]
-	#What MIDI Input Device ID should be used by default (if available)? Set to -1 to have no default selection.
-	#Range: -1 ~ 99
-	defaultMidiInputDevice = -1
+	#What MIDI Input Device should be used (if available)? This can be set from the in-game MIDI Input Device Configuration menu. Changes require a game restart to take affect.
+	defaultMidiInputDevice = ""
+	#Should MIMI include detailed logs tracking MIDI note input and output?
+	enableMidiLogs = false
 
 ["MIDI Synth"]
 	#Should the built-in midi synthesizer enable Jitter Correction? When enabled note timing will be more accurate but latency will increase.
@@ -27,4 +28,6 @@
 	synthBitRate = 16
 	#Optional full path to an SF2 or DLS format SoundFont to be used by the MIDI Synthesizer. See project page for more information.
 	soundfontPath = ""
+	#Should MIDI notes that are played take into account any blocks between you and the source and muffle the sound accordingly? Note that enabling this may impact performance on lower-end systems.
+	rayTraceSound = false
 

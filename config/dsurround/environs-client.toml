@@ -43,6 +43,9 @@
 	#The render style of water ripples
 	#Allowed Values: CIRCLE, DARK_CIRCLE, DARK_SQUARE, PIXELATED_CIRCLE
 	"Water Ripple Style" = "PIXELATED_CIRCLE"
+	#Limit sounds to waterfall strengths above this value
+	#Range: 0 ~ 10
+	"Waterfall Strength Cutoff" = 0
 
 #Options that control the various fog effects in the client
 ["Fog Options"]
@@ -52,15 +55,15 @@
 	"Weather Fog" = true
 	#Increase fog at bedrock layers
 	"Bedrock Fog" = true
-	#Chance morning fog will occurs expressed as 1 in N
-	#Range: > 0
-	"Morning Fog Chance" = 1
 	#Show morning fog that eventually burns off
 	"Morning Fog" = true
 	#Higher the player elevation the more haze that is experienced
 	"Elevation Haze" = true
 	#Enable biome specific fog density and color
 	"Biome Fog" = true
+	#Percentage chance morning fog will occur
+	#Range: 1 ~ 100
+	"Morning Fog Chance Percentage" = 80
 
 #Options for defining sound behavior
 ["Sound Options"]
