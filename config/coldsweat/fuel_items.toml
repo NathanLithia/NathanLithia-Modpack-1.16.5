@@ -2,18 +2,18 @@
 [BoilerFuelItems]
 	#Defines the items that the Boiler can use as fuel and their values
 	#Format: [[item-id-1, fuel-amount-1], [item-id-2, fuel-amount-2], ...etc]
-	Boiler = [["minecraft:coal", "37"], ["minecraft:charcoal", "37"], ["minecraft:coal_block", "333"], ["minecraft:magma_block", "333"], ["minecraft:lava_bucket", "1000"]]
+	Boiler = [["minecraft:coal", "37"], ["minecraft:charcoal", "37"], ["minecraft:coal_block", "333"], ["minecraft:magma_block", "333"], ["minecraft:lava_bucket", "1000"], ["immersiveengineering:coal_coke", "333"], ["immersiveengineering:coke", "2997"]]
 
 [IceboxFuelItems]
 	#Defines the items that the Ice Box can use as fuel and their values
 	#Format: [[item-id-1, fuel-amount-1], [item-id-2, fuel-amount-2], ...etc]
-	Icebox = [["minecraft:snowball", "37"], ["minecraft:clay", "37"], ["minecraft:snow_block", "333"], ["minecraft:water_bucket", "333"], ["minecraft:ice", "333"], ["minecraft:packed_ice", "1000"]]
+	Icebox = [["minecraft:snowball", "37"], ["minecraft:clay", "37"], ["minecraft:snow_block", "333"], ["minecraft:water_bucket", "333"], ["minecraft:ice", "333"], ["minecraft:packed_ice", "1000"], ["minecraft:blue_ice", "333"], ["betterendforge:emerald_ice", "333"], ["betterendforge:dense_emerald_ice", "666"], ["betterendforge:ancient_emerald_ice", "1000"], ["iceandfire:frozen_dirt", "37"], ["iceandfire:frozen_grass", "37"], ["iceandfire:frozen_stone", "37"], ["iceandfire:frozen_cobblestone", "37"], ["iceandfire:frozen_gravel", "37"], ["iceandfire:frozen_grass_path", "37"], ["iceandfire:frozen_splinters", "37"]]
 
 [HearthFuelItems]
 	#Defines the items that the Hearth can use as fuel and their values
 	#Format: [[item-id-1, fuel-amount-1], [item-id-2, fuel-amount-2], ...etc]
 	#(cold items are a negative number)
-	Hearth = [["minecraft:coal", "37"], ["minecraft:charcoal", "37"], ["minecraft:coal_block", "333"], ["minecraft:magma_block", "333"], ["minecraft:lava_bucket", "1000"], ["minecraft:snowball", "-37"], ["minecraft:clay", "-37"], ["minecraft:snow_block", "-333"], ["minecraft:water_bucket", "-333"], ["minecraft:ice", "-333"], ["minecraft:packed_ice", "-1000"]]
+	Hearth = [["minecraft:coal", "37"], ["minecraft:charcoal", "37"], ["minecraft:coal_block", "333"], ["minecraft:magma_block", "333"], ["minecraft:lava_bucket", "1000"], ["minecraft:snowball", "-37"], ["minecraft:clay", "-37"], ["minecraft:snow_block", "-333"], ["minecraft:water_bucket", "-333"], ["minecraft:ice", "-333"], ["minecraft:packed_ice", "-1000"], ["immersiveengineering:coal_coke", "333"], ["immersiveengineering:coke", "2997"]]
 
 [InsulatingItems]
 	#Defines the items that can be used for insulating armor in the Sewing Table
