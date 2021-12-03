@@ -54,6 +54,100 @@
 		#If enabled, nodes drop themselves, otherwise they drop nothing
 		nodesDrop = false
 
+		# 
+		[machines.extractor.nodes]
+
+			# 
+			[machines.extractor.nodes.lapisNode]
+				#Which block a node is replaced by once it is drained, set to `minecraft:air` to remove the block instead
+				blockReplace = "minecraft:dirt"
+				# 
+				#Whether or not this node is infinite
+				#[@cui:RequiresReload:server]
+				isInfinite = true
+				# 
+				#How many ore pieces can be extracted. Ignored if is infinite
+				#Range: > 1
+				count = 5
+				# 
+				#Whether or not to randomize the amount of ore to remove each time it is extracted
+				randomizeDamage = false
+
+			[machines.extractor.nodes.ironNode]
+				#Which block a node is replaced by once it is drained, set to `minecraft:air` to remove the block instead
+				blockReplace = "minecraft:dirt"
+				# 
+				#Whether or not this node is infinite
+				#[@cui:RequiresReload:server]
+				isInfinite = true
+				# 
+				#How many ore pieces can be extracted. Ignored if is infinite
+				#Range: > 1
+				count = 4
+				# 
+				#Whether or not to randomize the amount of ore to remove each time it is extracted
+				randomizeDamage = false
+
+			[machines.extractor.nodes.zincNode]
+				#Which block a node is replaced by once it is drained, set to `minecraft:air` to remove the block instead
+				blockReplace = "minecraft:dirt"
+				# 
+				#Whether or not this node is infinite
+				#[@cui:RequiresReload:server]
+				isInfinite = true
+				# 
+				#How many ore pieces can be extracted. Ignored if is infinite
+				#Range: > 1
+				count = 3
+				# 
+				#Whether or not to randomize the amount of ore to remove each time it is extracted
+				randomizeDamage = false
+
+			[machines.extractor.nodes.goldNode]
+				#Which block a node is replaced by once it is drained, set to `minecraft:air` to remove the block instead
+				blockReplace = "minecraft:dirt"
+				# 
+				#Whether or not this node is infinite
+				#[@cui:RequiresReload:server]
+				isInfinite = true
+				# 
+				#How many ore pieces can be extracted. Ignored if is infinite
+				#Range: > 1
+				count = 2
+				# 
+				#Whether or not to randomize the amount of ore to remove each time it is extracted
+				randomizeDamage = false
+
+			[machines.extractor.nodes.copperNode]
+				#Which block a node is replaced by once it is drained, set to `minecraft:air` to remove the block instead
+				blockReplace = "minecraft:dirt"
+				# 
+				#Whether or not this node is infinite
+				#[@cui:RequiresReload:server]
+				isInfinite = true
+				# 
+				#How many ore pieces can be extracted. Ignored if is infinite
+				#Range: > 1
+				count = 1
+				# 
+				#Whether or not to randomize the amount of ore to remove each time it is extracted
+				randomizeDamage = false
+
+			[machines.extractor.nodes.cinderFlourNode]
+				#Which block a node is replaced by once it is drained, set to `minecraft:air` to remove the block instead
+				blockReplace = "minecraft:dirt"
+				# 
+				#Whether or not this node is infinite
+				#[@cui:RequiresReload:server]
+				isInfinite = true
+				# 
+				#How many ore pieces can be extracted. Ignored if is infinite
+				#Range: > 1
+				count = 6
+				# 
+				#Whether or not to randomize the amount of ore to remove each time it is extracted
+				randomizeDamage = false
+
 	# 
 	[machines.stress]
 

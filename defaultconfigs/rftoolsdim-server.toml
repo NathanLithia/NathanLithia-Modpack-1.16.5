@@ -106,3 +106,9 @@
 	#Range: > 1
 	maxBiomeAbsorption = 5000
 
+#Dimension Editor settings
+[dimensioneditor]
+	#Maximum RF storage that the dimension editor can receive per side
+	#Range: > 0
+	generatorMaxRF = 20000
+

@@ -1,3 +1,6 @@
+# FTB Essentials config file
+# If you're a modpack maker, edit defaultconfigs/ftbessentials-server.snbt instead
+
 {
 	# Admin commands for cheating and moderation
 	admin: {
@@ -34,6 +37,12 @@
 	
 	# Miscellaneous features and utilities
 	misc: {
+		# Allows users to access their ender chest, as well as admins to manage other players' ender chests.
+		enderchest: {
+			# Default: true
+			enabled: true
+		}
+		
 		# Allows users to set a custom hat as their head item by using a command
 		hat: {
 			# Default: true
@@ -156,6 +165,12 @@
 		
 		# Allows admins to teleport to the location a user was last seen at
 		tpl: {
+			# Default: true
+			enabled: true
+		}
+		
+		# Allows admins to teleport to dimension
+		tpx: {
 			# Default: true
 			enabled: true
 		}
