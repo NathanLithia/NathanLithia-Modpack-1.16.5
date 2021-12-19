@@ -24,21 +24,11 @@ customization {
 }
 
 customization {
-  identifier = %id=400322%
-  action = vanilla_button_visibility_requirements
-}
-
-customization {
   identifier = %id=604382%
   orientation = mid-centered
   x = 101
   action = movebutton
-  y = 4
-}
-
-customization {
-  identifier = %id=604382%
-  action = vanilla_button_visibility_requirements
+  y = 14
 }
 
 customization {
@@ -46,7 +36,7 @@ customization {
   orientation = mid-centered
   x = -99
   action = movebutton
-  y = 26
+  y = 36
 }
 
 customization {
@@ -56,16 +46,11 @@ customization {
 }
 
 customization {
-  identifier = %id=400382%
-  action = vanilla_button_visibility_requirements
-}
-
-customization {
   identifier = %id=502382%
   orientation = mid-centered
   x = -77
   action = movebutton
-  y = 48
+  y = 58
 }
 
 customization {
@@ -76,31 +61,16 @@ customization {
 }
 
 customization {
-  identifier = %id=502382%
-  action = vanilla_button_visibility_requirements
-}
-
-customization {
   identifier = %id=376382%
   orientation = mid-centered
   x = -121
   action = movebutton
-  y = 4
-}
-
-customization {
-  identifier = %id=376382%
-  action = vanilla_button_visibility_requirements
+  y = 14
 }
 
 customization {
   identifier = %id=400298%
   action = hidebutton
-}
-
-customization {
-  identifier = %id=400298%
-  action = vanilla_button_visibility_requirements
 }
 
 customization {
@@ -108,22 +78,12 @@ customization {
   orientation = mid-centered
   x = -99
   action = movebutton
-  y = 4
-}
-
-customization {
-  identifier = %id=400346%
-  action = vanilla_button_visibility_requirements
+  y = 14
 }
 
 customization {
   identifier = %id=502346%
   action = hidebutton
-}
-
-customization {
-  identifier = %id=502346%
-  action = vanilla_button_visibility_requirements
 }
 
 customization {
@@ -135,7 +95,7 @@ customization {
   width = 98
   actionid = b7a98384-3940-4101-95a7-45d0792964a71628486640452
   action = addbutton
-  y = 4
+  y = 14
   label = Website
   value = https://NathanLithia.github.io/pages/minecraft.html
   height = 20
@@ -145,14 +105,14 @@ customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = joinserver
+  buttonaction = opengui
   x = -121
   width = 242
   actionid = 0043e038-b431-4142-9d7c-f903d9c425be1628486640461
   action = addbutton
-  y = -18
-  label = Dedicated Server %serverstatus:<thecloudserver.duckdns.org:25565>%
-  value = thecloudserver.duckdns.org:25565
+  y = -8
+  label = Singleplayer
+  value = net.minecraft.client.gui.screen.WorldSelectionScreen
   height = 20
 }
 
@@ -165,7 +125,7 @@ customization {
   width = 48
   actionid = 6c0a94af-2f88-4e9d-8638-b1440ff9d89c1628486640479
   action = addbutton
-  y = 26
+  y = 36
   label = %realtimehour%:%realtimeminute%
   value = debug
   height = 20
@@ -182,13 +142,23 @@ customization {
   width = 48
   actionid = 6c0a94af-2f88-4e9d-8638-b1440ff9d89c1628486640479
   action = addbutton
-  y = 26
+  y = 36
   value = debug
   height = 20
 }
 
 customization {
-  identifier = %id=0%
-  action = vanilla_button_visibility_requirements
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  x = -121
+  width = 242
+  actionid = 0043e038-b431-4142-9d7c-f903d9c425be1628486640461
+  action = addbutton
+  y = -30
+  label = Dedicated Server %serverstatus:<thecloudserver.duckdns.org:25566>%
+  value = thecloudserver.duckdns.org:25566
+  height = 20
 }
 
