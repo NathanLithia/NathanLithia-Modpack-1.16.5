@@ -1891,7 +1891,7 @@
       "dateInstalled": "2021-07-26T14:55:48.3626891Z",
       "dateUpdated": "2021-12-26T22:04:43.2941035Z",
       "dateLastUpdateAttempted": "2021-12-26T22:04:43.2941035Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5473,14 +5473,14 @@
       "addonID": 445926,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3520961,
-        "displayName": "Desolation 1.1.0-2 1.16.5",
-        "fileName": "Desolation 1.1.0-2 1.16.5.jar",
-        "fileDate": "2021-11-10T00:44:23.827Z",
-        "fileLength": 1677078,
+        "id": 3586569,
+        "displayName": "Desolation 1.1.1 1.16.5",
+        "fileName": "Desolation 1.0.1 1.16.5.jar",
+        "fileDate": "2021-12-31T05:54:24.013Z",
+        "fileLength": 1698039,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3520/961/Desolation 1.1.0-2 1.16.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3586/569/Desolation 1.0.1 1.16.5.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -5488,25 +5488,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3202001987,
+            "fingerprint": 1723955266,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 1380827156,
+            "fingerprint": 4212470399,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 2572936104,
+            "fingerprint": 2249179127,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 640765916,
+            "fingerprint": 2556085289,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -5517,7 +5517,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2736110356,
+        "packageFingerprint": 2960252982,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -5539,24 +5539,24 @@
           }
         ],
         "hasInstallScript": false,
-        "isCompatibleWithClient": false,
+        "isCompatibleWithClient": true,
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2578009,
+        "renderCacheId": 2657651,
         "projectId": 445926,
-        "packageFingerprintId": 781302569,
+        "packageFingerprintId": 823046204,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3454108,
+        "gameVersionMappingId": 3623031,
         "gameVersionId": 7498,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "Desolation 1.1.0-2 1.16.5.jar"
+        "FileNameOnDisk": "Desolation 1.0.1 1.16.5.jar"
       },
       "dateInstalled": "2021-08-24T11:10:36.6501893Z",
-      "dateUpdated": "2021-11-30T04:58:23.5844596Z",
-      "dateLastUpdateAttempted": "2021-11-30T04:58:23.5844596Z",
-      "status": 5,
+      "dateUpdated": "2021-12-31T11:04:37.8181973Z",
+      "dateLastUpdateAttempted": "2021-12-31T11:04:37.8181973Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10021,14 +10021,14 @@
       "addonID": 361276,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3579434,
-        "displayName": "lootr-1.16.5-0.0.10.32.jar",
-        "fileName": "lootr-1.16.5-0.0.10.32.jar",
-        "fileDate": "2021-12-24T22:40:02.697Z",
-        "fileLength": 235765,
+        "id": 3582870,
+        "displayName": "lootr-1.16.5-0.0.10.34.jar",
+        "fileName": "lootr-1.16.5-0.0.10.34.jar",
+        "fileDate": "2021-12-28T10:09:13.463Z",
+        "fileLength": 238818,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3579/434/lootr-1.16.5-0.0.10.32.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3582/870/lootr-1.16.5-0.0.10.34.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -10036,13 +10036,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2899673645,
+            "fingerprint": 403065487,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "noobanidus",
-            "fingerprint": 3804130969,
+            "fingerprint": 1271869378,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -10077,7 +10077,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3871612986,
+        "packageFingerprint": 2122907166,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -10111,19 +10111,19 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2648727,
+        "renderCacheId": 2653085,
         "projectId": 361276,
-        "packageFingerprintId": 818068138,
+        "packageFingerprintId": 820488390,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 3603239,
+        "gameVersionMappingId": 3612634,
         "gameVersionId": 4458,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "lootr-1.16.5-0.0.10.32.jar"
+        "FileNameOnDisk": "lootr-1.16.5-0.0.10.34.jar"
       },
       "dateInstalled": "2021-07-07T00:01:29.9788457Z",
-      "dateUpdated": "2021-12-25T10:15:39.5367557Z",
-      "dateLastUpdateAttempted": "2021-12-25T10:15:39.5367557Z",
+      "dateUpdated": "2021-12-29T16:19:30.8850315Z",
+      "dateLastUpdateAttempted": "2021-12-29T16:19:30.8850315Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -21214,95 +21214,115 @@
       "addonID": 371813,
       "gameInstanceID": "5dd9e8a8-b255-4b47-a071-b4bd0a3443d9",
       "installedFile": {
-        "id": 3400648,
-        "displayName": "crashutilities-3.12.jar",
-        "fileName": "crashutilities-3.12.jar",
-        "fileDate": "2021-07-25T15:57:59.5Z",
-        "fileLength": 2086298,
+        "id": 3584716,
+        "displayName": "crashutilities-3.13.jar",
+        "fileName": "crashutilities-3.13.jar",
+        "fileDate": "2021-12-29T18:52:08.567Z",
+        "fileLength": 2088969,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3400/648/crashutilities-3.12.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3584/716/crashutilities-3.13.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 0,
-            "addonId": 361579,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
+            "id": 82480068,
             "addonId": 309927,
             "type": 2,
-            "fileId": 0
+            "fileId": 3584716
+          },
+          {
+            "id": 82480069,
+            "addonId": 361579,
+            "type": 2,
+            "fileId": 3584716
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1860537174,
-            "type": 0,
+            "fingerprint": 271233049,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 3544893945,
-            "type": 0,
+            "fingerprint": 231180393,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
             "fingerprint": 2286757105,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 3380797652,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "fr",
             "fingerprint": 4212346115,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "dark",
             "fingerprint": 2280698898,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "mozilla",
             "fingerprint": 1005056399,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2039618924,
+        "packageFingerprint": 2094764994,
         "gameVersion": [
           "1.16.5",
           "Forge"
         ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000005",
+            "gameVersion": "1.16.5",
+            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+            "gameVersionName": "1.16.5",
+            "gameVersionTypeId": 70886
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Forge",
+            "gameVersionTypeId": 68441
+          }
+        ],
         "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2655344,
+        "projectId": 371813,
+        "packageFingerprintId": 821726489,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
+        "gameVersionMappingId": 3617490,
+        "gameVersionId": 7498,
+        "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "crashutilities-3.12.jar"
+        "FileNameOnDisk": "crashutilities-3.13.jar"
       },
       "dateInstalled": "2021-07-15T02:27:55.6349984Z",
-      "dateUpdated": "2021-08-03T15:25:00.8874486Z",
-      "dateLastUpdateAttempted": "2021-08-03T15:25:00.8874486Z",
-      "status": 5,
+      "dateUpdated": "2021-12-31T11:04:27.412809Z",
+      "dateLastUpdateAttempted": "2021-12-31T11:04:27.412809Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
