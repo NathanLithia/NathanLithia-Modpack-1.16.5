@@ -10,7 +10,7 @@
 	bit-bag-stack-size = 512
 	#The amount of changes that are being held in the change track.
 	#Range: 20 ~ 40
-	change-tracker-size = 10
+	change-tracker-size = 20
 
 #Configures the different gameplay style options.
 [style]

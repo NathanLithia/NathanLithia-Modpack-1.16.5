@@ -184,8 +184,6 @@
 			maximum_group_size = 6
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
 			spawn_biomes = ["biomesoplenty:grove_clearing", "biomesoplenty:flower_meadow", "biomesoplenty:golden_prairie", "biomesoplenty:highland", "biomesoplenty:dry_boneyard", "minecraft:badlands_plateau", "biomesoplenty:jade_grassland", "terraforged:savanna_scrub", "biomesoplenty:lush_desert", "minecraft:desert_lakes", "biomesoplenty:tropic_beach", "minecraft:wooded_badlands_plateau", "biomesoplenty:lush_savanna", "biomesoplenty:prairie", "biomesoplenty:shrubland", "minecraft:desert", "terraforged:bryce", "biomesoplenty:dryland", "minecraft:badlands", "biomesoplenty:tundra", "biomesoplenty:tropic_plains", "biomesoplenty:fungal_field", "biomesoplenty:shrubland_hills", "minecraft:plains", "biomesoplenty:mystic_plains", "minecraft:savanna_plateau", "minecraft:savanna", "minecraft:sunflower_plains", "biomesoplenty:lavender_field", "biomesoplenty:orchard", "minecraft:desert_hills"]
-			#Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
-			biome_based_variants = true
 
 			[entities.coyote.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -215,6 +213,8 @@
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
 			spawn_biomes = ["minecraft:badlands", "minecraft:desert_lakes", "biomesoplenty:tropic_beach", "minecraft:wooded_badlands_plateau", "minecraft:desert", "biomesoplenty:dry_boneyard", "minecraft:badlands_plateau", "terraforged:bryce", "biomesoplenty:dryland", "minecraft:desert_hills", "biomesoplenty:lush_desert"]
+			#Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
+			biome_based_variants = true
 
 			[entities.tarantula.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
