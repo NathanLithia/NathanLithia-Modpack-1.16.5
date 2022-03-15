@@ -11,7 +11,7 @@
 	suppressSound = true
 	#Frame rate during GUI screen(Inventory/Menu) is opened.(0:OFF)
 	#Range: 0 ~ 60
-	guiScreenFps = 0
+	guiScreenFps = 60
 	#Enable FPS Reducer features.
 	enableFpsReducer = true
 	#Waiting time(sec) until reducing FPS. (0:OFF)
