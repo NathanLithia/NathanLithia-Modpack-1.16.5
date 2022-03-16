@@ -5,7 +5,7 @@
 	deathPenaltyMin = 0.0
 	#The reduction in percentage applied to all diet groups upon death.
 	#Range: 0.0 ~ 1.0
-	deathPenaltyLoss = 0.5
+	deathPenaltyLoss = 0.3
 	#The method to apply for losses due to death penalties.
 	#AMOUNT = Reduce by a flat percentage amount
 	#PERCENT = Reduce by a percent of the current value
@@ -26,5 +26,5 @@
 
 [management]
 	#Hide diet food group tooltips on food until player has eaten it at least once.
-	hideTooltipsUntilEaten = false
+	hideTooltipsUntilEaten = true
 
