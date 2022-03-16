@@ -14,5 +14,5 @@ maximumLevel = 64
 #List of item and block skill requirements.
 #Format: mod:id skill:level
 #Valid skills: attack, defence/defense, mining, gathering, farming, building, agility, magic
-skillLocks = ["artifacts:eternal_steak magic:99", "artifacts:everlasting_beef magic:99", "stalwart_dungeons:chorundum_armour_helmet magic:999", "stalwart_dungeons:tungsten_helmet magic:999", "artifacts:warted_tungsten_helmet magic:999",]
+skillLocks = ["artifacts:eternal_steak magic:99", "artifacts:everlasting_beef magic:99", "stalwart_dungeons:chorundum_armour_helmet magic:999", "stalwart_dungeons:tungsten_helmet magic:999", "stalwart_dungeons:tungsten_chestplate magic:999", "stalwart_dungeons:tungsten_leggings magic:999", "stalwart_dungeons:tungsten_boots magic:999", "stalwart_dungeons:warted_tungsten_chestplate magic:999", "stalwart_dungeons:warted_tungsten_leggings magic:999", "stalwart_dungeons:warted_tungsten_boots magic:999", "stalwart_dungeons:chorundum_armour_chestplate magic:999", "stalwart_dungeons:chorundum_armour_leggings magic:999", "stalwart_dungeons:chorundum_armour_boots magic:999"]
 
