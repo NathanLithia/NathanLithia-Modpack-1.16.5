@@ -7,16 +7,16 @@
 	render_rarity_color = true
 	#The radius of the Loot Beam.
 	#Range: 0.0 ~ 5.0
-	beam_radius = 1.0
+	beam_radius = 0.5
 	#The height of the Loot Beam.
 	#Range: 0.0 ~ 10.0
-	beam_height = 1.0
+	beam_height = 0
 	#The Y-offset of the loot beam.
 	#Range: -30.0 ~ 30.0
 	beam_y_offset = 0.0
 	#Transparency of the Loot Beam.
 	#Range: 0.0 ~ 1.0
-	beam_alpha = 0.5
+	beam_alpha = 1
 	#How close the player has to be to see the beam. (note: ItemEntities stop rendering at 24 blocks, so that is the limit for beams)
 	#Range: 0.0 ~ 24.0
 	render_distance = 24.0
@@ -26,7 +26,7 @@
 	#Item Config
 	["Loot Beams".Items]
 		#If all Items Loot Beams should be rendered. Has priority over only_equipment and only_rare.
-		all_items = false
+		all_items = true
 		#If Loot Beams should only be rendered on equipment. (Equipment includes: Swords, Tools, Armor, Shields, Bows, Crossbows, Tridents, Arrows, and Fishing Rods)
 		only_equipment = false
 		#Registry names of items that Loot Beams should render on. Example: "minecraft:stone", "minecraft:iron_ingot", You can also specify modids for a whole mod's items.
@@ -57,7 +57,7 @@
 		nametag_background_alpha = 0.5
 		#Scale of the nametag.
 		#Range: -10.0 ~ 10.0
-		nametag_scale = 1.0
+		nametag_scale = 0.8
 		#The Y-offset of the nametag.
 		#Range: -30.0 ~ 30.0
 		nametag_y_offset = 0.75
