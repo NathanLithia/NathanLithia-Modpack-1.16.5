@@ -22,17 +22,17 @@
 			#Range: 0 ~ 4294967295
 			level0_end_color = 4284103197
 			#Range: 0 ~ 4294967295
-			level1_start_color = 4288244002
+			level1_start_color = 4281526473
 			#Range: 0 ~ 4294967295
-			level1_end_color = 4284103197
+			level1_end_color = 4280791192
 			#Range: 0 ~ 4294967295
 			level2_start_color = 4288244002
 			#Range: 0 ~ 4294967295
 			level2_end_color = 4284103197
 			#Range: 0 ~ 4294967295
-			level3_start_color = 4288244002
+			level3_start_color = 4288675840
 			#Range: 0 ~ 4294967295
-			level3_end_color = 4284103197
+			level3_end_color = 4284481536
 			#Range: 0 ~ 4294967295
 			level4_start_color = 4288244002
 			#Range: 0 ~ 4294967295
@@ -96,10 +96,10 @@
 		#   Tooltip text - ^ followed by any text.  Will match any item with this text anywhere in the tooltip text (besides the name).  Examples: "^Legendary"
 		#   NBT tag - & followed by tag name and optional comparator (=, >, <, or !=) and value, in the format <tag><comparator><value> or just <tag>.  Examples: "&Damage=0", "&Tier>1", "&Broken", "&map!=128"
 		[client.custom_borders.definitions]
-			level0_entries = ["!epic", "!rare"]
-			level1_entries = []
-			level2_entries = []
-			level3_entries = []
+			level0_entries = ["!epic", "!rare", "$forge:tools/netherite", "@upgradednetherite", "kubejs:hundred_note", "torchmaster:megatorch"]
+			level1_entries = ["$forge:tools/diamond", "iceandfire:dragonbone_sword_ice", "kubejs:ten_note"]
+			level2_entries = ["$forge:tools/gold", "iceandfire:dragonbone_sword_lightning", "kubejs:fifty_note", "torchmaster:feral_flare_lantern", "computercraft:pocket_computer_advanced", "computercraft:computer_advanced", "computercraft:turtle_advanced", "computercraft:monitor_advanced", "computercraft:wireless_modem_advanced"]
+			level3_entries = ["iceandfire:dragonbone_sword_fire", "kubejs:twenty_note"]
 			level4_entries = []
 			level5_entries = []
 			level6_entries = []
