@@ -446,7 +446,7 @@
 [Pathfinding]
 	#Maximum threads to use for dragon/myrmex pathfinding. Increase this number if pathing is slow and you have many cores.
 	#Range: > 1
-	"Dragon Pathfinding Threads" = 6
+	"Dragon Pathfinding Threads" = 8
 	#Maximum nodes for dragons/myrmex to path too. Decrease this is dragon pathfinding is super slow or intensive.
 	#Range: > 1
 	"Dragon Max Pathfinding Nodes" = 5000
