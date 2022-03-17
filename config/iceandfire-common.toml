@@ -78,12 +78,12 @@
 	[Dragons.Griefing]
 		#Dragon griefing - 2 is no griefing, 1 is breaking weak blocks, 0 is default
 		#Range: 0 ~ 2
-		"Dragon Griefing" = 2
+		"Dragon Griefing" = 1
 		#True if tamed dragons can follow the griefing rules.
 		"Tamed Dragon Griefing" = false
 		#The percentage chance for a block to drop as an item when a dragon breaks it.
 		#Range: 0.0 ~ 1.0
-		"Dragon Block Breaking Drop Chance" = 0.10000000149011612
+		"Dragon Block Breaking Drop Chance" = 1.0
 		#Blocks that a dragon cannot break. Use the format like "minecraft:chest" or "rats:block_of_cheese" 
 		blacklistedBreakBlocks = []
 		#Blocks that a dragon can break, but won't spawn drops for. Use the format like "minecraft:stone" or "rats:block_of_cheese" 
@@ -123,7 +123,7 @@
 	[Dragons.Behaviour]
 		#How high dragons can fly, in Y height.
 		#Range: > 100
-		"Max Dragon Flight Height" = 256
+		"Max Dragon Flight Height" = 512
 		#How far away dragons will detect gold blocks being destroyed or chests being opened
 		#Range: 0 ~ 10000
 		"Dragon Gold Search Length" = 30
@@ -146,7 +146,7 @@
 		"Dragon Target Search Length" = 128
 		#How many blocks away can dragons wander from their defined "home" position.
 		#Range: 1 ~ 10000
-		"Dragon Wander From Home Distance" = 40
+		"Dragon Wander From Home Distance" = 64
 		#Every interval of this number in ticks, dragon hunger decreases.
 		#Range: 1 ~ 10000
 		"Dragon Hunger Tick Rate" = 3000
