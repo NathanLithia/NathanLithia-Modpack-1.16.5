@@ -863,3 +863,7 @@
 		location = "biomesoplenty:rainbow_hills"
 		type = "PURIFIED"
 
+	[[biome_options.biome_water_entries]]
+		location = "minecraft:frozen_river"
+		type = "PURIFIED"
+
