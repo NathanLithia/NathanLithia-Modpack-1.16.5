@@ -5,7 +5,7 @@
 	[[effects.attributes]]
 		name = "minecraft:generic.max_health"
 		operation = "add"
-		amount = 2.0
+		amount = 4.0
 
 	[[effects.conditions]]
 		groups = ["proteins"]
@@ -18,7 +18,7 @@
 	[[effects.attributes]]
 		name = "minecraft:generic.max_health"
 		operation = "add"
-		amount = 2.0
+		amount = 4.0
 
 	[[effects.conditions]]
 		groups = ["fruits"]
@@ -31,7 +31,7 @@
 	[[effects.attributes]]
 		name = "minecraft:generic.max_health"
 		operation = "add"
-		amount = 2.0
+		amount = 4.0
 
 	[[effects.conditions]]
 		groups = ["grains"]
@@ -44,7 +44,7 @@
 	[[effects.attributes]]
 		name = "minecraft:generic.max_health"
 		operation = "add"
-		amount = 2.0
+		amount = 4.0
 
 	[[effects.conditions]]
 		groups = ["vegetables"]
@@ -57,7 +57,7 @@
 	[[effects.attributes]]
 		name = "minecraft:generic.max_health"
 		operation = "add"
-		amount = 2.0
+		amount = 4.0
 
 	[[effects.conditions]]
 		groups = ["sugars"]
