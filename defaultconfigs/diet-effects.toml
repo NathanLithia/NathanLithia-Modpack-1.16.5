@@ -1,67 +1,108 @@
 
 #List of diet effects
-[[effects]]
-
+###############################################################
+[[effects]] # Proteins Target
 	[[effects.attributes]]
 		name = "minecraft:generic.max_health"
 		operation = "add"
 		amount = 4.0
-
+	[[effects.conditions]]
+		groups = ["proteins"]
+		match = "all"
+		above = 0.6
+		below = 0.8
+[[effects]] # Proteins Overshoot
+	[[effects.attributes]]
+		name = "minecraft:generic.max_health"
+		operation = "add"
+		amount = 2.0
 	[[effects.conditions]]
 		groups = ["proteins"]
 		match = "all"
 		above = 0.8
 		below = 1.0
-
-[[effects]]
-
+###############################################################
+[[effects]] # Fruits Target
 	[[effects.attributes]]
 		name = "minecraft:generic.max_health"
 		operation = "add"
 		amount = 4.0
-
+	[[effects.conditions]]
+		groups = ["fruits"]
+		match = "every"
+		above = 0.6
+		below = 0.8
+[[effects]] # Fruits Overshoot
+	[[effects.attributes]]
+		name = "minecraft:generic.max_health"
+		operation = "add"
+		amount = 2.0
 	[[effects.conditions]]
 		groups = ["fruits"]
 		match = "every"
 		above = 0.8
 		below = 1.0
-
+###############################################################
 [[effects]]
-
-	[[effects.attributes]]
+	[[effects.attributes]] # Grains Target
 		name = "minecraft:generic.max_health"
 		operation = "add"
 		amount = 4.0
-
+	[[effects.conditions]]
+		groups = ["grains"]
+		match = "every"
+		above = 0.6
+		below = 0.8
+[[effects]]
+	[[effects.attributes]] # Grains Target
+		name = "minecraft:generic.max_health"
+		operation = "add"
+		amount = 2.0
 	[[effects.conditions]]
 		groups = ["grains"]
 		match = "every"
 		above = 0.8
 		below = 1.0
-
-[[effects]]
-
+###############################################################
+[[effects]] # Vegetables Target
 	[[effects.attributes]]
 		name = "minecraft:generic.max_health"
 		operation = "add"
 		amount = 4.0
-
+	[[effects.conditions]]
+		groups = ["vegetables"]
+		match = "every"
+		above = 0.6
+		below = 0.8
+[[effects]] # Vegetables Overshoot
+	[[effects.attributes]]
+		name = "minecraft:generic.max_health"
+		operation = "add"
+		amount = 2.0
 	[[effects.conditions]]
 		groups = ["vegetables"]
 		match = "every"
 		above = 0.8
 		below = 1.0
-
-[[effects]]
-
+###############################################################
+[[effects]] # Sugars Target
 	[[effects.attributes]]
 		name = "minecraft:generic.max_health"
 		operation = "add"
 		amount = 4.0
-
+	[[effects.conditions]]
+		groups = ["sugars"]
+		match = "all"
+		above = 0.6
+		below = 0.8
+[[effects]] # Sugars Overshoot
+	[[effects.attributes]]
+		name = "minecraft:generic.max_health"
+		operation = "add"
+		amount = 2.0
 	[[effects.conditions]]
 		groups = ["sugars"]
 		match = "all"
 		above = 0.8
 		below = 1.0
-
+###############################################################
