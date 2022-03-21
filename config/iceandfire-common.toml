@@ -53,7 +53,7 @@
 	[Generation.Structures-Features]
 		#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from spawn(0, 0).
 		#Range: 1 ~ 10000
-		"Dangerous World Gen Dist From Spawn" = 5000
+		"Dangerous World Gen Dist From Spawn" = 10000
 		#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from the last generated structure.
 		#Range: 1 ~ 10000
 		"Dangerous World Gen Dist Seperation" = 300
@@ -95,28 +95,28 @@
 		"Dragon Egg Hatch Time" = 7200
 		#Dragon Flap Noise Distance - Larger number, further away you can hear it
 		#Range: 0 ~ 10000
-		"Dragon Flap Noise Distance" = 8
+		"Dragon Flap Noise Distance" = 16
 		#Dragon Flute Distance - how many chunks away is the dragon flute effective?
 		#Range: 0 ~ 10000
 		"Dragon Flute Distance" = 4
 		#Max dragon health. Health is scaled to this
 		#Range: 1.0 ~ 100000.0
-		"Dragon Health" = 2500.0
+		"Dragon Health" = 10000.0
 		#Max dragon attack damage. Attack Damage is scaled to this
 		#Range: 1 ~ 10000
-		"Dragon Attack Damage" = 17
+		"Dragon Attack Damage" = 25
 		#Damage dealt from a successful fire breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Fire breath)" = 2.0
+		"Dragon Attack Damage(Fire breath)" = 4.0
 		#Damage dealt from a successful ice breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Ice breath)" = 2.5
+		"Dragon Attack Damage(Ice breath)" = 5.0
 		#Damage dealt from a successful lightning breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Lightning breath)" = 3.5
+		"Dragon Attack Damage(Lightning breath)" = 7.0
 		#Change this to slow down or speed up dragon or amphithere flight.
 		#Range: 0.0 ~ 2.0
-		"Dragon Flight Speed Modifier" = 1.5
+		"Dragon Flight Speed Modifier" = 3.0
 		#Enable this if your server is being bombarded with moved wrongly or moved too fast console messages. REQUIRES RESTART!
 		"Dragon Moved Wrongly Error Fix" = false
 
@@ -126,7 +126,7 @@
 		"Max Dragon Flight Height" = 512
 		#How far away dragons will detect gold blocks being destroyed or chests being opened
 		#Range: 0 ~ 10000
-		"Dragon Gold Search Length" = 30
+		"Dragon Gold Search Length" = 64
 		#True if dragons can despawn. Note that if this is false there may be SERIOUS lag issues.
 		"Dragons Despawn" = true
 		#True if tamed dragons go to sleep at night.
@@ -143,10 +143,10 @@
 		"Explosive Dragon Breath" = false
 		#How many blocks away can dragons spot potential prey. Note that increasing this could cause lag.
 		#Range: 1 ~ 10000
-		"Dragon Target Search Length" = 128
+		"Dragon Target Search Length" = 256
 		#How many blocks away can dragons wander from their defined "home" position.
 		#Range: 1 ~ 10000
-		"Dragon Wander From Home Distance" = 64
+		"Dragon Wander From Home Distance" = 128
 		#Every interval of this number in ticks, dragon hunger decreases.
 		#Range: 1 ~ 10000
 		"Dragon Hunger Tick Rate" = 3000
