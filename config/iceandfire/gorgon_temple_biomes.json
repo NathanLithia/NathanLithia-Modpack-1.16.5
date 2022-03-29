@@ -31,6 +31,18 @@
         "value": "overworld"
       },
       {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "jungle"
+      }
+    ],
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "overworld"
+      },
+      {
         "type": "BIOME_CATEGORY",
         "negate": true,
         "value": "beach"
