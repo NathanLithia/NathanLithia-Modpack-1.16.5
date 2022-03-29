@@ -35,7 +35,7 @@ biomeBlendRadius:2
 renderClouds:true
 resourcePacks:["vanilla","mod_resources","kubejs:resource_pack","quark:emote_resources"]
 incompatibleResourcePacks:["quark:emote_resources"]
-lastServer:192.168.193.64
+lastServer:127.0.0.1
 lang:en_gb
 chatVisibility:0
 chatOpacity:1.0
