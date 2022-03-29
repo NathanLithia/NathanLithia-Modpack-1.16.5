@@ -8,7 +8,7 @@
       },
       {
         "type": "BIOME_DICT",
-        "negate": false,
+        "negate": true,
         "value": "beach"
       }
     ],
@@ -19,8 +19,20 @@
         "value": "overworld"
       },
       {
-        "type": "BIOME_CATEGORY",
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "terraforged:warm_beach"
+      }
+    ],
+    [
+      {
+        "type": "BIOME_DICT",
         "negate": false,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_CATEGORY",
+        "negate": true,
         "value": "beach"
       }
     ]
