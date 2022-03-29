@@ -47,7 +47,7 @@ advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
-heldItemTooltips:false
+heldItemTooltips:true
 chatHeightFocused:1.0
 chatDelay: 0.0
 chatHeightUnfocused:1.0
