@@ -21,7 +21,7 @@
     "minimal": false,
     "effectivetool.sneakingonly": false,
     "oresonly": false,
-    "currentlyharvestable": true,
+    "currentlyharvestable": false,
     "shearability": false,
     "effectivetool": false,
     "harvestlevelnum": false
