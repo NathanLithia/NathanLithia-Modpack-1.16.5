@@ -8,9 +8,8 @@ events.listen('player.logged_in', function (event) {
     event.addGameStage('starting_items')
     // Give some items to player
     event.player.give('notreepunching:macuahuitl')
-    //event.player.give({ item: 'minecraft:stone_pickaxe', data: 10 })
-    event.player.give({ item: 'firstaid:bandage', count: 16 })
-    event.player.give({ item: 'pamhc2foodextended:vegemiteontoastitem', count: 12 })
-    event.player.give('toughasnails:purified_water_bottle')
+    event.player.give('ftbquests:book')
+    event.player.give({ item: 'pamhc2foodextended:hamandcheesesandwichitem', count: 16 })
+    event.player.give({ item: 'toughasnails:purified_water_bottle', count: 3})
   }
 })
